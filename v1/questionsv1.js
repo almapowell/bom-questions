@@ -1,31 +1,10 @@
 let fs = require("fs");
-let questions = require("./questions.json");
+let questions = require("../questions.json");
 
 let results = "";
 
-let formatter = (question, index) => {
-  if (question.type === "multi") {
-    return {
-      id: index + 1,
-      type: question.type,
-      ref: question.ref,
-      question: question.question,
-      answer: question.answer,
-      options: question.options,
-    };
-  } else {
-    return {
-      id: index + 1,
-      type: question.type,
-      ref: question.ref,
-      question: question.question,
-      answer: question.answer,
-    };
-  }
-};
-
 questions.forEach((q, index) => {
-  if (q.hasOwnProperty("options")) {
+  if (q.type === "multi") {
     if (q.options.length === 0) {
       let questionsStr = q.question.substring(0, q.question.indexOf("(") - 1);
       let optionsStr = q.question.substring(
@@ -36,6 +15,7 @@ questions.forEach((q, index) => {
         q.question.lastIndexOf("("),
         q.question.length - 1
       );
+
       let bareOptions = optionsStr
         .replace("-", "")
         .replace("(a)", "")
@@ -52,6 +32,7 @@ questions.forEach((q, index) => {
             .map((word) => word.charAt(0).toUpperCase() + word.slice(1))
             .join(" ")
         );
+
       // Setting the answer
       if (!answerStr) {
         q.answer = "&&&";
@@ -64,11 +45,13 @@ questions.forEach((q, index) => {
       } else {
         q.answer = "&&&";
       }
+
       q.question = questionsStr.trim();
       q.options = bareOptions;
     }
   }
-  results = results.concat(JSON.stringify(formatter(q, index))).concat(",");
+  q.id = index + 1;
+  results = results.concat(JSON.stringify(q)).concat(",");
 });
 
-fs.writeFile("final-v3.json", results, () => {});
+fs.writeFile("rough-draft-v1.json", results, () => {});

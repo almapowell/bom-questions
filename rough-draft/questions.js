@@ -1,5 +1,5 @@
 let fs = require("fs");
-let questions = require("./questions.json");
+let questions = require("../questions.json");
 
 let results = "";
 

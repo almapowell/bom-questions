@@ -1,7 +1,38 @@
 let fs = require("fs");
-let questions = require("./questions.json");
+let questions = require("../questions.json");
 
 let results = "";
+
+let formatter = (question, index) => {
+  if (question.type === "multi") {
+    return {
+      id: `${index + 1}`,
+      type: question.type,
+      ref: question.ref,
+      question: question.question,
+      answer: question.answer,
+      options: question.options,
+    };
+  } else if (question.type === "bool") {
+    return {
+      id: `${index + 1}`,
+      type: question.type,
+      ref: question.ref,
+      question: question.question,
+      answer: question.answer,
+      options: ["true", "false"],
+    };
+  } else if (question.type === "fill") {
+    return {
+      id: `${index + 1}`,
+      type: question.type,
+      ref: question.ref,
+      question: question.question,
+      answer: question.answer,
+      options: ["fill"],
+    };
+  }
+};
 
 questions.forEach((q, index) => {
   if (q.hasOwnProperty("options")) {
@@ -47,8 +78,7 @@ questions.forEach((q, index) => {
       q.options = bareOptions;
     }
   }
-  q.id = index + 1;
-  results = results.concat(JSON.stringify(q)).concat(",");
+  results = results.concat(JSON.stringify(formatter(q, index))).concat(",");
 });
 
-fs.writeFile("final-v1.json", results, () => {});
+fs.writeFile("version-4.json", results, () => {});

@@ -3047,12 +3047,6 @@
     "ref": "1Nep10:7-11"
   },
   {
-    "type": "fill",
-    "ref": "",
-    "question": "",
-    "answer": ""
-  },
-  {
     "type": "bool",
     "question": "This prophet of the Lord would go forth and cry in the wilderness:”Prepare ye the way of the Lord, and make his paths straight”. ",
     "answer": "T",
@@ -11333,10 +11327,10 @@
   },
   {
     "type": "multi",
-    "question": "The strong and mighty man that went up to the wilderness was_____.  (a) Nephi (b) Zeniff or (c) Zenos-(B) Omni1:28, Mos7:21, Mos9",
+    "question": "The strong and mighty man that went up to the wilderness was_____.  (a) Nephi (b) Zeniff or (c) Zenos-(B)",
     "options": [],
     "answer": "",
-    "ref": "3-4"
+    "ref": "Omni1:28, Mos7:21, Mos9:3-4"
   },
   {
     "type": "bool",
@@ -25152,7 +25146,7 @@
   },
   {
     "type": "multi",
-    "question": "If we are not charitable, Amulek said we are dross, which_____ do cast out, (it being of no worth) and is trodden under the foot of men.  (a) woodsmiths (b) metallurgist or (c) refiners-(C)",
+    "question": "If we are not charitable, Amulek said we are dross, which_____ do cast out, and is trodden under the foot of men.  (a) woodsmiths (b) metallurgist or (c) refiners-(C)",
     "options": [],
     "answer": "",
     "ref": "Alma34:29"

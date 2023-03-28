@@ -1,45 +1,5 @@
 [
   {
-    "id": "1919",
-    "type": "bool",
-    "ref": "Alma37:33",
-    "question": "The word Liahona only appears once in the Book of Mormon.",
-    "answer": ["true"],
-    "options": ["true", "false"]
-  },
-  {
-    "id": "1920",
-    "type": "multi",
-    "ref": "Alma37:38",
-    "question": "The word Liahona appears how many times in the Book of Mormon.",
-    "answer": ["Once"],
-    "options": ["Once", "Twice", "Thrice"]
-  },
-  {
-    "id": "1921",
-    "type": "fill",
-    "ref": "Alma37:38",
-    "question": "In what Book of Mormon book does the word Liahona first appear?",
-    "answer": ["Alma"],
-    "options": ["fill"]
-  },
-  {
-    "id": "1922",
-    "type": "multi",
-    "ref": "Alma37:4",
-    "question": "The Liahona conta1ned_____that pointed the way Lehi and his company should travel.",
-    "answer": ["Spindle"],
-    "options": ["Spindle", "Spindles", "No Spindles"]
-  },
-  {
-    "id": "2568",
-    "type": "bool",
-    "ref": "Alma25:11&Mos17:20",
-    "question": "According to Alma1; Abinidi is considered to be the first prophet in Nephite history to die from fire because of his beliefs and also because of his belief in Jesus Christ.",
-    "answer": ["true"],
-    "options": ["true", "false"]
-  },
-  {
     "id": "2964",
     "type": "multi",
     "ref": "Alma1:1",
@@ -5533,6 +5493,14 @@
     "options": ["true", "false"]
   },
   {
+    "id": "2568",
+    "type": "bool",
+    "ref": "Alma25:11, Mos17:20",
+    "question": "According to Alma1; Abinidi is considered to be the first prophet in Nephite history to die from fire because of his beliefs and also because of his belief in Jesus Christ.",
+    "answer": ["true"],
+    "options": ["true", "false"]
+  },
+  {
     "id": "3663",
     "type": "fill",
     "ref": "Alma25:12",
@@ -9596,6 +9564,14 @@
     "options": ["People", "Generation", "Tribe"]
   },
   {
+    "id": "1922",
+    "type": "multi",
+    "ref": "Alma37:4",
+    "question": "The Liahona conta1ned_____that pointed the way Lehi and his company should travel.",
+    "answer": ["Spindle"],
+    "options": ["Spindle", "Spindles", "No Spindles"]
+  },
+  {
     "id": "4179",
     "type": "fill",
     "ref": "Alma37:4",
@@ -10092,6 +10068,14 @@
     "options": ["fill"]
   },
   {
+    "id": "1919",
+    "type": "bool",
+    "ref": "Alma37:33",
+    "question": "The word Liahona only appears once in the Book of Mormon.",
+    "answer": ["true"],
+    "options": ["true", "false"]
+  },
+  {
     "id": "4244",
     "type": "fill",
     "ref": "Alma37:33",
@@ -10201,6 +10185,22 @@
     "ref": "Alma37:38",
     "question": "According to Alma2, who did he say made or prepared the compass?",
     "answer": ["lord", "god"],
+    "options": ["fill"]
+  },
+  {
+    "id": "1920",
+    "type": "multi",
+    "ref": "Alma37:38",
+    "question": "The word Liahona appears how many times in the Book of Mormon.",
+    "answer": ["Once"],
+    "options": ["Once", "Twice", "Thrice"]
+  },
+  {
+    "id": "1921",
+    "type": "fill",
+    "ref": "Alma37:38",
+    "question": "In what Book of Mormon book does the word Liahona first appear?",
+    "answer": ["Alma"],
     "options": ["fill"]
   },
   {

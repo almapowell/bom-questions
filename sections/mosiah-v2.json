@@ -1,21 +1,5 @@
 [
   {
-    "id": "523",
-    "type": "fill",
-    "ref": "Mos3:8, Alma7:",
-    "question": "What is the name of the Savior's mother?",
-    "answer": ["Mary"],
-    "options": ["fill"]
-  },
-  {
-    "id": "1773",
-    "type": "fill",
-    "ref": "Mos25:2",
-    "question": "Who was Zarahemla?",
-    "answer": ["Mulek"],
-    "options": ["fill"]
-  },
-  {
     "id": "1879",
     "type": "bool",
     "ref": "Mos1:1",
@@ -1062,9 +1046,17 @@
   {
     "id": "2014",
     "type": "fill",
-    "ref": "Mos3:8 & 2nd Nep25:19",
+    "ref": "Mos3:8 & 2Nep25:19",
     "question": "What person in the Book of Mormon: is the second person to refer to the Savior by the name of Jesus Christ?",
     "answer": ["Benjamin"],
+    "options": ["fill"]
+  },
+  {
+    "id": "523",
+    "type": "fill",
+    "ref": "Mos3:8",
+    "question": "What is the name of the Savior's mother?",
+    "answer": ["Mary"],
     "options": ["fill"]
   },
   {
@@ -7034,6 +7026,14 @@
     "question": "There are no such people as Mulekites ever mentioned in the Book of Mormon.",
     "answer": ["true"],
     "options": ["true", "false"]
+  },
+  {
+    "id": "1773",
+    "type": "fill",
+    "ref": "Mos25:2",
+    "question": "Who was Zarahemla?",
+    "answer": ["Mulek"],
+    "options": ["fill"]
   },
   {
     "id": "2769",

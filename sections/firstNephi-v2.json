@@ -1,13 +1,5 @@
 [
   {
-    "id": "147",
-    "type": "fill",
-    "ref": "1Nep10:4",
-    "question": "A prophet would the Lord God raise up among the Jews-even a _____, or, in other words, a Savior of the world.",
-    "answer": ["Messiah"],
-    "options": ["fill"]
-  },
-  {
     "id": "149",
     "type": "multi",
     "ref": "1Nep1:1",
@@ -2660,6 +2652,14 @@
     "ref": "1Nep10:4",
     "question": "The Lord God would rise up a _____ 600 years after Lehi left Jerusalem.-Messiah",
     "answer": ["Savior"],
+    "options": ["fill"]
+  },
+  {
+    "id": "147",
+    "type": "fill",
+    "ref": "1Nep10:4",
+    "question": "A prophet would the Lord God raise up among the Jews-even a _____, or, in other words, a Savior of the world.",
+    "answer": ["Messiah"],
     "options": ["fill"]
   },
   {

@@ -4,7 +4,7 @@
     "type": "bool",
     "ref": "Ether 15:11",
     "question": "The hill Cumorah was referred as the hill Ramah by the Jaredites.",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -12,7 +12,7 @@
     "type": "bool",
     "ref": "Mor 1:3, 4:23",
     "question": "The hill Cumorah was referred as the hill Shim by the Nephites.",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -20,7 +20,7 @@
     "type": "fill",
     "ref": "Look at Book of Mormon",
     "question": "In what beautiful state, is the hill Cumorah located.",
-    "answer": "New York",
+    "answer": ["New York"],
     "options": ["fill"]
   },
   {
@@ -28,7 +28,7 @@
     "type": "fill",
     "ref": "Ask someone that knows",
     "question": "What is the name of cont1nent in which the book was deposited and in which we in the united states live?",
-    "answer": "North America",
+    "answer": ["North America"],
     "options": ["fill"]
   },
   {
@@ -36,7 +36,7 @@
     "type": "bool",
     "ref": "No ref because they are not.",
     "question": "The Urim and Thummim are mentioned by name in the text of Book of Mormon?",
-    "answer": "false",
+    "answer": ["false"],
     "options": ["true", "false"]
   },
   {
@@ -44,7 +44,7 @@
     "type": "fill",
     "ref": "Look at Book of Mormon",
     "question": "What is the name of the artist who painted most of the Book of Mormon paintings?",
-    "answer": ["Arnold", "Friberg"],
+    "answer": [["Arnold", "Friberg"]],
     "options": ["fill"]
   },
   {
@@ -52,7 +52,7 @@
     "type": "multi",
     "ref": "Testimony of Three Witnesses",
     "question": "Who were the Three Witnesses of the Book of Mormon.",
-    "answer": "Oliver Cowdery, David Whitmer and Martin Harris",
+    "answer": ["Oliver Cowdery, David Whitmer and Martin Harris"],
     "options": [
       "Oliver Cowdery, David Whitmer and Lorenzo Snow",
       "Joseph Smith Sr, Brigham Young and Nephi",
@@ -64,7 +64,7 @@
     "type": "bool",
     "ref": "Testimony of the Eight Witnesses",
     "question": "In the testimony of the Eight Witnesses, they describe the plates of having the appearance of ancient work, and of curious workmanship.",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -72,7 +72,7 @@
     "type": "bool",
     "ref": "Testimony of the Eight Witnesses",
     "question": "In the testimony of the Eight Witnesses, they state that they gave their names to the world, to witness unto the world that, that they handled the plates with their hands and saw the engraving thereon.",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -80,7 +80,7 @@
     "type": "fill",
     "ref": "Testimony of the Eight Witnesses",
     "question": "The Eight Witnesses state that they “lie not” and bear witness unto whom?",
-    "answer": "god",
+    "answer": ["god"],
     "options": ["fill"]
   },
   {
@@ -88,7 +88,7 @@
     "type": "fill",
     "ref": "Book of Mormon",
     "question": "What is the title of the first book in the Book of Mormon?",
-    "answer": "Nephi",
+    "answer": ["Nephi"],
     "options": ["fill"]
   },
   {
@@ -96,7 +96,7 @@
     "type": "fill",
     "ref": "Book of Mormon",
     "question": "What is the title of the last book in the Book of Mormon?",
-    "answer": "Moroni",
+    "answer": ["Moroni"],
     "options": ["fill"]
   },
   {
@@ -104,7 +104,7 @@
     "type": "bool",
     "ref": "Book of Mormon",
     "question": "The longest book in the Book of Mormon is the Book of Mosiah?",
-    "answer": "false",
+    "answer": ["false"],
     "options": ["true", "false"]
   },
   {
@@ -112,7 +112,7 @@
     "type": "fill",
     "ref": "Book of Mormon",
     "question": "What is the longest book in the Book of Mormon",
-    "answer": "Alma",
+    "answer": ["Alma"],
     "options": ["fill"]
   },
   {
@@ -120,7 +120,7 @@
     "type": "fill",
     "ref": "Book of Mormon",
     "question": "What Book of Mormon book has the least verses",
-    "answer": "Jarom",
+    "answer": ["Jarom"],
     "options": ["fill"]
   },
   {
@@ -128,7 +128,7 @@
     "type": "fill",
     "ref": "Book of Mormon",
     "question": "What is the name of the book that has the second least amount of verses",
-    "answer": "The Words Of Mormon",
+    "answer": ["The Words Of Mormon"],
     "options": ["fill"]
   },
   {
@@ -136,7 +136,7 @@
     "type": "multi",
     "ref": "Book of Mormon",
     "question": "The words: “was the son of “are used how many times in the Book of Ether.",
-    "answer": "21",
+    "answer": ["21"],
     "options": ["15", "20", "21"]
   },
   {
@@ -144,7 +144,7 @@
     "type": "fill",
     "ref": "Book of Omni",
     "question": "What Book of Mormon author wrote the least amount of words in the Book of Mormon?",
-    "answer": "Chemish",
+    "answer": ["Chemish"],
     "options": ["fill"]
   },
   {
@@ -152,7 +152,7 @@
     "type": "fill",
     "ref": "Book of Omni",
     "question": "This Book of Mormon author only wrote one verse.",
-    "answer": "Chemish",
+    "answer": ["Chemish"],
     "options": ["fill"]
   },
   {
@@ -160,7 +160,7 @@
     "type": "fill",
     "ref": "Book of Mormon",
     "question": "The record that Nephi made about his reign and ministry is known to us as the: “First Book Of _____”.",
-    "answer": "Nephi",
+    "answer": ["Nephi"],
     "options": ["fill"]
   },
   {
@@ -168,7 +168,7 @@
     "type": "fill",
     "ref": "Book of Mormon Pictures",
     "question": "What animal appears in the Book of Mormon picture where Lehi is holding the Liahona?",
-    "answer": "Camal",
+    "answer": ["Camal"],
     "options": ["fill"]
   },
   {
@@ -176,7 +176,7 @@
     "type": "fill",
     "ref": "3Nep3:11",
     "question": "The Lord will give power to the seer to bring forth his word unto the seed of _____ loins.",
-    "answer": "Joseph",
+    "answer": ["Joseph"],
     "options": ["fill"]
   },
   {
@@ -184,7 +184,7 @@
     "type": "bool",
     "ref": "Look at your dictionary",
     "question": "An allegory is the expression by means of symbolic fictional figures and actions of truths or generalizations about human existence.",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -192,7 +192,7 @@
     "type": "fill",
     "ref": "Book of Jarom",
     "question": "What was Enos’ son name that was also a record keeper?",
-    "answer": "Jarom",
+    "answer": ["Jarom"],
     "options": ["fill"]
   },
   {
@@ -200,7 +200,7 @@
     "type": "bool",
     "ref": "Book of Jarom",
     "question": "The Book of Jarom has only one chapter.",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -208,7 +208,7 @@
     "type": "fill",
     "ref": "Book of Jarom",
     "question": "What Book of Mormon historian/record keeper wrote the fewest verses in his book?",
-    "answer": "Jarom",
+    "answer": ["Jarom"],
     "options": ["fill"]
   },
   {
@@ -216,7 +216,7 @@
     "type": "bool",
     "ref": "Book of Omni",
     "question": "There is only one chapter of Omni in the Book of Mormon.",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -224,7 +224,7 @@
     "type": "fill",
     "ref": "Ether12:1 & 14:24",
     "question": "Coriantumr was a descendant of what tribe of people?",
-    "answer": "Jaredites",
+    "answer": ["Jaredites"],
     "options": ["fill"]
   },
   {
@@ -232,7 +232,7 @@
     "type": "multi",
     "ref": "Mormon1:4",
     "question": "Mormon found the plates pleasing unto him because it conta1ned the prophecies of the coming of_____.",
-    "answer": "Christ",
+    "answer": ["Christ"],
     "options": ["Abraham", "Nephi", "Christ"]
   },
   {
@@ -240,7 +240,7 @@
     "type": "multi",
     "ref": "Mormon1:8",
     "question": "Mormon prayed to_____ concerning the Lamanites; that they may once again come to the knowledge of God and the redemption of Christ.",
-    "answer": "God",
+    "answer": ["God"],
     "options": ["Holy Ghost", "The Stars", "God"]
   },
   {
@@ -248,7 +248,7 @@
     "type": "multi",
     "ref": "Mormon1:8",
     "question": "Mormon prayed to God concerning the Lamanites; that they may once again be a_____ people.",
-    "answer": "Delightsome",
+    "answer": ["Delightsome"],
     "options": ["Nice", "Delightsome", "Kind"]
   },
   {
@@ -256,7 +256,7 @@
     "type": "multi",
     "ref": "Mormon1:9",
     "question": "Mormon proceeding with the record and made it according to the knowledge and the_____ which God had given him.",
-    "answer": "Understanding.",
+    "answer": ["Understanding."],
     "options": ["Gift", "Power", "Understanding."]
   },
   {
@@ -264,7 +264,7 @@
     "type": "multi",
     "ref": "Mormon1:10",
     "question": "Wherefore it came to pass that_____ had delivered these plates into the hands of King Benjamin.",
-    "answer": "Amaleki",
+    "answer": ["Amaleki"],
     "options": ["Mormon", "Nephi", "Amaleki"]
   },
   {
@@ -272,7 +272,7 @@
     "type": "multi",
     "ref": "Mormon1:11",
     "question": "The things written on Mormon’s record and the other plates were important because the Nephites and their brethren would be judged at the great and_____ day.",
-    "answer": "Last",
+    "answer": ["Last"],
     "options": ["Gloomy", "Last", "Glorious"]
   },
   {
@@ -280,7 +280,7 @@
     "type": "multi",
     "ref": "Mormon1:17",
     "question": "During the reign of King Benjamin there were many holy men in the land, and they spoke with the power and_____ of God.",
-    "answer": "Authority",
+    "answer": ["Authority"],
     "options": ["Authority", "Gift", "Knowledge"]
   },
   {
@@ -288,23 +288,7 @@
     "type": "multi",
     "ref": "3Nep5:20",
     "question": "Mormon was a pure descendant of whom?",
-    "answer": "Lehi",
+    "answer": ["Lehi"],
     "options": ["Laman", "Nephi", "Lehi"]
-  },
-  {
-    "id": "2009",
-    "type": "fill",
-    "ref": "Mo3:6,8",
-    "question": "Who did King Benjamin say would cast out devils, or the evil spirits which shall dwell in the hearts of the children of men?",
-    "answer": "Jesus",
-    "options": ["fill"]
-  },
-  {
-    "id": "3525",
-    "type": "fill",
-    "ref": "29,30",
-    "question": "Who took King Lamoni by the hand and he stood upon his feet?  Abish-Alma19:",
-    "answer": "16,",
-    "options": ["fill"]
   }
 ]

@@ -4231,6 +4231,7 @@
     "answer": ["Lamanites"],
     "options": ["fill"]
   },
+
   {
     "id": "3498",
     "type": "fill",
@@ -4342,6 +4343,14 @@
     "question": "Of what tribe was Abish?",
     "answer": ["Lamanite"],
     "options": ["Nephite", "Lamanite", "Ishmaelite"]
+  },
+  {
+    "id": "3525",
+    "type": "fill",
+    "ref": "Alma19:16,29,30",
+    "question": "Who took King Lamoni by the hand and he stood upon his feet?",
+    "answer": "Abish",
+    "options": ["fill"]
   },
   {
     "id": "3513",

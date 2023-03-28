@@ -4,7 +4,7 @@
     "type": "bool",
     "ref": "2Nep1:5",
     "question": "In 2Nephi the Lord covenanted with Lehi; the land of promise to him and all his seed.",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -12,7 +12,7 @@
     "type": "multi",
     "ref": "2Nep1:6",
     "question": "Lehi did prophesy; that no one would come to the promise land, unless they would be brought by the _____ of the Lord.",
-    "answer": "Hand",
+    "answer": ["Hand"],
     "options": ["Spirit", "Hand", "Arm"]
   },
   {
@@ -20,7 +20,7 @@
     "type": "bool",
     "ref": "2Nep1:7",
     "question": "The promise land is consecrated to all of those that the Lord will bring to it.",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -28,7 +28,7 @@
     "type": "bool",
     "ref": "2Nep1:7",
     "question": "The promise land will be a land of liberty as long as we serve the Lord according to the commandments.",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -36,7 +36,7 @@
     "type": "bool",
     "ref": "2Nep1:7",
     "question": "If we are brought down to captivity in the promise land; it will be because of our iniquity.",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -44,7 +44,7 @@
     "type": "multi",
     "ref": "2Nep1:7",
     "question": "If iniquity abounds in the promise land, it will be _____ for the people’s sake.",
-    "answer": "Cursed",
+    "answer": ["Cursed"],
     "options": ["Burned", "Cursed", "Flooded"]
   },
   {
@@ -52,7 +52,7 @@
     "type": "multi",
     "ref": "2Nep1:8",
     "question": "It is wisdom that the promise land be hid from the knowledge of other nations because it would be _____.",
-    "answer": "Neither",
+    "answer": ["Neither"],
     "options": ["Overrun", "Segregated", "Neither"]
   },
   {
@@ -60,7 +60,7 @@
     "type": "fill",
     "ref": "2Nep1:9",
     "question": "If Lehi and his family keep the commandments of the Lord, they would _____, in the promised land.",
-    "answer": "Prosper",
+    "answer": ["Prosper"],
     "options": ["fill"]
   },
   {
@@ -68,7 +68,7 @@
     "type": "bool",
     "ref": "2Nep1:10",
     "question": "Lehi and his family/party were given power by the Lord to do all things by faith.",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -76,7 +76,7 @@
     "type": "fill",
     "ref": "2Nep1:10",
     "question": "Lehi and his family were brought to the precious land of promise by the Lords' _____ goodness.",
-    "answer": "Infinite",
+    "answer": ["Infinite"],
     "options": ["fill"]
   },
   {
@@ -84,7 +84,7 @@
     "type": "multi",
     "ref": "2Nep1:13",
     "question": "According to Lehi:  we our bound by awful _____ of hell; that binds us captive to the eternal gulf of misery and woe.",
-    "answer": "Chains",
+    "answer": ["Chains"],
     "options": ["People", "Chains", "Temptations"]
   },
   {
@@ -92,7 +92,7 @@
     "type": "fill",
     "ref": "2Nep1:14",
     "question": "Who in 2Nephi said “cold and silent grave, from whence no traveler can return”?",
-    "answer": "Lehi",
+    "answer": ["Lehi"],
     "options": ["fill"]
   },
   {
@@ -100,7 +100,7 @@
     "type": "bool",
     "ref": "2Nep1:18",
     "question": "Lehi feared that his sons would be led to the will and captivity of the devil?",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -108,7 +108,7 @@
     "type": "fill",
     "ref": "2Nep1:17-18",
     "question": "Who will visit Lehi’s sons by the sword and by fam1ne?",
-    "answer": "Lord",
+    "answer": ["Lord"],
     "options": ["fill"]
   },
   {
@@ -116,7 +116,7 @@
     "type": "fill",
     "ref": "2Nep1:19",
     "question": "Whose will is always done and his ways are righteousness forever?",
-    "answer": "Lord",
+    "answer": ["Lord"],
     "options": ["fill"]
   },
   {
@@ -124,7 +124,7 @@
     "type": "fill",
     "ref": "2Nep1:21",
     "question": "Lehi wanted his sons to be men, and be determ1ned in one mind and in one _____, united in all things.",
-    "answer": "Heart",
+    "answer": ["Heart"],
     "options": ["fill"]
   },
   {
@@ -132,7 +132,7 @@
     "type": "multi",
     "ref": "2Nep:23",
     "question": "Lehi said “awake my sons; put on the armor of _____.",
-    "answer": "Righteousness",
+    "answer": ["Righteousness"],
     "options": ["Steel", "Truth", "Righteousness"]
   },
   {
@@ -140,7 +140,7 @@
     "type": "fill",
     "ref": "2Nep1:24",
     "question": "Which one of Lehi’s sons had been an instrument in the hands of the Lord from the beginning of their journey?",
-    "answer": "Nephi",
+    "answer": ["Nephi"],
     "options": ["fill"]
   },
   {
@@ -148,7 +148,7 @@
     "type": "fill",
     "ref": "2Nep1:25",
     "question": "Who sought the glory of God and the eternal welfare of his brothers during the journey to the promise land?",
-    "answer": "Nephi",
+    "answer": ["Nephi"],
     "options": ["fill"]
   },
   {
@@ -156,7 +156,7 @@
     "type": "bool",
     "ref": "2Nep1:26",
     "question": "The sharpness that Nephi used on his brothers was the sharpness of the power of the word of God.",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -164,7 +164,7 @@
     "type": "bool",
     "ref": "2Nep1:26",
     "question": "Nephi could not restrain himself from manifesting boldly concerning his brother’s iniquities.",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -172,7 +172,7 @@
     "type": "bool",
     "ref": "2Nep1:27",
     "question": "The Spirit of the Lord was the one that opened Nephi’s mouth that he could not shut it.",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -180,7 +180,7 @@
     "type": "multi",
     "ref": "2Nep1:28",
     "question": "Lehi told his sons to hearken to the voice of _____ and they would not perish.",
-    "answer": "Nephi",
+    "answer": ["Nephi"],
     "options": ["The Boss", "Nephi", "Their Mother"]
   },
   {
@@ -188,7 +188,7 @@
     "type": "fill",
     "ref": "2Nep1:30",
     "question": "Lehi knew that _____ was led out of Jerusalem, and was a true friend of Nephi, forever.",
-    "answer": "Zoram",
+    "answer": ["Zoram"],
     "options": ["fill"]
   },
   {
@@ -196,7 +196,7 @@
     "type": "bool",
     "ref": "2Nep1:31",
     "question": "Lehi said that Zoram’s seed would prosper in the promise land as long as there would be no iniquity among them.",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -204,7 +204,7 @@
     "type": "bool",
     "ref": "2Nep1:28-29",
     "question": "Lehi would take away the blessings he gave Laman, Lemuel, and Sam if they did not hearken unto the voice of Nephi.",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -212,7 +212,7 @@
     "type": "multi",
     "ref": "2Nep2:4",
     "question": "Lehi told his son Jacob- “and the way is prepared from the fall of man, and _____ is free”.",
-    "answer": "Salvation",
+    "answer": ["Salvation"],
     "options": ["Bread", "Salvation", "Life"]
   },
   {
@@ -220,7 +220,7 @@
     "type": "bool",
     "ref": "2Nep2:5",
     "question": "Men are instructed sufficiently that they know good from evil.",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -228,7 +228,7 @@
     "type": "fill",
     "ref": "2Nep2:6",
     "question": "Lehi said redemption comes in and through the Holy Messiah; for he is full of _____ and truth.",
-    "answer": "Grace",
+    "answer": ["Grace"],
     "options": ["fill"]
   },
   {
@@ -236,7 +236,7 @@
     "type": "fill",
     "ref": "2Nep2:7",
     "question": "The Lord offers himself a sacrifice for sin, to answer the ends of the law, unto all those who have a _____ heart and a contrite spirit.",
-    "answer": "Broken",
+    "answer": ["Broken"],
     "options": ["fill"]
   },
   {
@@ -244,7 +244,7 @@
     "type": "fill",
     "ref": "2Nep2:8",
     "question": "The Holy Messiah will bring to pass the _____ or the dead, being the first that should rise.",
-    "answer": "Resurrection",
+    "answer": ["Resurrection"],
     "options": ["fill"]
   },
   {
@@ -252,7 +252,7 @@
     "type": "bool",
     "ref": "2Nep2:9",
     "question": "The Lord will make intercession for all the children of men; and they that believe in him shall be saved.",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -260,7 +260,7 @@
     "type": "fill",
     "ref": "2Nep2:11",
     "question": "Lehi told Jacob,”for it must needs be, that there is an _____ in all things”.",
-    "answer": "Opposition",
+    "answer": ["Opposition"],
     "options": ["fill"]
   },
   {
@@ -268,7 +268,7 @@
     "type": "fill",
     "ref": "2Nep2:11",
     "question": "There must be nor corruption nor _____, happiness nor misery, neither sense nor insensibility.",
-    "answer": "Incorruption",
+    "answer": ["Incorruption"],
     "options": ["fill"]
   },
   {
@@ -276,7 +276,7 @@
     "type": "multi",
     "ref": "2Nep2:13",
     "question": "And if ye shall say there in no law, ye also shall say there no _____.",
-    "answer": "Sin",
+    "answer": ["Sin"],
     "options": ["Mercy", "Gift", "Sin"]
   },
   {
@@ -284,7 +284,7 @@
     "type": "bool",
     "ref": "2Nep2:14",
     "question": "Lehi testified to his sons that there is a God and he has created all things, both the heavens and the earth.",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -292,7 +292,7 @@
     "type": "bool",
     "ref": "2Nep2:17",
     "question": "Lehi read that an angel of God fell from heaven; wherefore, he became a devil, having sought that which was evil before God.",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -300,7 +300,7 @@
     "type": "fill",
     "ref": "2Nep2:27",
     "question": "In 2Nephi- who did Lehi say “seeks that all men might be miserable like unto himself”.",
-    "answer": "Devil",
+    "answer": ["Devil"],
     "options": ["fill"]
   },
   {
@@ -308,7 +308,7 @@
     "type": "bool",
     "ref": "2Nep2:18",
     "question": "The Devil is quoted in the Book Of Mormon.",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -316,7 +316,7 @@
     "type": "multi",
     "ref": "2Nep2:18, 2Nep24:13,14",
     "question": "How many times is the Devil quoted in the Book Of Mormon?",
-    "answer": "&&&",
+    "answer": ["&&&"],
     "options": ["One", "Two", "3 Times."]
   },
   {
@@ -324,7 +324,7 @@
     "type": "fill",
     "ref": "2Nep2:18",
     "question": "Who is the father of all lies?",
-    "answer": "Devil",
+    "answer": ["Devil"],
     "options": ["fill"]
   },
   {
@@ -332,7 +332,7 @@
     "type": "fill",
     "ref": "2Nep2:18",
     "question": "Who told Eve to partake of the forbidden fruit, and you shall not die, but you shall be as a God, knowing good from evil?",
-    "answer": "Devil",
+    "answer": ["Devil"],
     "options": ["fill"]
   },
   {
@@ -340,7 +340,7 @@
     "type": "fill",
     "ref": "2Nep2:19",
     "question": "Adam and Eve were driven out of the_____ of Eden, for partaking of the forbidden fruit.",
-    "answer": "Garden",
+    "answer": ["Garden"],
     "options": ["fill"]
   },
   {
@@ -348,7 +348,7 @@
     "type": "fill",
     "ref": "2Nep2:21",
     "question": "According to the will of God; men while in the flesh might repent; wherefore, their state became a state of _____.",
-    "answer": "Probation",
+    "answer": ["Probation"],
     "options": ["fill"]
   },
   {
@@ -356,7 +356,7 @@
     "type": "bool",
     "ref": "2Nep2:22",
     "question": "If Adam hat not transgressed, things would have rema1ned in the same state in which they were after they were created, and had no end.",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -364,7 +364,7 @@
     "type": "multi",
     "ref": "2Nep2:24",
     "question": "But behold, all things have been done in the _____ of him who knows all things.",
-    "answer": "Wisdom",
+    "answer": ["Wisdom"],
     "options": ["Wisdom", "Power", "Foresight"]
   },
   {
@@ -372,7 +372,7 @@
     "type": "fill",
     "ref": "2Nep2:25",
     "question": "_____ fell that men might he; and men are, that they might have joy.",
-    "answer": "Adam",
+    "answer": ["Adam"],
     "options": ["fill"]
   },
   {
@@ -380,7 +380,7 @@
     "type": "fill",
     "ref": "2Nep2:26",
     "question": "The Messiah comes in the _____ of time, that he may redeem the children of men from the fall.",
-    "answer": "Fulness",
+    "answer": ["Fulness"],
     "options": ["fill"]
   },
   {
@@ -388,7 +388,7 @@
     "type": "fill",
     "ref": "2Nep2:26",
     "question": "Men are free to act for themselves and not to be _____ upon.",
-    "answer": "Acted",
+    "answer": ["Acted"],
     "options": ["fill"]
   },
   {
@@ -396,7 +396,7 @@
     "type": "bool",
     "ref": "2Nep2:28",
     "question": "Another name that we can use to describe Jesus Christ is the great Mediator.",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -404,7 +404,7 @@
     "type": "fill",
     "ref": "2Nep2:28",
     "question": "Lehi told his sons “I would that ye look to the great _____ and hearken unto his great commandments”.",
-    "answer": "Mediator",
+    "answer": ["Mediator"],
     "options": ["fill"]
   },
   {
@@ -412,7 +412,7 @@
     "type": "bool",
     "ref": "2Nep2:29",
     "question": "Lehi wanted his sons to not to choose eternal death, according to the will of the flesh and the evil which is therein.",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -420,7 +420,7 @@
     "type": "bool",
     "ref": "2Nep2:30",
     "question": "Lehi choose the words of the prophet, and had no other objective; save it be the everlasting welfare of his son’s souls.",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -428,7 +428,7 @@
     "type": "fill",
     "ref": "2Nep3:1",
     "question": "Which one of Lehi’s sons was born in the days of his greatest sorrow?",
-    "answer": "Joseph",
+    "answer": ["Joseph"],
     "options": ["fill"]
   },
   {
@@ -436,7 +436,7 @@
     "type": "multi",
     "ref": "2Nep33, 5",
     "question": "Whose seed did Lehi prophesied would not be utterly destroyed?",
-    "answer": "Joseph",
+    "answer": ["Joseph"],
     "options": ["Moses", "Joseph", "Neither"]
   },
   {
@@ -444,7 +444,7 @@
     "type": "fill",
     "ref": "2Nep3:5",
     "question": "Who truly saw the days of the Nephites by a vision and prophecy?",
-    "answer": "Joseph",
+    "answer": ["Joseph"],
     "options": ["fill"]
   },
   {
@@ -452,7 +452,7 @@
     "type": "bool",
     "ref": "2Nep3:6",
     "question": "Joseph testified that a seer shall the Lord raise up from the fruit of his loins.",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -460,7 +460,7 @@
     "type": "fill",
     "ref": "2Nep3:5",
     "question": "In 2Nephi; who obta1ned a promise from the Lord that his posterity would be a righteous branch of Israel?",
-    "answer": "Joseph",
+    "answer": ["Joseph"],
     "options": ["fill"]
   },
   {
@@ -468,7 +468,7 @@
     "type": "fill",
     "ref": "2Nep3:15",
     "question": "What is the seer’s first name that the Lord would raise up from Joseph’s loins?",
-    "answer": "Joseph",
+    "answer": ["Joseph"],
     "options": ["fill"]
   },
   {
@@ -476,7 +476,7 @@
     "type": "bool",
     "ref": "2Nep3:14",
     "question": "They who seek to destroy the choice seer would be confounded.",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -484,7 +484,7 @@
     "type": "fill",
     "ref": "2Nep3:17",
     "question": "Who would the Lord rise up and give him judgment “Unto him in writing”?",
-    "answer": "Moses",
+    "answer": ["Moses"],
     "options": ["fill"]
   },
   {
@@ -492,7 +492,7 @@
     "type": "bool",
     "ref": "2Nep3:17",
     "question": "Moses will be mighty in speaking.",
-    "answer": "false",
+    "answer": ["false"],
     "options": ["true", "false"]
   },
   {
@@ -500,7 +500,7 @@
     "type": "bool",
     "ref": "2Nep3:17",
     "question": "The Lord will would make a spokesman for Moses",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -508,7 +508,7 @@
     "type": "bool",
     "ref": "2Nep3:17",
     "question": "In the Book of Mormon we are told of the name of the spokesman that the Lord will have for Moses.",
-    "answer": "false",
+    "answer": ["false"],
     "options": ["true", "false"]
   },
   {
@@ -516,7 +516,7 @@
     "type": "multi",
     "ref": "2Nep3:23",
     "question": "The seed of Joseph will _____ unto the words of the book/Mormon.",
-    "answer": "Hearken",
+    "answer": ["Hearken"],
     "options": ["Hearken", "Laugh", "Be Confounded"]
   },
   {
@@ -524,7 +524,7 @@
     "type": "multi",
     "ref": "2Nep3:24",
     "question": "In 2Nephi: Who will be a _____ in the hands of God?",
-    "answer": "Instrument",
+    "answer": ["Instrument"],
     "options": ["Instrument", "Leader", "Accomplice"]
   },
   {
@@ -532,7 +532,7 @@
     "type": "multi",
     "ref": "2Nep3:25",
     "question": "Joseph was told to hearken unto the words of _____ by his father.",
-    "answer": "Nephi",
+    "answer": ["Nephi"],
     "options": ["Alma", "Nephi", "Mosiah"]
   },
   {
@@ -540,7 +540,7 @@
     "type": "bool",
     "ref": "2Nep3:25",
     "question": "When Lehi was prophesying to Joseph he was in his mid 20’s.",
-    "answer": "false",
+    "answer": ["false"],
     "options": ["true", "false"]
   },
   {
@@ -548,7 +548,7 @@
     "type": "bool",
     "ref": "2Nep4:1",
     "question": "Nephi spoke concerning prophecies of Joseph, who was carried into Egypt.",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -556,7 +556,7 @@
     "type": "bool",
     "ref": "2Nep4:2",
     "question": "Joseph who was carried into Egypt; truly prophesied concerning all his seed.",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -564,7 +564,7 @@
     "type": "fill",
     "ref": "2Nep4:2",
     "question": "The prophecies of Joseph who was sold in Egypt or written upon the plates of _____.",
-    "answer": "Brass",
+    "answer": ["Brass"],
     "options": ["fill"]
   },
   {
@@ -572,7 +572,7 @@
     "type": "bool",
     "ref": "2Nep4:2",
     "question": "There are not many greater prophecies than those of Joseph who was carried into Egypt.",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -580,7 +580,7 @@
     "type": "fill",
     "ref": "2Nep4:3",
     "question": "Lehi called Laman and his sons, and his _____ to give ear unto his words.",
-    "answer": "Daughters",
+    "answer": ["Daughters"],
     "options": ["fill"]
   },
   {
@@ -588,7 +588,7 @@
     "type": "bool",
     "ref": "2Nep4:6",
     "question": "If Laman and Lemuel seed was cursed, Lehi wanted the curse to be answered upon the heads of him and his wife.",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -596,7 +596,7 @@
     "type": "bool",
     "ref": "2Nep4:9",
     "question": "Lehi said that Lamuel’s seed would be blessed at the end.",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -604,7 +604,7 @@
     "type": "multi",
     "ref": "2Nep4:11",
     "question": "Whose seed will be numbered with the seed of Nephi and be blessed in all his days.",
-    "answer": "Sam",
+    "answer": ["Sam"],
     "options": ["Laman", "Lemuel", "Sam"]
   },
   {
@@ -612,7 +612,7 @@
     "type": "fill",
     "ref": "2Nep4:12",
     "question": "After Lehi gave his blessings to his sons he waxed old and the he _____ and the Spirit of the Lord was him.",
-    "answer": "Died",
+    "answer": ["Died"],
     "options": ["fill"]
   },
   {
@@ -620,7 +620,7 @@
     "type": "bool",
     "ref": "2Nep4:13",
     "question": "Laman, Lemuel, and Ismael were angry with Nephi because of the admonitions of the Lord.",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -628,7 +628,7 @@
     "type": "bool",
     "ref": "2Nep4:14",
     "question": "More of Nephi’s sayings and history are written on his other plates.",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -636,7 +636,7 @@
     "type": "fill",
     "ref": "2Nep4:15",
     "question": "Who said “my soul delights in the scriptures, and my heart ponders them”?",
-    "answer": "Nephi",
+    "answer": ["Nephi"],
     "options": ["fill"]
   },
   {
@@ -644,7 +644,7 @@
     "type": "fill",
     "ref": "2Nep4:15",
     "question": "Nephi wrote things of his soul and for the learning and the profit of his _____.",
-    "answer": "Children",
+    "answer": ["Children"],
     "options": ["fill"]
   },
   {
@@ -652,7 +652,7 @@
     "type": "fill",
     "ref": "2Nep4:16",
     "question": "Whose soul delights in the things of the Lord, and ponders continually upon the things which I have seen and heard?",
-    "answer": "Nephi",
+    "answer": ["Nephi"],
     "options": ["fill"]
   },
   {
@@ -660,7 +660,7 @@
     "type": "fill",
     "ref": "2Nep4:16-35",
     "question": "Wrote the _____ of Nephi, shortly after the death of his father.",
-    "answer": "Psalm",
+    "answer": ["Psalm"],
     "options": ["fill"]
   },
   {
@@ -668,7 +668,7 @@
     "type": "fill",
     "ref": "2Nep4:17",
     "question": "Who said “O wretched man that I am! Yea, my heart sorrows because of my flesh; my soul grieves because of m1ne iniquities”?",
-    "answer": "Nephi",
+    "answer": ["Nephi"],
     "options": ["fill"]
   },
   {
@@ -676,7 +676,7 @@
     "type": "fill",
     "ref": "2Nep4:21",
     "question": "Who is filled with the love of the Lord, even unto consuming of his flesh?",
-    "answer": "Nephi",
+    "answer": ["Nephi"],
     "options": ["fill"]
   },
   {
@@ -684,7 +684,7 @@
     "type": "fill",
     "ref": "2Nep4:23",
     "question": "Who cried by day, and he was given knowledge by visions in the nighttime?",
-    "answer": "Nephi",
+    "answer": ["Nephi"],
     "options": ["fill"]
   },
   {
@@ -692,7 +692,7 @@
     "type": "fill",
     "ref": "2Nep4:24",
     "question": "Who waxed bold in mighty prayer and angels came down and ministered unto him?",
-    "answer": "Nephi",
+    "answer": ["Nephi"],
     "options": ["fill"]
   },
   {
@@ -700,7 +700,7 @@
     "type": "fill",
     "ref": "2Nep4:25",
     "question": "Who was carried upon the wings of the Spirit of the Lord and away upon exceeding high mountains?",
-    "answer": "Nephi",
+    "answer": ["Nephi"],
     "options": ["fill"]
   },
   {
@@ -708,7 +708,7 @@
     "type": "bool",
     "ref": "2Nep4:25",
     "question": "Nephi beheld great things, yea even too great for man",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -716,7 +716,7 @@
     "type": "fill",
     "ref": "2Nep4:25",
     "question": "Nephi was _____ to write some of the great things that he saw by the Lord?",
-    "answer": "Forbidden",
+    "answer": ["Forbidden"],
     "options": ["fill"]
   },
   {
@@ -724,7 +724,7 @@
     "type": "multi",
     "ref": "2Nep4:27",
     "question": "Who said: “Why should I yield to sin, because of my flesh”?",
-    "answer": "Nephi",
+    "answer": ["Nephi"],
     "options": ["Laman", "Lemuel", "Nephi"]
   },
   {
@@ -732,7 +732,7 @@
     "type": "fill",
     "ref": "2Nep4:30",
     "question": "Who will praise the Lord forever, and his soul will rejoice in his God; the rock of his salvation?",
-    "answer": "Nephi",
+    "answer": ["Nephi"],
     "options": ["fill"]
   },
   {
@@ -740,7 +740,7 @@
     "type": "multi",
     "ref": "2Nep4:32",
     "question": "Who asked the Lord, “wilt thou not shut the gates of thy righteousness before me”?",
-    "answer": "Nephi",
+    "answer": ["Nephi"],
     "options": ["Laman", "Lemuel", "Nephi"]
   },
   {
@@ -748,7 +748,7 @@
     "type": "fill",
     "ref": "2Nep4:33",
     "question": "Who said “O Lord, wilt thou encircle me around in the robe of thy righteousness”?",
-    "answer": "Nephi",
+    "answer": ["Nephi"],
     "options": ["fill"]
   },
   {
@@ -756,7 +756,7 @@
     "type": "bool",
     "ref": "2Nep4:34",
     "question": "Nephi said “O Lord, I have trusted in thee, and I will trust in thee forever”.",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -764,7 +764,7 @@
     "type": "fill",
     "ref": "2Nep4:34",
     "question": "I will not put my _____ in the arm of the flesh; for I know that cursed is he that puts his trust in the arm of the flesh.",
-    "answer": "Trust",
+    "answer": ["Trust"],
     "options": ["fill"]
   },
   {
@@ -772,7 +772,7 @@
     "type": "fill",
     "ref": "2Nep4:35",
     "question": "I know that _____will give liberally to him that asks.",
-    "answer": "God",
+    "answer": ["God"],
     "options": ["fill"]
   },
   {
@@ -780,7 +780,7 @@
     "type": "bool",
     "ref": "2Nep4:35",
     "question": "Nephi said “I will cry unto thee, my God, the rock of my righteousness”.",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -788,7 +788,7 @@
     "type": "bool",
     "ref": "2Nep5:3",
     "question": "Nephi’s brothers said that they had much affliction because of Nephi’s words.",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -796,7 +796,7 @@
     "type": "multi",
     "ref": "2Nep5:3",
     "question": "Nephi’s brothers began to _____ against him and blame their trials because of him.",
-    "answer": "Murmur",
+    "answer": ["Murmur"],
     "options": ["Curse", "Murmur", "Cry"]
   },
   {
@@ -812,7 +812,7 @@
     "type": "bool",
     "ref": "2Nep5:4",
     "question": "Nephi wrote all the words which his brothers murmured against him.",
-    "answer": "false",
+    "answer": ["false"],
     "options": ["true", "false"]
   },
   {
@@ -820,7 +820,7 @@
     "type": "fill",
     "ref": "2Nep5:5",
     "question": "Who warned Nephi to depart from his brothers and flee into the wilderness?",
-    "answer": "Lord",
+    "answer": ["Lord"],
     "options": ["fill"]
   },
   {
@@ -828,7 +828,7 @@
     "type": "multi",
     "ref": "2Nep5:6",
     "question": "Nephi fled into the wilderness with his family and also with the families of Sam and _____.",
-    "answer": "Zoram",
+    "answer": ["Zoram"],
     "options": ["Zoram", "Jacob", "Joseph"]
   },
   {
@@ -836,7 +836,7 @@
     "type": "multi",
     "ref": "2Nep5:6",
     "question": "Nephi had sisters; how many?",
-    "answer": "We Don’t Know",
+    "answer": ["We Don’t Know"],
     "options": ["3", "4", "We Don’t Know"]
   },
   {
@@ -844,7 +844,7 @@
     "type": "fill",
     "ref": "2Nep5:6",
     "question": "All those that believed in the warnings and _____ or God; also fled with Nephi, into the wilderness.",
-    "answer": "Revelations",
+    "answer": ["Revelations"],
     "options": ["fill"]
   },
   {
@@ -852,7 +852,7 @@
     "type": "fill",
     "ref": "2Nep5:8",
     "question": "What is the name of the place that the people gave to the place where they pitched their tents after fleeing from Nephi’s brother’s?",
-    "answer": "Nephi",
+    "answer": ["Nephi"],
     "options": ["fill"]
   },
   {
@@ -860,7 +860,7 @@
     "type": "multi",
     "ref": "2Nep5:9",
     "question": "What name did the people give themselves after fleeing from Nephi’s brothers?",
-    "answer": "The People Of Nephi",
+    "answer": ["The People Of Nephi"],
     "options": ["Nephites", "The People Of Nephi", "Neither"]
   },
   {
@@ -868,7 +868,7 @@
     "type": "fill",
     "ref": "2Nep5:11",
     "question": "Nephi’s people began to raise _____, and herds, and animals of every kind.",
-    "answer": "Flocks",
+    "answer": ["Flocks"],
     "options": ["fill"]
   },
   {
@@ -876,7 +876,7 @@
     "type": "fill",
     "ref": "2Nep5:12",
     "question": "Nephi had the plates of brass; and also the ball, or _____, which was prepared by the hand of the Lord.",
-    "answer": "Compass",
+    "answer": ["Compass"],
     "options": ["fill"]
   },
   {
@@ -884,7 +884,7 @@
     "type": "fill",
     "ref": "2Nep5:14",
     "question": "Nephi took the sword of _____, and after the manner of it did make many swords.",
-    "answer": "Laban",
+    "answer": ["Laban"],
     "options": ["fill"]
   },
   {
@@ -892,7 +892,7 @@
     "type": "multi",
     "ref": "2Nep5:14",
     "question": "The Lamanites were first given that name in which book?",
-    "answer": "2Nephi",
+    "answer": ["2Nephi"],
     "options": ["1Nephi", "2Nephi", "3Nephi"]
   },
   {
@@ -900,7 +900,7 @@
     "type": "bool",
     "ref": "2Nep5:15",
     "question": "Nephi taught his people to build buildings, and to work in all manner of word, iron, and of copper.",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -908,7 +908,7 @@
     "type": "fill",
     "ref": "2Nep5:16",
     "question": "Nephi did build a temple; and constructed it after the manner of the temple of _____.",
-    "answer": "Solomon",
+    "answer": ["Solomon"],
     "options": ["fill"]
   },
   {
@@ -916,7 +916,7 @@
     "type": "bool",
     "ref": "2Nep5:16",
     "question": "Nephi’s temple was build like Solomon’s and it also had all manner of precious things.",
-    "answer": "false",
+    "answer": ["false"],
     "options": ["true", "false"]
   },
   {
@@ -924,7 +924,7 @@
     "type": "bool",
     "ref": "2Nep5:16",
     "question": "The workmanship of the temple that Nephi built was exceedingly f1ne.",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -932,7 +932,7 @@
     "type": "fill",
     "ref": "2Nep5:18",
     "question": "Nephi’s people desired that he should be their _____, but he was desirous that there should be no king.",
-    "answer": "King",
+    "answer": ["King"],
     "options": ["fill"]
   },
   {
@@ -940,7 +940,7 @@
     "type": "bool",
     "ref": "2Nep5 19",
     "question": "The words of the Lord were fulfilled when he spoke that Nephi should be the ruler over his brethren.",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -956,7 +956,7 @@
     "type": "bool",
     "ref": "2Nep5:21",
     "question": "The Lord caused that a cursing to come upon Laman and Lemuel and their families.",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -964,7 +964,7 @@
     "type": "multi",
     "ref": "2Nep5:21",
     "question": "What color was the skin of Laman and Lemuel before they were cursed?",
-    "answer": "White",
+    "answer": ["White"],
     "options": ["White", "Brown", "Black"]
   },
   {
@@ -972,7 +972,7 @@
     "type": "fill",
     "ref": "2Nep5:21",
     "question": "The Lord God did cause a skin of _____ to come upon Laman and Lemuel and their families.",
-    "answer": "Blackness",
+    "answer": ["Blackness"],
     "options": ["fill"]
   },
   {
@@ -980,7 +980,7 @@
     "type": "bool",
     "ref": "2Nep5:23",
     "question": "The Lord said: Cursed shall be the seed of him that mixes with the seed of Laman and Lemuel.",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -988,7 +988,7 @@
     "type": "bool",
     "ref": "2Nep5:24",
     "question": "Because of the cursing that was upon them the Lamanites did become an idle people, full or mischief and subtlety.",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -996,7 +996,7 @@
     "type": "fill",
     "ref": "2Nep5:26",
     "question": "Nephi did consecrate Jacob and Joseph, that they should be priests and _____ over the land of his people.",
-    "answer": "Teachers",
+    "answer": ["Teachers"],
     "options": ["fill"]
   },
   {
@@ -1004,7 +1004,7 @@
     "type": "bool",
     "ref": "2Nep5:30 & 1Nep9:23",
     "question": "Nephi was obedient to the Lord and made another set of plates which contain the ministry of his people.",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -1012,7 +1012,7 @@
     "type": "multi",
     "ref": "2Nep5:34",
     "question": "How many years had passed away when Nephi and his people started to have wars and contentions with his brother’s people?",
-    "answer": "40",
+    "answer": ["40"],
     "options": ["30", "40", "50"]
   },
   {
@@ -1020,7 +1020,7 @@
     "type": "fill",
     "ref": "2Nep6:1",
     "question": "In chapter six of the Book of 2Nephi; Jacob recounts the history of what tribe of people?",
-    "answer": "Jews",
+    "answer": ["Jews"],
     "options": ["fill"]
   },
   {
@@ -1028,7 +1028,7 @@
     "type": "fill",
     "ref": "2Nep6:2",
     "question": "_____ was called of God, and orda1ned after the manner of his holy order, and consecrated by Nephi.",
-    "answer": "Jacob",
+    "answer": ["Jacob"],
     "options": ["fill"]
   },
   {
@@ -1036,7 +1036,7 @@
     "type": "bool",
     "ref": "2Nep6:3",
     "question": "Jacob spoke to his people and was desirous for the welfare of their souls.",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -1044,7 +1044,7 @@
     "type": "fill",
     "ref": "2Nep6:3",
     "question": "Jacob spoke unto his people concerning all things which are written, from the creation of the _____.",
-    "answer": "World",
+    "answer": ["World"],
     "options": ["fill"]
   },
   {
@@ -1052,7 +1052,7 @@
     "type": "fill",
     "ref": "2Nep6:4",
     "question": "Jacob spoke to the Nephites for their sakes, that they would learn and glorify the name of their _____.",
-    "answer": "God",
+    "answer": ["God"],
     "options": ["fill"]
   },
   {
@@ -1060,7 +1060,7 @@
     "type": "fill",
     "ref": "2Nep6:4",
     "question": "Jacob read to his people the words of what Old Testament prophet?",
-    "answer": "Isaiah",
+    "answer": ["Isaiah"],
     "options": ["fill"]
   },
   {
@@ -1068,7 +1068,7 @@
     "type": "multi",
     "ref": "2Nep6:4",
     "question": "Who said, “I would speak unto you concerning things which are, and which are to come”.",
-    "answer": "Jacob",
+    "answer": ["Jacob"],
     "options": ["Nephi", "Jacob", "Lehi"]
   },
   {
@@ -1076,7 +1076,7 @@
     "type": "bool",
     "ref": "2Nep6:5",
     "question": "There are many things which can be likened unto the Nephites because they are from the house of Israel.",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -1092,7 +1092,7 @@
     "type": "fill",
     "ref": "2Nep6:7",
     "question": "Kings shall be thy nursing fathers’ and their _____ thy nursing mothers.",
-    "answer": "Queens",
+    "answer": ["Queens"],
     "options": ["fill"]
   },
   {
@@ -1100,7 +1100,7 @@
     "type": "multi",
     "ref": "2Nep6:8",
     "question": "The Lord showed Jacob those who were in Jerusalem and those that had been _____ and carried away captive.",
-    "answer": "Slain",
+    "answer": ["Slain"],
     "options": ["Hanged", "Slain", "Trampled."]
   },
   {
@@ -1108,7 +1108,7 @@
     "type": "fill",
     "ref": "2Nep6:9",
     "question": "God, the Holy One of Israel, would manifest himself unto them in the flesh and they will scourge and crucify him.",
-    "answer": "Israelites",
+    "answer": ["Israelites"],
     "options": ["fill"]
   },
   {
@@ -1116,7 +1116,7 @@
     "type": "bool",
     "ref": "2Nep6:9",
     "question": "Jacob saw the crucifixion or the Savior.",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -1124,7 +1124,7 @@
     "type": "fill",
     "ref": "2Nep6:10",
     "question": "After the Israelites hardened their hearts and _____ their necks against the Holy One of Israel his, judgments will come upon them.",
-    "answer": "Stiffened",
+    "answer": ["Stiffened"],
     "options": ["fill"]
   },
   {
@@ -1132,7 +1132,7 @@
     "type": "bool",
     "ref": "2Nep6:11",
     "question": "Jacob said “the day comes that the Israelites shall be smitten and afflicted”.",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -1140,7 +1140,7 @@
     "type": "multi",
     "ref": "2Nep6:11",
     "question": "Who did the angel refer to when he said:  They shall be afflicted in the flesh, and shall not be suffered to perish, because of the prayers of the faithful?",
-    "answer": "Israelites",
+    "answer": ["Israelites"],
     "options": ["Nephites.", "Israelites", "Lamanites"]
   },
   {
@@ -1148,7 +1148,7 @@
     "type": "fill",
     "ref": "2Nep6:11",
     "question": "The angel said: They shall be scattered, and smitten, and _____; nevertheless, the Lord will be merciful unto them.",
-    "answer": "Hated",
+    "answer": ["Hated"],
     "options": ["fill"]
   },
   {
@@ -1156,7 +1156,7 @@
     "type": "fill",
     "ref": "2Nep6:11",
     "question": "Who will come to the lands of their inheritance, after they come to the knowledge of their Redeemer?",
-    "answer": "Israelites",
+    "answer": ["Israelites"],
     "options": ["fill"]
   },
   {
@@ -1164,7 +1164,7 @@
     "type": "multi",
     "ref": "2Nep6:12",
     "question": "What people will be blessed, if they repent and fight not against Zion?",
-    "answer": "Gentiles",
+    "answer": ["Gentiles"],
     "options": ["Gentiles", "Israelites", "Neither"]
   },
   {
@@ -1188,7 +1188,7 @@
     "type": "bool",
     "ref": "2Nep6:15",
     "question": "Those that believe not him shall be destroyed, both by fire, and by tempest, and by earthquakes.",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -1196,7 +1196,7 @@
     "type": "multi",
     "ref": "2Nep6:15",
     "question": "Who will know that the Lord is God, the Holy One of Israel?",
-    "answer": "Unbelievers",
+    "answer": ["Unbelievers"],
     "options": ["Lamanites", "Unbelievers", "Nephites"]
   },
   {
@@ -1212,7 +1212,7 @@
     "type": "fill",
     "ref": "2Nep6:18",
     "question": "All flesh shall know that I the Lord am thy _____ and thy Redeemer, the Mighty One of Jacob.",
-    "answer": "Savior",
+    "answer": ["Savior"],
     "options": ["fill"]
   },
   {
@@ -1220,7 +1220,7 @@
     "type": "bool",
     "ref": "2Nep6:18",
     "question": "The Lord said that those that oppress the Israelites; he will feed them with their own flesh.",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -1228,7 +1228,7 @@
     "type": "fill",
     "ref": "2Nep7:4",
     "question": "Who did the Lord give him a tongue of the learned, that he should know how to speak a word in season, to the house of Israel?",
-    "answer": "Jacob",
+    "answer": ["Jacob"],
     "options": ["fill"]
   },
   {
@@ -1236,7 +1236,7 @@
     "type": "fill",
     "ref": "2Nep7:6",
     "question": "Who gave his back to the smiter, and his cheeks to them that plucked of his hair?",
-    "answer": "Jesus Christ",
+    "answer": ["Jesus Christ"],
     "options": ["fill"]
   },
   {
@@ -1244,7 +1244,7 @@
     "type": "fill",
     "ref": "2Nep7:9",
     "question": "They shall wax old as a garment, and the _____ shall eat them up?",
-    "answer": "Moth",
+    "answer": ["Moth"],
     "options": ["fill"]
   },
   {
@@ -1252,7 +1252,7 @@
     "type": "fill",
     "ref": "2Nep2:19",
     "question": "What ancient garden is mentioned in the Book Of Mormon",
-    "answer": "Eden",
+    "answer": ["Eden"],
     "options": ["fill"]
   },
   {
@@ -1260,7 +1260,7 @@
     "type": "fill",
     "ref": "2Nep8:3",
     "question": "Who will make her wilderness like Eden, and her desert like the garden of the Lord?",
-    "answer": "Lord",
+    "answer": ["Lord"],
     "options": ["fill"]
   },
   {
@@ -1268,7 +1268,7 @@
     "type": "fill",
     "ref": "2Nep8:3 & Alma19:14",
     "question": "Of all the national holidays that we celebrate in the United States of America; only _____ is mentioned in the Book of Mormon.",
-    "answer": "Thanksgiving",
+    "answer": ["Thanksgiving"],
     "options": ["fill"]
   },
   {
@@ -1276,7 +1276,7 @@
     "type": "fill",
     "ref": "2Nep8:15",
     "question": "But I am the Lord, thy God, whose waves roared; the Lord of _____ is my name.",
-    "answer": "Hosts",
+    "answer": ["Hosts"],
     "options": ["fill"]
   },
   {
@@ -1284,7 +1284,7 @@
     "type": "bool",
     "ref": "2Nep9:3",
     "question": "Jacob spoke to his people so that they would rejoice and lift up their heads forever because of the blessings of God.",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -1292,7 +1292,7 @@
     "type": "fill",
     "ref": "2Nep9:4",
     "question": "Jacob told the Nephites that their flesh must waste away; nevertheless, in their bodies they shall see _____.",
-    "answer": "God",
+    "answer": ["God"],
     "options": ["fill"]
   },
   {
@@ -1300,7 +1300,7 @@
     "type": "bool",
     "ref": "2Nep9:5",
     "question": "The creator died for all men, that all men might become subject unto him.",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -1308,7 +1308,7 @@
     "type": "multi",
     "ref": "2Nep9:5",
     "question": "It behooves the great creator that he suffers himself to become subject unto man in the _____.",
-    "answer": "Flesh",
+    "answer": ["Flesh"],
     "options": ["Night", "Flesh", "Day"]
   },
   {
@@ -1316,7 +1316,7 @@
     "type": "bool",
     "ref": "2Nep9:7",
     "question": "Wherefore, it must needs be; an infinite atonement.",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -1324,7 +1324,7 @@
     "type": "fill",
     "ref": "2Nep9:8",
     "question": "For behold, if the flesh should rise no more our spirits must become subject the _____.",
-    "answer": "Devil",
+    "answer": ["Devil"],
     "options": ["fill"]
   },
   {
@@ -1332,7 +1332,7 @@
     "type": "bool",
     "ref": "2Nep9:8",
     "question": "In 2Nephi- the devil is describe as an angel by Jacob.",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -1340,7 +1340,7 @@
     "type": "fill",
     "ref": "2Nep9:9",
     "question": "Who beguiled our first parents?-The",
-    "answer": "Devil",
+    "answer": ["Devil"],
     "options": ["fill"]
   },
   {
@@ -1348,7 +1348,7 @@
     "type": "fill",
     "ref": "2Nep9:9",
     "question": "Who has the ability to transform himself as an angel of light?",
-    "answer": "Devil",
+    "answer": ["Devil"],
     "options": ["fill"]
   },
   {
@@ -1356,7 +1356,7 @@
     "type": "fill",
     "ref": "2Nep9:9",
     "question": "He stirs up the children of men unto secret combinations of murder and all manner of secret works of _____.",
-    "answer": "Darkness",
+    "answer": ["Darkness"],
     "options": ["fill"]
   },
   {
@@ -1364,7 +1364,7 @@
     "type": "bool",
     "ref": "2Nep9: 10",
     "question": "Jacob called the death of the body, and the death of the spirit, as a monster.",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -1372,7 +1372,7 @@
     "type": "bool",
     "ref": "2Nep9:12",
     "question": "Jacob spoke and liken; spiritual death as hell.",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -1380,7 +1380,7 @@
     "type": "fill",
     "ref": "2Nep9:11",
     "question": "What kind of death shall deliver up its dead; which death is the grave?",
-    "answer": "Temporal",
+    "answer": ["Temporal"],
     "options": ["fill"]
   },
   {
@@ -1388,7 +1388,7 @@
     "type": "bool",
     "ref": "2Nep9:12",
     "question": "It is by the power of God, that the bodies and the spirits of men will be restored one to the other.",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -1396,7 +1396,7 @@
     "type": "fill",
     "ref": "2Nep9:13",
     "question": "The paradise of God must deliver up the spirits of the _____ and the grave deliver up the body of the righteous.",
-    "answer": "Righteous",
+    "answer": ["Righteous"],
     "options": ["fill"]
   },
   {
@@ -1404,7 +1404,7 @@
     "type": "bool",
     "ref": "2Nep9:14",
     "question": "When we die; we shall have a perfect knowledge of our guilt, and our uncleanness.",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -1412,7 +1412,7 @@
     "type": "fill",
     "ref": "2Nep9:15",
     "question": "After we die, we must appear before the judgment _____ of the Holy One or Israel.",
-    "answer": "Seat",
+    "answer": ["Seat"],
     "options": ["fill"]
   },
   {
@@ -1420,7 +1420,7 @@
     "type": "fill",
     "ref": "2Nep9:16",
     "question": "Those who are righteous shall be righteous still, and they who are filthy shall be _____ still.",
-    "answer": "Filthy",
+    "answer": ["Filthy"],
     "options": ["fill"]
   },
   {
@@ -1428,7 +1428,7 @@
     "type": "fill",
     "ref": "2Nep9:16",
     "question": "They who are filthy are the devil and his _____.",
-    "answer": "Angels",
+    "answer": ["Angels"],
     "options": ["fill"]
   },
   {
@@ -1436,7 +1436,7 @@
     "type": "fill",
     "ref": "2Nep9:16",
     "question": "The devils everlasting torment is as a lake of fire and _____.",
-    "answer": "Brimstone",
+    "answer": ["Brimstone"],
     "options": ["fill"]
   },
   {
@@ -1444,7 +1444,7 @@
     "type": "bool",
     "ref": "2Nep9:16",
     "question": "The devil’s lake has a flame that ascends up forever and ever and has no end.",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -1452,7 +1452,7 @@
     "type": "multi",
     "ref": "2Nep9:17",
     "question": "God executes all his words from his mouth, and his law must be _____.",
-    "answer": "Fulfilled",
+    "answer": ["Fulfilled"],
     "options": ["Fulfilled", "False", "Correct"]
   },
   {
@@ -1460,7 +1460,7 @@
     "type": "fill",
     "ref": "2Nep9:19",
     "question": "The lake of fire and brimstone can be describe; as _____ torment.",
-    "answer": "Everlasting",
+    "answer": ["Everlasting"],
     "options": ["fill"]
   },
   {
@@ -1468,7 +1468,7 @@
     "type": "bool",
     "ref": "2Nep9:20",
     "question": "God knows all things, and there is not anything save he knows it.",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -1476,7 +1476,7 @@
     "type": "fill",
     "ref": "2Nep9:21",
     "question": "Jesus Christ has suffered the pains of all men, the pains of every living creature, both men_____, and children.",
-    "answer": "Women",
+    "answer": ["Women"],
     "options": ["fill"]
   },
   {
@@ -1484,7 +1484,7 @@
     "type": "fill",
     "ref": "2Nep9:23",
     "question": "He commands all men, that they must repent, and be _____ in his name, having perfect faith in the Holy One of Israel-.",
-    "answer": "Baptized",
+    "answer": ["Baptized"],
     "options": ["fill"]
   },
   {
@@ -1492,7 +1492,7 @@
     "type": "fill",
     "ref": "2Nep9:24",
     "question": "Those that don’t repent and believe in his name, and _____ to the end, must be damned.",
-    "answer": "Endure",
+    "answer": ["Endure"],
     "options": ["fill"]
   },
   {
@@ -1500,7 +1500,7 @@
     "type": "multi",
     "ref": "2Nep9:25",
     "question": "Wherefore, he has given a law; and where there is no law given there is no _____.",
-    "answer": "Punishment",
+    "answer": ["Punishment"],
     "options": ["Mercy", "Punishment", "Neither"]
   },
   {
@@ -1508,7 +1508,7 @@
     "type": "fill",
     "ref": "2Nep9:26",
     "question": "For the _____ satisfies the demands of his justice upon all of those who have not the law given to them.",
-    "answer": "Atonement",
+    "answer": ["Atonement"],
     "options": ["fill"]
   },
   {
@@ -1516,7 +1516,7 @@
     "type": "fill",
     "ref": "2Nep9:27",
     "question": "Woe to those that transgress the laws of God, and that waste the days of his _____for awful is state.",
-    "answer": "Probation",
+    "answer": ["Probation"],
     "options": ["fill"]
   },
   {
@@ -1524,7 +1524,7 @@
     "type": "bool",
     "ref": "2Nep9:28",
     "question": "Men when they are learned, think they are wise, and they hearken not unto the counsel of God.",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -1532,7 +1532,7 @@
     "type": "fill",
     "ref": "2Nep9:29",
     "question": "But to be_____ is good if they hearken unto the counsels of God.",
-    "answer": "Learned",
+    "answer": ["Learned"],
     "options": ["fill"]
   },
   {
@@ -1540,7 +1540,7 @@
     "type": "fill",
     "ref": "2Nep9:30",
     "question": "Woe unto the rich, who are _____ as to the things of this world.",
-    "answer": "Rich",
+    "answer": ["Rich"],
     "options": ["fill"]
   },
   {
@@ -1548,7 +1548,7 @@
     "type": "multi",
     "ref": "2Nep9:30",
     "question": "The rich love their treasures, and their treasures is their _____",
-    "answer": "God",
+    "answer": ["God"],
     "options": ["Fault", "God", "Downfall"]
   },
   {
@@ -1556,7 +1556,7 @@
     "type": "bool",
     "ref": "2Nep9:35",
     "question": "Woe unto the murderer who deliberately kills, for he shall die.",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -1564,7 +1564,7 @@
     "type": "fill",
     "ref": "2Nep9:37",
     "question": "Yea, woe unto those that worship idols, for the _____ of all devils delights in them.",
-    "answer": "Devil",
+    "answer": ["Devil"],
     "options": ["fill"]
   },
   {
@@ -1572,7 +1572,7 @@
     "type": "fill",
     "ref": "2Nep9:39",
     "question": "Remember, to be carnally-minded is death, and to be _____-minded is life eternal.",
-    "answer": "Spiritually",
+    "answer": ["Spiritually"],
     "options": ["fill"]
   },
   {
@@ -1580,7 +1580,7 @@
     "type": "bool",
     "ref": "2Nep9:40",
     "question": "The righteous love the truth and were not shaken by Jacob’s words.",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -1588,7 +1588,7 @@
     "type": "fill",
     "ref": "2Nep9:41",
     "question": "Who is the keeper of the gate of heaven?",
-    "answer": "Lord",
+    "answer": ["Lord"],
     "options": ["fill"]
   },
   {
@@ -1596,7 +1596,7 @@
     "type": "bool",
     "ref": "2Nep9:41",
     "question": "The Lord, who is the keeper of the gate of heaven employs a servant/servants there.",
-    "answer": "false",
+    "answer": ["false"],
     "options": ["true", "false"]
   },
   {
@@ -1604,7 +1604,7 @@
     "type": "bool",
     "ref": "2Nep9:41",
     "question": "There is no other way to get to heaven; we must all enter through the gate of heaven.",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -1612,7 +1612,7 @@
     "type": "bool",
     "ref": "2Nep9:42",
     "question": "God despises those that are puffed up because of their learning and their wisdom, and their riches.",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -1620,7 +1620,7 @@
     "type": "fill",
     "ref": "2Nep9:44",
     "question": "Jacob prayed to his God of salvation that he might view him with his all-_____ eye.",
-    "answer": "Searching",
+    "answer": ["Searching"],
     "options": ["fill"]
   },
   {
@@ -1628,7 +1628,7 @@
     "type": "bool",
     "ref": "2Nep9:45",
     "question": "Jacob wanted his people to come to God, who is the rock of their salvation.",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -1636,7 +1636,7 @@
     "type": "fill",
     "ref": "2Nep9:48",
     "question": "The Nephites looked up to Jacob as a _____, and it was expedient that he teach them the consequences of sin.",
-    "answer": "Teacher",
+    "answer": ["Teacher"],
     "options": ["fill"]
   },
   {
@@ -1644,7 +1644,7 @@
     "type": "bool",
     "ref": "2Nep9:49",
     "question": "Jacob’s soul abhors sin, and his heart delights in righteousness.",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -1652,7 +1652,7 @@
     "type": "fill",
     "ref": "2Nep9:52",
     "question": "Remember the words of your God; pray unto him continually by day, and give thanks unto his holy name by _____.",
-    "answer": "Night",
+    "answer": ["Night"],
     "options": ["fill"]
   },
   {
@@ -1660,7 +1660,7 @@
     "type": "bool",
     "ref": "2Nep9:53",
     "question": "Future generations of Jacob’s seed shall become a righteous branch unto the house of Israel.",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -1668,7 +1668,7 @@
     "type": "fill",
     "ref": "2Nep10:3",
     "question": "Jacob was told that the Savior’s name would be _____ by an angel of the Lord.",
-    "answer": "Christ",
+    "answer": ["Christ"],
     "options": ["fill"]
   },
   {
@@ -1676,7 +1676,7 @@
     "type": "bool",
     "ref": "2Nep10:3",
     "question": "Christ would come to those that were in the more wicked part of the world.",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -1684,7 +1684,7 @@
     "type": "multi",
     "ref": "2Nep10:5",
     "question": "Because of their _____ and iniquities, they at Jerusalem will stiffen their necks and crucify him.",
-    "answer": "Priestcrafts",
+    "answer": ["Priestcrafts"],
     "options": ["Priestcrafts", "Lies", "Dumbness"]
   },
   {
@@ -1692,7 +1692,7 @@
     "type": "fill",
     "ref": "2Nep10:8",
     "question": "The Jews he will gather from their long dispersion, from the isles of the sea, and from the _____ of the earth.",
-    "answer": "Parts",
+    "answer": ["Parts"],
     "options": ["fill"]
   },
   {
@@ -1700,7 +1700,7 @@
     "type": "bool",
     "ref": "2Nep10:9",
     "question": "The kings of the Gentiles shall be nursing fathers unto them.",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -1708,7 +1708,7 @@
     "type": "bool",
     "ref": "2Nep10:10-11",
     "question": "The land shall be a land of liberty unto the Gentiles and they shall be blessed.",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -1716,7 +1716,7 @@
     "type": "bool",
     "ref": "2Nep10:13",
     "question": "And he that fights against Zion shall perish, says God.",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -1724,7 +1724,7 @@
     "type": "fill",
     "ref": "2Nep10:15",
     "question": "The Lord must needs to destroy the secret work of darkness, and of murders, and of _____.",
-    "answer": "Abominations",
+    "answer": ["Abominations"],
     "options": ["fill"]
   },
   {
@@ -1732,7 +1732,7 @@
     "type": "fill",
     "ref": "2Nep10:16",
     "question": "For they who are not for me are _____ me, saith our God.",
-    "answer": "Against",
+    "answer": ["Against"],
     "options": ["fill"]
   },
   {
@@ -1740,7 +1740,7 @@
     "type": "fill",
     "ref": "2Nep10:18",
     "question": "The Lord will afflict the seed of Jacob by the hand of the _____.",
-    "answer": "Gentiles",
+    "answer": ["Gentiles"],
     "options": ["fill"]
   },
   {
@@ -1748,7 +1748,7 @@
     "type": "bool",
     "ref": "2Nep10:23",
     "question": "Jacob told his brethren; remember that ye are free to act for yourselves.",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -1756,7 +1756,7 @@
     "type": "fill",
     "ref": "2Nep10:23",
     "question": "We are free to choose the way of everlasting death or the way of eternal _____.",
-    "answer": "Life",
+    "answer": ["Life"],
     "options": ["fill"]
   },
   {
@@ -1764,7 +1764,7 @@
     "type": "fill",
     "ref": "2Nep10:24",
     "question": "It is only through the _____ of God that we are saved.",
-    "answer": "Grace",
+    "answer": ["Grace"],
     "options": ["fill"]
   },
   {
@@ -1772,7 +1772,7 @@
     "type": "fill",
     "ref": "2Nep10:25",
     "question": "Wherefore, may God raise you from death by the power of the resurrection, and also from everlasting death by the power of the _____.",
-    "answer": "Atonement",
+    "answer": ["Atonement"],
     "options": ["fill"]
   },
   {
@@ -1780,7 +1780,7 @@
     "type": "bool",
     "ref": "2Nep11:1",
     "question": "Nephi wrote all the things that Jacob spoke to the Nephites.",
-    "answer": "false",
+    "answer": ["false"],
     "options": ["true", "false"]
   },
   {
@@ -1788,7 +1788,7 @@
     "type": "bool",
     "ref": "2Nep11:2",
     "question": "Nephi wrote more of the words of Isaiah, for my soul delights in his words.",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -1796,7 +1796,7 @@
     "type": "fill",
     "ref": "2Nep11:2",
     "question": "Nephi liken the words of _____ unto his people, and he would send them forth unto all his children.",
-    "answer": "Isaiah",
+    "answer": ["Isaiah"],
     "options": ["fill"]
   },
   {
@@ -1804,7 +1804,7 @@
     "type": "bool",
     "ref": "2Nep11:3",
     "question": "Jacob and Nephi both saw the Savior.",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -1812,7 +1812,7 @@
     "type": "fill",
     "ref": "2Nep11:3",
     "question": "Wherefore, by the words of _____, God hath said, I will establish my word.",
-    "answer": "Three",
+    "answer": ["Three"],
     "options": ["fill"]
   },
   {
@@ -1820,7 +1820,7 @@
     "type": "bool",
     "ref": "2Nep11:3",
     "question": "Nevertheless, God will send more witnesses, to prove that his words are true.",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -1828,7 +1828,7 @@
     "type": "multi",
     "ref": "2Nep11:3, Testimony of Eight Witnesses",
     "question": "How many more witnesses did the Lord say he would send?____",
-    "answer": "8",
+    "answer": ["8"],
     "options": ["6", "8", "10"]
   },
   {
@@ -1836,7 +1836,7 @@
     "type": "fill",
     "ref": "2Nep11:4",
     "question": "By the coming of Christ; the law of _____ will come to an end.",
-    "answer": "Moses",
+    "answer": ["Moses"],
     "options": ["fill"]
   },
   {
@@ -1844,7 +1844,7 @@
     "type": "bool",
     "ref": "2Nep11:6",
     "question": "Nephi’s soul delights in proving unto his people that if Christ had not come, all men must of, perished.",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -1852,7 +1852,7 @@
     "type": "fill",
     "ref": "2Nep11:7",
     "question": "For if there be no Christ there be no God; and if there be no God we are not, for there could have been no _____.",
-    "answer": "Creation",
+    "answer": ["Creation"],
     "options": ["fill"]
   },
   {
@@ -1860,7 +1860,7 @@
     "type": "fill",
     "ref": "2Nep11:7",
     "question": "Nephi said that Christ would come in the _____ of his own time.",
-    "answer": "Fulness",
+    "answer": ["Fulness"],
     "options": ["fill"]
   },
   {
@@ -1868,7 +1868,7 @@
     "type": "bool",
     "ref": "2Nep11:8",
     "question": "Nephi wrote some of the words of Isaiah, that his people would liken his words to themselves as well as us in our time.",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -1876,7 +1876,7 @@
     "type": "fill",
     "ref": "2Nep12:1",
     "question": "The father of Isaiah the prophet was _____.",
-    "answer": "Amoz",
+    "answer": ["Amoz"],
     "options": ["fill"]
   },
   {
@@ -1884,7 +1884,7 @@
     "type": "fill",
     "ref": "2Nep12:2",
     "question": "The house of the Lord shall be established in the top of the mountains, and all shall be exalted above the hills, and all nations shall ____ unto it.",
-    "answer": "Flow",
+    "answer": ["Flow"],
     "options": ["fill"]
   },
   {
@@ -1892,7 +1892,7 @@
     "type": "bool",
     "ref": "2Nep12:6",
     "question": "O Lord, thou hast forsaken the house of Jacob, because they were replenished from the east, and hearken unto soothsayers like the Philist1nes.",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -1900,7 +1900,7 @@
     "type": "fill",
     "ref": "2Nep12:12",
     "question": "For the day of the Lord of _____soon comes upon all nations.",
-    "answer": "Hosts",
+    "answer": ["Hosts"],
     "options": ["fill"]
   },
   {
@@ -1908,7 +1908,7 @@
     "type": "fill",
     "ref": "2Nep12:13",
     "question": "Yea, the day of the Lord shall come upon all the _____ of Lebanon, for they are lifted up; and upon all the oaks of Bashan.",
-    "answer": "Cedars",
+    "answer": ["Cedars"],
     "options": ["fill"]
   },
   {
@@ -1916,7 +1916,7 @@
     "type": "fill",
     "ref": "2Nep12:19",
     "question": "And they shall hide themselves into the holes of the rocks, and into the _____ of the earth, for the fear of the Lord.",
-    "answer": "Caves",
+    "answer": ["Caves"],
     "options": ["fill"]
   },
   {
@@ -1924,7 +1924,7 @@
     "type": "fill",
     "ref": "2Nep13:4",
     "question": "And the Lord said- “I will give children unto them to be their princes, and _____ shall rule over them”.",
-    "answer": "Babes",
+    "answer": ["Babes"],
     "options": ["fill"]
   },
   {
@@ -1932,7 +1932,7 @@
     "type": "bool",
     "ref": "2Nep13:9",
     "question": "Nephi wrote about the countenance of the people and declared their sin to be even as the city of Sodom.",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -1940,7 +1940,7 @@
     "type": "multi",
     "ref": "2Nep14:6",
     "question": "Nephi said that there should be a _____ for a shadow in the daytime from the heat, and for a place of refuge.",
-    "answer": "Tabernacle",
+    "answer": ["Tabernacle"],
     "options": ["Building", "Tabernacle", "Barn"]
   },
   {
@@ -1948,7 +1948,7 @@
     "type": "bool",
     "ref": "2Nep13:16-17",
     "question": "Because the daughters of Zion are haughty, and walk with stretched-forth necks and wanton eyes, the Lord will smite them with a scab on the crown of their heads.",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -1956,7 +1956,7 @@
     "type": "fill",
     "ref": "2Nep15:4",
     "question": "The Lord looked at his v1neyard that it might bring forth grapes, but instead it brought forth _____ grapes.",
-    "answer": "Wild",
+    "answer": ["Wild"],
     "options": ["fill"]
   },
   {
@@ -1964,7 +1964,7 @@
     "type": "bool",
     "ref": "2Nep15:7",
     "question": "For the v1neyard of the Lord or Hosts is the house of Israel.",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -1972,7 +1972,7 @@
     "type": "multi",
     "ref": "2Nep15:7",
     "question": "The men of Judah are the Lord of Host’s pleasant_____.",
-    "answer": "Plant",
+    "answer": ["Plant"],
     "options": ["Plant", "Apple", "Orange"]
   },
   {
@@ -1980,7 +1980,7 @@
     "type": "bool",
     "ref": "2Nep15:9",
     "question": "The Lord of Hosts has said that many houses shall be desolate, and great and fair cities without inhabitant.",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -1988,7 +1988,7 @@
     "type": "fill",
     "ref": "2Nep15:26",
     "question": "The Lord will lift up an_____ to the nations from afar, and will hiss unto them from the end of the earth.",
-    "answer": "Ensign",
+    "answer": ["Ensign"],
     "options": ["fill"]
   },
   {
@@ -1996,7 +1996,7 @@
     "type": "multi",
     "ref": "2Nep16:1",
     "question": "In what king’s reign did Isaiah see the Lord of Hosts sitting upon a throne, high and lifted up?",
-    "answer": "Uzziah",
+    "answer": ["Uzziah"],
     "options": ["Uzziah", "King Tut", "Neither"]
   },
   {
@@ -2004,7 +2004,7 @@
     "type": "multi",
     "ref": "2Nep16:2",
     "question": "When Isaiah saw the Seraphim creature, how many wings did the Seraphim creature have?",
-    "answer": "Six",
+    "answer": ["Six"],
     "options": ["Two", "Six", "One"]
   },
   {
@@ -2012,7 +2012,7 @@
     "type": "fill",
     "ref": "2Nep16:5",
     "question": "Isaiah said that his eyes had seen the King, the Lord of _____.",
-    "answer": "Hosts",
+    "answer": ["Hosts"],
     "options": ["fill"]
   },
   {
@@ -2020,7 +2020,7 @@
     "type": "fill",
     "ref": "2Nep16:8",
     "question": "The Lord asked: “Whom should I send to warn the people”? And Isaiah said, here I am, _____ me.",
-    "answer": "Send",
+    "answer": ["Send"],
     "options": ["fill"]
   },
   {
@@ -2028,7 +2028,7 @@
     "type": "bool",
     "ref": "2Nep17:1 and Isaiah 7",
     "question": "King Ahaz made an alliance with the king of Assryria, in order to repel an attack from Syria and Israel.",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -2036,7 +2036,7 @@
     "type": "multi",
     "ref": "2Nep17:8",
     "question": "For the head of Syria is _____.",
-    "answer": "Damascus",
+    "answer": ["Damascus"],
     "options": ["Bad", "Smelly", "Damascus"]
   },
   {
@@ -2044,7 +2044,7 @@
     "type": "bool",
     "ref": "2Nep17:12",
     "question": "Ahaz did not ask or temp the Lord for a sign.",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -2052,7 +2052,7 @@
     "type": "fill",
     "ref": "2Nep17:14",
     "question": "Jacob said the Lord will show the people a sign: which was a _____ and she shall conceive, and shall bear a son, and his name will be Immauel.",
-    "answer": "Virgin",
+    "answer": ["Virgin"],
     "options": ["fill"]
   },
   {
@@ -2060,7 +2060,7 @@
     "type": "multi",
     "ref": "2Nep18:1",
     "question": "The Lord has sent his word unto _____ and it he has lighted it upon Israel.",
-    "answer": "Isaiah",
+    "answer": ["Isaiah"],
     "options": ["Laman", "Lemuel", "Isaiah"]
   },
   {
@@ -2068,7 +2068,7 @@
     "type": "bool",
     "ref": "2Nep18:2",
     "question": "Isaiah took Uriah the priest and Zechariah the son of Jeberechiah to record and witness the birth of Maher-shalal-hash-baz.",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -2076,7 +2076,7 @@
     "type": "multi",
     "ref": "2Nep18:1",
     "question": "Maher-shalal-hash-baz is the name of_____son.",
-    "answer": "Isaiah's",
+    "answer": ["Isaiah's"],
     "options": ["Nephi's", "Isaiah's", "Zarahemla's"]
   },
   {
@@ -2084,7 +2084,7 @@
     "type": "bool",
     "ref": "2Nep18:14",
     "question": "The Lord shall be a sanctuary to the Nephites.",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -2092,7 +2092,7 @@
     "type": "bool",
     "ref": "2Nep18:19",
     "question": "Jacob asked; should not a people seek unto their God for the living to hear from the dead?",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -2100,7 +2100,7 @@
     "type": "bool",
     "ref": "2Nep18:20",
     "question": "And those that speak not according to his word; it is because there is no light from God in them.",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -2108,7 +2108,7 @@
     "type": "fill",
     "ref": "2Nep19:6",
     "question": "Another name for Jesus Christ is The Prince of _____.",
-    "answer": "Peace",
+    "answer": ["Peace"],
     "options": ["fill"]
   },
   {
@@ -2116,7 +2116,7 @@
     "type": "bool",
     "ref": "2Nep19:6",
     "question": "The Lord refers to himself as The Everlasting Father.",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -2124,7 +2124,7 @@
     "type": "fill",
     "ref": "2Nep19:8",
     "question": "The Lord sent his word unto Jacob and he has lighted it upon the house of _____.",
-    "answer": "Israel",
+    "answer": ["Israel"],
     "options": ["fill"]
   },
   {
@@ -2132,7 +2132,7 @@
     "type": "fill",
     "ref": "2Nep19:12",
     "question": "For all the Lord’s anger against Israel is not turned away, but his hand is _____ out still.",
-    "answer": "Stretched",
+    "answer": ["Stretched"],
     "options": ["fill"]
   },
   {
@@ -2140,7 +2140,7 @@
     "type": "bool",
     "ref": "2Nep19:13",
     "question": "The Lord has smitten the house of Israel, but they continue not to turn to him or seek him.",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -2148,7 +2148,7 @@
     "type": "bool",
     "ref": "2Nep19:16",
     "question": "The leaders of the people cause them to err; and they that are led of them are destroyed.",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -2156,7 +2156,7 @@
     "type": "fill",
     "ref": "2Nep19:21",
     "question": "Ephraim and _____ will join together and be against Judah.",
-    "answer": "Manasseh",
+    "answer": ["Manasseh"],
     "options": ["fill"]
   },
   {
@@ -2164,7 +2164,7 @@
     "type": "bool",
     "ref": "2Nep20:22",
     "question": "And though the people of Israel shall be as the sand of the sea, a remnant of them shall return.",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -2172,7 +2172,7 @@
     "type": "fill",
     "ref": "2Nep21:7",
     "question": "Jacob prophesied that in the end of times; the lion shall eat straw like the _____.",
-    "answer": "Ox",
+    "answer": ["Ox"],
     "options": ["fill"]
   },
   {
@@ -2180,7 +2180,7 @@
     "type": "bool",
     "ref": "2Nep21:10",
     "question": "There shall be a root of Jesse which shall stand for an ensign of the people.",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -2188,7 +2188,7 @@
     "type": "multi",
     "ref": "2Nep21:15",
     "question": "The Lord shall utterly destroy the tongue of the _____ Sea.",
-    "answer": "Egyptian",
+    "answer": ["Egyptian"],
     "options": ["Red", "Egyptian", "Neither"]
   },
   {
@@ -2196,7 +2196,7 @@
     "type": "fill",
     "ref": "2Nep22:2",
     "question": "God is my salvation; I will trust, and not be afraid; the Lord_____ is my strength and my song.",
-    "answer": "Jehovah",
+    "answer": ["Jehovah"],
     "options": ["fill"]
   },
   {
@@ -2204,7 +2204,7 @@
     "type": "fill",
     "ref": "2Nep23:19",
     "question": "Jacob said that Babylon, the beauty of the Chaldees’ excellency, shall be as when God overthrew Sodom and _____.",
-    "answer": "Gomorrah",
+    "answer": ["Gomorrah"],
     "options": ["fill"]
   },
   {
@@ -2212,7 +2212,7 @@
     "type": "bool",
     "ref": "2Nep24:2",
     "question": "The Lord will have mercy on the Jacob and shall take them captives unto whom they were captives and rule over their oppressors.",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -2220,7 +2220,7 @@
     "type": "fill",
     "ref": "2Nep24:12",
     "question": "How art thou fallen from heaven, O Lucifer, son of the _____",
-    "answer": "Morning",
+    "answer": ["Morning"],
     "options": ["fill"]
   },
   {
@@ -2228,7 +2228,7 @@
     "type": "multi",
     "ref": "2Nep24:12",
     "question": "How many times does the name Lucifer appear in the Book Of Mormon?_____-(a) 1 (b) 2 or (c) 3",
-    "answer": "no",
+    "answer": ["no"],
     "options": ["no"]
   },
   {
@@ -2236,7 +2236,7 @@
     "type": "fill",
     "ref": "2Nep24:12",
     "question": "The word Lucifer only appears in the Book of Mormon once, name the Book in which it appears in.",
-    "answer": "Nephi",
+    "answer": ["Nephi"],
     "options": ["fill"]
   },
   {
@@ -2244,7 +2244,7 @@
     "type": "fill",
     "ref": "2Nep24:13",
     "question": "Lucifer wanted to ascend into heaven, and wanted to exalt his throne above the stars of _____.",
-    "answer": "God",
+    "answer": ["God"],
     "options": ["fill"]
   },
   {
@@ -2252,7 +2252,7 @@
     "type": "bool",
     "ref": "2Nep24:24",
     "question": "The Lord of Hosts hath sworn, saying: “Surely as I have thought, so shall it come to pass: and as I have purposed, so shall it stand”",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -2260,7 +2260,7 @@
     "type": "fill",
     "ref": "2Nep25:2",
     "question": "Nephi did not teach his people all the things concerning the manner of the Jews, because their works were works of _____, and their doings were doings of abominations.",
-    "answer": "Darkness",
+    "answer": ["Darkness"],
     "options": ["fill"]
   },
   {
@@ -2268,7 +2268,7 @@
     "type": "bool",
     "ref": "2Nep25:1",
     "question": "Nephi said that Isaiah spoke many things which were hard for his people to understand.",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -2276,7 +2276,7 @@
     "type": "bool",
     "ref": "2Nep25:4",
     "question": "Nephi’s plainness started when he left Jerusalem and his soul delighteth in plainness unto his people that they may learn.",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -2284,7 +2284,7 @@
     "type": "bool",
     "ref": "2Nep25:5",
     "question": "Nephi’s soul delighted in the words of Isaiah.",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -2292,7 +2292,7 @@
     "type": "bool",
     "ref": "2Nep25:5",
     "question": "Nephi wrote that he beheld the things of the Jewish people; and that they knew and understood the words of the prophets spoken to them.",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -2300,7 +2300,7 @@
     "type": "bool",
     "ref": "2Nep25:7",
     "question": "Nephi proceeded with his own prophecies in plainness that he knew that no man can err.",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -2308,7 +2308,7 @@
     "type": "fill",
     "ref": "2Nep25:7",
     "question": "Nephi wrote that in the days that the prophecies of Isaiah shall be fulfilled, men shall know of a surety, at the times when they shall come to _____.",
-    "answer": "Pass",
+    "answer": ["Pass"],
     "options": ["fill"]
   },
   {
@@ -2316,7 +2316,7 @@
     "type": "bool",
     "ref": "2Nep25:9",
     "question": "Nephi said that never have any of the Jews been destroyed without warning save it were foretold them by the prophets of the Lord.",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -2324,7 +2324,7 @@
     "type": "fill",
     "ref": "2Nep25:12",
     "question": "Nephi refers to the Savior as the Only_____of the Father.",
-    "answer": "Begotten",
+    "answer": ["Begotten"],
     "options": ["fill"]
   },
   {
@@ -2332,7 +2332,7 @@
     "type": "multi",
     "ref": "2Nep25:12",
     "question": "How many days did Nephi say the Lord would be laid in sepulchre before he shall rise?____",
-    "answer": "3",
+    "answer": ["3"],
     "options": ["1", "2", "3"]
   },
   {
@@ -2340,7 +2340,7 @@
     "type": "bool",
     "ref": "2Nep25:13",
     "question": "Nephi’s soul delights to prophesy concerning Jesus Christ, for he had seen his day and his heart did magnify his holy name.",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -2348,7 +2348,7 @@
     "type": "multi",
     "ref": "2Nep25:14",
     "question": "Nephi wrote that after the Messiah has risen from the dead, and has manifested himself unto his people, _____ shall be destroyed again.",
-    "answer": "Jerusalem",
+    "answer": ["Jerusalem"],
     "options": ["Salt Lake City", "Sugar City", "Jerusalem"]
   },
   {
@@ -2356,7 +2356,7 @@
     "type": "fill",
     "ref": "2Nep25:18",
     "question": "Nephi said there is save one Messiah spoken by the prophets, and that Messiah is he who should be rejected of the _____.",
-    "answer": "Jews",
+    "answer": ["Jews"],
     "options": ["fill"]
   },
   {
@@ -2364,7 +2364,7 @@
     "type": "fill",
     "ref": "2Nep25:19",
     "question": "Who is the first person in the Book of Mormon to refer to the Savior by the name of Jesus Christ?",
-    "answer": "Nephi",
+    "answer": ["Nephi"],
     "options": ["fill"]
   },
   {
@@ -2372,7 +2372,7 @@
     "type": "fill",
     "ref": "2Nep25:19",
     "question": "According to the words of the prophets, and also the word of the angel of God, his name shall be_____ _____, the Son of God.",
-    "answer": "Christ",
+    "answer": ["Christ"],
     "options": ["fill"]
   },
   {
@@ -2380,7 +2380,7 @@
     "type": "fill",
     "ref": "2Nep25:20",
     "question": "The Lord gave power unto _____ that he should heal nations after they had been bittern by poisonous serpents; if they would cast their eyes unto the serpent.",
-    "answer": "Moses",
+    "answer": ["Moses"],
     "options": ["fill"]
   },
   {
@@ -2388,7 +2388,7 @@
     "type": "multi",
     "ref": "2Nep25:20",
     "question": "Nephi said there is no other name given under _____ save it be this Jesus Christ, of which I have spoken, whereby man can be saved.",
-    "answer": "Heaven",
+    "answer": ["Heaven"],
     "options": ["The Stars", "Heaven", "Neither"]
   },
   {
@@ -2396,7 +2396,7 @@
     "type": "fill",
     "ref": "2Nep25:21",
     "question": "The Lord God promised unto _____ that the things which I write shall be kept and preserved, and handed down unto his seed.",
-    "answer": "Nephi",
+    "answer": ["Nephi"],
     "options": ["fill"]
   },
   {
@@ -2404,7 +2404,7 @@
     "type": "bool",
     "ref": "2Nep25:21",
     "question": "The Lord God promised unto Joseph, that his seed should never perish as long as the earth should stand.",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -2412,7 +2412,7 @@
     "type": "fill",
     "ref": "2Nep25:23",
     "question": "Nephi and Jacob labored diligently to write, to persuade their children and their brethren, to believe in Christ, and to be reconciled to _____.",
-    "answer": "God",
+    "answer": ["God"],
     "options": ["fill"]
   },
   {
@@ -2420,7 +2420,7 @@
     "type": "fill",
     "ref": "2Nep25:24",
     "question": "The Nephites kept the law of _____, and looked forward with steadfastness unto Christ, until the law would be fulfilled.",
-    "answer": "Moses",
+    "answer": ["Moses"],
     "options": ["fill"]
   },
   {
@@ -2428,7 +2428,7 @@
     "type": "bool",
     "ref": "2Nep25:25",
     "question": "Nephi wrote that after Christ should come, the law of Moses would be dead; and they were made alive in Christ because of their faith.",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -2436,7 +2436,7 @@
     "type": "fill",
     "ref": "2Nep25:26",
     "question": "Nephi said, “we talk of Christ, we rejoice in Christ, we preach of Christ, we prophesy of _____.”",
-    "answer": "Christ",
+    "answer": ["Christ"],
     "options": ["fill"]
   },
   {
@@ -2444,7 +2444,7 @@
     "type": "fill",
     "ref": "2Nep25:26",
     "question": "Who did Nephi say that his children and his brethren should know to what source they may look for a remission of their sins?",
-    "answer": "Christ",
+    "answer": ["Christ"],
     "options": ["fill"]
   },
   {
@@ -2452,7 +2452,7 @@
     "type": "bool",
     "ref": "2Nep25:28",
     "question": "The words which Nephi has spoken shall stand as a testimony against his people, and they are sufficient to teach any man the right way.",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -2460,7 +2460,7 @@
     "type": "fill",
     "ref": "2Nep25:29",
     "question": "And now behold, I say unto you that the right way is to believe in _____, and deny him not, and he is the Holy One of Israel.",
-    "answer": "Christ",
+    "answer": ["Christ"],
     "options": ["fill"]
   },
   {
@@ -2468,7 +2468,7 @@
     "type": "fill",
     "ref": "2Nep25:29",
     "question": "Wherefore ye must bow down before him, and worship him with all your ____, mind, and strength, and your soul.",
-    "answer": "Might",
+    "answer": ["Might"],
     "options": ["fill"]
   },
   {
@@ -2476,7 +2476,7 @@
     "type": "bool",
     "ref": "2Nep26:1",
     "question": "Nephi said that after Christ shall have risen from the dead he would show himself unto the Nephites.",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -2484,7 +2484,7 @@
     "type": "fill",
     "ref": "2Nep26:2",
     "question": "Nephi saw many generations pass away, and there would be great _____ and contentions among his people.",
-    "answer": "Wars",
+    "answer": ["Wars"],
     "options": ["fill"]
   },
   {
@@ -2492,7 +2492,7 @@
     "type": "bool",
     "ref": "2Nep26:3",
     "question": "Nephi wrote that after the Messiah shall come there shall be signs given unto his people of his birth.",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -2500,7 +2500,7 @@
     "type": "fill",
     "ref": "2Nep26:3",
     "question": "Unto the Nephites there shall be given signs of the Messiah’s death and _____.",
-    "answer": "Resurrection",
+    "answer": ["Resurrection"],
     "options": ["fill"]
   },
   {
@@ -2508,7 +2508,7 @@
     "type": "fill",
     "ref": "2Nep26:3",
     "question": "The wicked perish because they cast out the _____, and the saints, and stone and slay them.",
-    "answer": "Prophets",
+    "answer": ["Prophets"],
     "options": ["fill"]
   },
   {
@@ -2516,7 +2516,7 @@
     "type": "bool",
     "ref": "2Nep26:3",
     "question": "Because the wicked do bad things; the blood of the saints shall ascend up to God from the ground against them.",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -2524,7 +2524,7 @@
     "type": "multi",
     "ref": "2Nep26:4",
     "question": "Those that are proud and wicked, the Lord will burn as _____.",
-    "answer": "Stubble",
+    "answer": ["Stubble"],
     "options": ["Stubble", "To The Ground", "He Pleases"]
   },
   {
@@ -2532,7 +2532,7 @@
     "type": "bool",
     "ref": "2Nep26:6",
     "question": "The wicked shall be visited with thundering, lightning, and earthquakes, and all manner of destruction.",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -2540,7 +2540,7 @@
     "type": "bool",
     "ref": "2Nep26:8",
     "question": "The righteous look forward unto Christ with steadfastness for the signs which are given, not withstanding all persecution-.",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -2548,7 +2548,7 @@
     "type": "bool",
     "ref": "2Nep26:9",
     "question": "The Son of righteousness shall appear unto the Nephites and he shall heal them.",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -2556,7 +2556,7 @@
     "type": "fill",
     "ref": "2Nep26:9",
     "question": "How many generations will have pass away in righteousness after the Savior appears unto the Nephites?",
-    "answer": "3",
+    "answer": ["3"],
     "options": ["fill"]
   },
   {
@@ -2564,7 +2564,7 @@
     "type": "bool",
     "ref": "2Nep26:10",
     "question": "The Nephites will reap destruction, because of their pride and foolishness.",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -2572,7 +2572,7 @@
     "type": "fill",
     "ref": "2Nep26:10",
     "question": "Because the Nephites yielded unto the _____ and choose works of darkness rather than light, therefore they must go down to hell.",
-    "answer": "Devil",
+    "answer": ["Devil"],
     "options": ["fill"]
   },
   {
@@ -2580,7 +2580,7 @@
     "type": "fill",
     "ref": "2Nep26:11",
     "question": "Nephi wrote- The _____ of the Lord will not always strive with man.",
-    "answer": "Spirit",
+    "answer": ["Spirit"],
     "options": ["fill"]
   },
   {
@@ -2588,7 +2588,7 @@
     "type": "bool",
     "ref": "2Nep26:11",
     "question": "Nephi said that when the spirit of the Lord ceases to strive with man, then comes speedy destruction.",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -2596,7 +2596,7 @@
     "type": "fill",
     "ref": "2Nep26:12",
     "question": "Not only do the Jews need to be convinced that Jesus is the very Christ, it must needs be that the _____ be convinced also that Jesus is the Christ, the Eternal God.",
-    "answer": "Gentiles",
+    "answer": ["Gentiles"],
     "options": ["fill"]
   },
   {
@@ -2604,7 +2604,7 @@
     "type": "fill",
     "ref": "2Nep26:12",
     "question": "Who was the first person in the Book of Mormon to call the Savior by the name of Jesus Christ?",
-    "answer": "Nephi",
+    "answer": ["Nephi"],
     "options": ["fill"]
   },
   {
@@ -2612,7 +2612,7 @@
     "type": "fill",
     "ref": "2Nep26:13",
     "question": "Jesus Christ manifest's himself unto all those that believe in him by the power of the Holy _____.",
-    "answer": "Ghost",
+    "answer": ["Ghost"],
     "options": ["fill"]
   },
   {
@@ -2620,7 +2620,7 @@
     "type": "fill",
     "ref": "2Nep26:13",
     "question": "According to the faith among the children of men, God will work mighty _____, signs, and wonders.",
-    "answer": "Miracles",
+    "answer": ["Miracles"],
     "options": ["fill"]
   },
   {
@@ -2628,7 +2628,7 @@
     "type": "bool",
     "ref": "2Nep26:14",
     "question": "Nephi prophesied concerning the last days; concerning the days that the Lord God shall bring mighty things forth unto the children of men.",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -2636,7 +2636,7 @@
     "type": "fill",
     "ref": "2Nep26:16",
     "question": "For those who shall be destroyed shall speak unto them out of the ground, and their speech shall be low out of the _____.",
-    "answer": "Dust",
+    "answer": ["Dust"],
     "options": ["fill"]
   },
   {
@@ -2644,7 +2644,7 @@
     "type": "multi",
     "ref": "2Nep26:19",
     "question": "It shall come to pass, that those who have dwindled in unbelief shall be _____ by the hands of the Gentiles.",
-    "answer": "Smitten",
+    "answer": ["Smitten"],
     "options": ["Slapped", "Smitten", "Led"]
   },
   {
@@ -2652,7 +2652,7 @@
     "type": "fill",
     "ref": "2Nep26:20",
     "question": "The Gentiles are lifted up in the _____ of their eyes, and have stumbled.",
-    "answer": "Pride",
+    "answer": ["Pride"],
     "options": ["fill"]
   },
   {
@@ -2660,7 +2660,7 @@
     "type": "bool",
     "ref": "2Nep26:20",
     "question": "Because of the greatness of their stumbling blocks, the Gentiles have built up many churches.",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -2668,7 +2668,7 @@
     "type": "fill",
     "ref": "2Nep26:20",
     "question": "The Gentiles put down the power and miracles of _____.",
-    "answer": "God",
+    "answer": ["God"],
     "options": ["fill"]
   },
   {
@@ -2676,7 +2676,7 @@
     "type": "fill",
     "ref": "2Nep26:20",
     "question": "The Gentiles preach up unto themselves their own wisdom and _____; that they may get gain and grind upon the face of the poor.",
-    "answer": "Learning",
+    "answer": ["Learning"],
     "options": ["fill"]
   },
   {
@@ -2684,7 +2684,7 @@
     "type": "bool",
     "ref": "2Nep26:21",
     "question": "There are many churches built up which cause envyings, and strifes, and malice.",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -2692,7 +2692,7 @@
     "type": "fill",
     "ref": "2Nep26:22",
     "question": "The Gentiles are also into _____ combinations, even as in times of old.",
-    "answer": "Secret",
+    "answer": ["Secret"],
     "options": ["fill"]
   },
   {
@@ -2700,7 +2700,7 @@
     "type": "fill",
     "ref": "2Nep26:22",
     "question": "Who is the foundation of evil things and works of darkness? The",
-    "answer": "Devil- ",
+    "answer": ["Devil- "],
     "options": ["fill"]
   },
   {
@@ -2708,7 +2708,7 @@
     "type": "multi",
     "ref": "2Nep26:22",
     "question": "The devil leads men by the neck with a _____ cord, until he binds them with his strong cords forever.",
-    "answer": "Flaxen",
+    "answer": ["Flaxen"],
     "options": ["Stiff", "Flaxen", "Tough"]
   },
   {
@@ -2716,7 +2716,7 @@
     "type": "bool",
     "ref": "2Nep26:23",
     "question": "Nephi wrote: “For behold, my beloved brethren, I say unto you that the Lord God works not in darkness”.",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -2724,7 +2724,7 @@
     "type": "bool",
     "ref": "2Nep26:24",
     "question": "The Lord does not do anything but for the benefit of man and the world.",
-    "answer": "false",
+    "answer": ["false"],
     "options": ["true", "false"]
   },
   {
@@ -2732,7 +2732,7 @@
     "type": "bool",
     "ref": "2Nep26:24",
     "question": "The Lord loves the world; even that he lays down his own life that he may draw all men unto him.",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -2740,7 +2740,7 @@
     "type": "bool",
     "ref": "2Nep27:27",
     "question": "Wherefore, the Lord commands all men to partake of his salvation.",
-    "answer": "false",
+    "answer": ["false"],
     "options": ["true", "false"]
   },
   {
@@ -2748,7 +2748,7 @@
     "type": "bool",
     "ref": "2Nep26:27",
     "question": "The Lord has given all men the opportunity to partake of his salvation for free.",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -2756,7 +2756,7 @@
     "type": "bool",
     "ref": "2Nep26:25",
     "question": "Nephi said the Lord does not cry unto any, saying: “Depart from me”.",
-    "answer": "false",
+    "answer": ["false"],
     "options": ["true", "false"]
   },
   {
@@ -2764,7 +2764,7 @@
     "type": "bool",
     "ref": "2Nep26:27",
     "question": "The Lord has given his salvation free for all men; and he commanded his people that they should persuade all men to repentance.",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -2772,7 +2772,7 @@
     "type": "bool",
     "ref": "2Nep26:29",
     "question": "The Lord has commanded that there should be no priestcrafts.",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -2780,7 +2780,7 @@
     "type": "fill",
     "ref": "2Nep26:29",
     "question": "What is the name of the things that men preach and set themselves up for a light unto the world?",
-    "answer": "Priestcrafts",
+    "answer": ["Priestcrafts"],
     "options": ["fill"]
   },
   {
@@ -2788,7 +2788,7 @@
     "type": "bool",
     "ref": "2Nep26:29",
     "question": "Men do priestcrafts to get gain and praise of the world; but they seek not the welfare of Zion.",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -2796,7 +2796,7 @@
     "type": "fill",
     "ref": "2Nep26:30",
     "question": "The Lord God has given a commandment that all men should have _____, which charity is love.",
-    "answer": "Charity",
+    "answer": ["Charity"],
     "options": ["fill"]
   },
   {
@@ -2804,7 +2804,7 @@
     "type": "bool",
     "ref": "2Nep26:30",
     "question": "The Lord God has said that if we do not have charity we are nothing.",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -2812,7 +2812,7 @@
     "type": "bool",
     "ref": "2Nep26:31",
     "question": "Nephi wrote that the laborer in Zion shall labor fro Zion; for if they labor for money they shall perish.",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -2820,7 +2820,7 @@
     "type": "bool",
     "ref": "2Nep26:32",
     "question": "Nephi recited the Ten Commandments in 2Nephi.",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -2828,7 +2828,7 @@
     "type": "multi",
     "ref": "2Nep26:33",
     "question": "No iniquities come of the Lord; for he does that which is _____ among the children of men.",
-    "answer": "Good",
+    "answer": ["Good"],
     "options": ["Good", "Tasteful", "Awful"]
   },
   {
@@ -2836,7 +2836,7 @@
     "type": "fill",
     "ref": "2Nep26:33",
     "question": "The Lord does nothing save it be plain unto the children of men; and he invites them all to come unto him and partake of his _____.",
-    "answer": "Goodness-",
+    "answer": ["Goodness-"],
     "options": ["fill"]
   },
   {
@@ -2844,7 +2844,7 @@
     "type": "fill",
     "ref": "2Nep26:33",
     "question": "The Lord denies none that come unto him, black and white, bond and free, _____ and female.",
-    "answer": "Male",
+    "answer": ["Male"],
     "options": ["fill"]
   },
   {
@@ -2852,7 +2852,7 @@
     "type": "bool",
     "ref": "2Nep26:33",
     "question": "The Lord remembers the heathen, and all are alike unto God, both Jew and Gentile.",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -2860,7 +2860,7 @@
     "type": "bool",
     "ref": "2Nep27:1",
     "question": "Nephi prophesied that in the days of the Gentiles; all nations of the Gentiles and of the Jews they will be drunken with iniquity and all manner of abominations",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -2868,7 +2868,7 @@
     "type": "bool",
     "ref": "2Nep27:2",
     "question": "In those days of the Gentiles; the Lord will visit them with storm, tempest, and earthquakes, and with the flame of devouring fire.",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -2876,7 +2876,7 @@
     "type": "bool",
     "ref": "2Nep27:4",
     "question": "For behold, all those that do iniquity; you shall be drunken but not with w1ne, you shall stagger but not from strong drink.",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -2884,7 +2884,7 @@
     "type": "fill",
     "ref": "2Nep27:6",
     "question": "Nephi said: 'It shall come to pass that the Lord shall bring forth unto you the words of a book, and they shall be the _____ of them which have slumbered'.",
-    "answer": "Words",
+    "answer": ["Words"],
     "options": ["fill"]
   },
   {
@@ -2892,7 +2892,7 @@
     "type": "bool",
     "ref": "2Nep27:7",
     "question": "The book that the Lord shall deliver will be sealed up; and in the book shall be a revelation from God, from the beginning of the world to the ending thereof.",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -2900,7 +2900,7 @@
     "type": "multi",
     "ref": "2Nep27:9",
     "question": "But the book shall be delivered unto a man, and he shall deliver the words of the _____.",
-    "answer": "Book",
+    "answer": ["Book"],
     "options": ["Lamanites", "Book", "2nd Coming"]
   },
   {
@@ -2908,7 +2908,7 @@
     "type": "bool",
     "ref": "2Nep27:10",
     "question": "Nephi said that the man would not deliver the words of the book which are sealed by the power of God.",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -2916,7 +2916,7 @@
     "type": "multi",
     "ref": "2Nep27:10",
     "question": "When will the revelation/revelations of the book be delivered or made known to us?",
-    "answer": "The Lords Own Due Time",
+    "answer": ["The Lords Own Due Time"],
     "options": ["2025", "The Lords Own Due Time", "When We Are Worthy"]
   },
   {
@@ -2924,7 +2924,7 @@
     "type": "fill",
     "ref": "2Nep27:10",
     "question": "The portion of the book which is sealed reveals all things from the foundation of the _____ unto the end thereof.",
-    "answer": "World",
+    "answer": ["World"],
     "options": ["fill"]
   },
   {
@@ -2932,7 +2932,7 @@
     "type": "fill",
     "ref": "2Nep27:11",
     "question": "And the day will come that the words of the book which were sealed shall be read upon the _____ tops; and they shall be read by the power of Christ.",
-    "answer": "House",
+    "answer": ["House"],
     "options": ["fill"]
   },
   {
@@ -2940,7 +2940,7 @@
     "type": "fill",
     "ref": "2Nep27:12",
     "question": "None shall behold the book, save it be that _____ witnesses shall behold it, by the power of God, besides him to whom the book shall be delivered.",
-    "answer": "Three",
+    "answer": ["Three"],
     "options": ["fill"]
   },
   {
@@ -2948,7 +2948,7 @@
     "type": "bool",
     "ref": "2Nep27:12",
     "question": "Those to whom the book shall be delivered shall testify to the truth of the book and the things therein.",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -2956,7 +2956,7 @@
     "type": "multi",
     "ref": "2Nep27:15",
     "question": "The Lord God shall say unto him whom he shall deliver the book:  Take these words which are not sealed and deliver them to another, that he may show them unto the _____ man.",
-    "answer": "Learned",
+    "answer": ["Learned"],
     "options": ["Learned", "Nosey", "Neither"]
   },
   {
@@ -2964,7 +2964,7 @@
     "type": "bool",
     "ref": "2Nep27:15",
     "question": "And the learned shall say:  Bring hither the book, and I will read it.",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -2972,7 +2972,7 @@
     "type": "bool",
     "ref": "2Nep27:16-17",
     "question": "Because the learned will try to get gain and the glory of the world and not for God, he will not be able to read the sealed portion of the book.",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -2980,7 +2980,7 @@
     "type": "bool",
     "ref": "2Nep27:19",
     "question": "The Lord will deliver again the book and the words thereof to him that is not learned and he shall say:  “I am not learned”.",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -2988,7 +2988,7 @@
     "type": "fill",
     "ref": "2Nep27:21",
     "question": "Touch not the things which are _____; for I will show unto the children of men that I am able to do m1ne own work.",
-    "answer": "Sealed",
+    "answer": ["Sealed"],
     "options": ["fill"]
   },
   {
@@ -2996,7 +2996,7 @@
     "type": "bool",
     "ref": "2Nep27:22",
     "question": "The Lord shall see fit in his own wisdom to reveal all things unto the children of men.",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -3004,7 +3004,7 @@
     "type": "fill",
     "ref": "2Nep27:23",
     "question": "For behold, I am God; and I am a God of miracles; and I will show unto the world that I am the same, yesterday, _____, and forever.",
-    "answer": "Today",
+    "answer": ["Today"],
     "options": ["fill"]
   },
   {
@@ -3012,7 +3012,7 @@
     "type": "multi",
     "ref": "2Nep27:23",
     "question": "The Lord will not work among the children of men save it be according to their _____.",
-    "answer": "Faith",
+    "answer": ["Faith"],
     "options": ["Obedience", "Usefulness", "Faith"]
   },
   {
@@ -3020,7 +3020,7 @@
     "type": "fill",
     "ref": "2Nep27:26",
     "question": "Therefore, I will proceed to do a marvelous work and a _____, among the people.",
-    "answer": "Wonder",
+    "answer": ["Wonder"],
     "options": ["fill"]
   },
   {
@@ -3028,7 +3028,7 @@
     "type": "bool",
     "ref": "2Nep27:27",
     "question": "Woe unto them that seek deep to hide their counsel from the Lord! And their works are in the dark.",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -3036,7 +3036,7 @@
     "type": "bool",
     "ref": "2Nep27:27",
     "question": "But behold, I will show unto them, saith the Lord of Hosts, that I know all their works.",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -3044,7 +3044,7 @@
     "type": "fill",
     "ref": "2Nep27:29",
     "question": "There will come a day that the deaf shall hear the words of the book and the eyes of the blind shall see out of obscurity and out of _____.",
-    "answer": "Darkness-",
+    "answer": ["Darkness-"],
     "options": ["fill"]
   },
   {
@@ -3052,7 +3052,7 @@
     "type": "bool",
     "ref": "2Nep27:30",
     "question": "The poor among the people will rejoice in the Holy One of Israel.",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -3060,7 +3060,7 @@
     "type": "multi",
     "ref": "2Nep27:31",
     "question": "For assuredly as the Lord lives they shall see that the terrible one is brought to _____.",
-    "answer": "Naught",
+    "answer": ["Naught"],
     "options": ["His Knees", "Naught", "Something"]
   },
   {
@@ -3068,7 +3068,7 @@
     "type": "multi",
     "ref": "2Nep27:33",
     "question": "Neither be ashamed neither your face wax pale, says the Lord, who redeemed Abraham, to the house of _____.",
-    "answer": "Jacob",
+    "answer": ["Jacob"],
     "options": ["Nephi", "Jacob", "Lehi"]
   },
   {
@@ -3076,7 +3076,7 @@
     "type": "bool",
     "ref": "2Nep27:35",
     "question": "Nephi said that those that erred in spirit shall come to understanding, and they that murmured shall learn doctr1ne.",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -3084,7 +3084,7 @@
     "type": "bool",
     "ref": "2Nep28:1",
     "question": "Nephi spoke unto his people, according as the Spirit had constra1ned him.",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -3092,7 +3092,7 @@
     "type": "multi",
     "ref": "2Nep28:2",
     "question": "The things written out of the book; shall be of great worth unto the _____of men.",
-    "answer": "Children",
+    "answer": ["Children"],
     "options": ["Power", "Children", "Learning"]
   },
   {
@@ -3100,7 +3100,7 @@
     "type": "bool",
     "ref": "2Nep28:2",
     "question": "The things that are written in the book will be worth especially more unto the seed of Nephi.",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -3108,7 +3108,7 @@
     "type": "bool",
     "ref": "2Nep28:2",
     "question": "The seed of Nephi is a remnant of the house of Israel.",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -3116,7 +3116,7 @@
     "type": "bool",
     "ref": "2Nep28:3",
     "question": "A lot of churches will say: I am the Lord’s but not all of them will be built up unto the Lord.",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -3124,7 +3124,7 @@
     "type": "multi",
     "ref": "2Nep28:4",
     "question": "In the last days a lot of churches will contend one with another and so will their _____.",
-    "answer": "Priests",
+    "answer": ["Priests"],
     "options": ["Priests", "Angels", "Neither"]
   },
   {
@@ -3132,7 +3132,7 @@
     "type": "fill",
     "ref": "2Nep28:4",
     "question": "Churches will teach with their learning, and deny the Holy _____ which gives utterance.",
-    "answer": "Ghost",
+    "answer": ["Ghost"],
     "options": ["fill"]
   },
   {
@@ -3140,7 +3140,7 @@
     "type": "bool",
     "ref": "2Nep28:5",
     "question": "A lot of churches deny the power of God, the Holy One of Israel.",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -3148,7 +3148,7 @@
     "type": "bool",
     "ref": "2Nep28:5",
     "question": "Churches will say: Hearken unto us, and hear our precept; for behold there is no God today.",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -3156,7 +3156,7 @@
     "type": "bool",
     "ref": "2Nep28:5",
     "question": "A lot of churches will say that the Lord the Redeemer has done his work, and he has given his power unto men.",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -3164,7 +3164,7 @@
     "type": "bool",
     "ref": "2Nep28:6",
     "question": "In the last days churches will say that the Lord God has done away with miracles because he already has done his work.",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -3172,7 +3172,7 @@
     "type": "fill",
     "ref": "2Nep28:7",
     "question": "Yea, there shall be many which say:  Eat, drink and be _____, for tomorrow we die; and it shall be well with us.",
-    "answer": "Merry",
+    "answer": ["Merry"],
     "options": ["fill"]
   },
   {
@@ -3180,7 +3180,7 @@
     "type": "bool",
     "ref": "2Nep28:8",
     "question": "Eat, drink, and be merry; nevertheless, fear God-he will justify in committing a little sin.",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -3188,7 +3188,7 @@
     "type": "fill",
     "ref": "2Nep28:8",
     "question": "Many will say-dig a pit for thy neighbor; there is no harm in this; for tomorrow we _____.",
-    "answer": "Die",
+    "answer": ["Die"],
     "options": ["fill"]
   },
   {
@@ -3196,7 +3196,7 @@
     "type": "fill",
     "ref": "2Nep28:8",
     "question": "If we are guilty of doing bad things many will say: God will beat us with a few _____, and at last we shall be saved in the kingdom of God.",
-    "answer": "Stripes-",
+    "answer": ["Stripes-"],
     "options": ["fill"]
   },
   {
@@ -3204,7 +3204,7 @@
     "type": "bool",
     "ref": "2Nep28:9",
     "question": "Many churches shall teach false and vain and foolish doctr1nes.",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -3212,7 +3212,7 @@
     "type": "bool",
     "ref": "2Nep28:9",
     "question": "Many will seek to hide their counsels from the Lord; and their works shall be in the dark.",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -3220,7 +3220,7 @@
     "type": "multi",
     "ref": "2Nep28:10",
     "question": "The blood of the saints, shall cry from the _____ against false churches.",
-    "answer": "Ground",
+    "answer": ["Ground"],
     "options": ["Wells", "Ground", "Sky"]
   },
   {
@@ -3228,7 +3228,7 @@
     "type": "bool",
     "ref": "2Nep28:12",
     "question": "Because of pride, and because of false doctr1ne, their churches have become corrupted.",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -3236,7 +3236,7 @@
     "type": "multi",
     "ref": "2Nep28:12",
     "question": "Many churches are lifted up because of pride and they are _____ up.",
-    "answer": "Puffed",
+    "answer": ["Puffed"],
     "options": ["Puffed", "Fithly", "Lifted"]
   },
   {
@@ -3244,7 +3244,7 @@
     "type": "bool",
     "ref": "2Nep28:13",
     "question": "Because of their f1ne sanctuaries and clothing; many churches rob the poor.",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -3252,7 +3252,7 @@
     "type": "fill",
     "ref": "2Nep28:13",
     "question": "Because of their pride, many churches _____ the meek and the poor in heart.",
-    "answer": "Persecute",
+    "answer": ["Persecute"],
     "options": ["fill"]
   },
   {
@@ -3260,7 +3260,7 @@
     "type": "bool",
     "ref": "2Nep28:14",
     "question": "Many churches because of wickedness and abominations; have gone astray save it be a few, who are the humble followers of Christ.",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -3268,7 +3268,7 @@
     "type": "fill",
     "ref": "2Nep28:4",
     "question": "Churches are led, that in many instances they do err because they are taught by the learning of _____.",
-    "answer": "Men",
+    "answer": ["Men"],
     "options": ["fill"]
   },
   {
@@ -3276,7 +3276,7 @@
     "type": "bool",
     "ref": "2Nep28:15",
     "question": "O the wise, and the learned, and the rich, that are puffed up in the pride of their hearts; they shall be thrust down to hell.",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -3284,7 +3284,7 @@
     "type": "fill",
     "ref": "2Nep28:15",
     "question": "Woe, woe, _____ be unto them, saith the Lord God Almighty, for they shall be thrust down to hell.",
-    "answer": "Woe",
+    "answer": ["Woe"],
     "options": ["fill"]
   },
   {
@@ -3292,7 +3292,7 @@
     "type": "bool",
     "ref": "2Nep28:16",
     "question": "For the day shall come that the Lord will speedily visit the inhabitants of the earth; and in that day those who are fully ripe in iniquity shall perish.",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -3300,7 +3300,7 @@
     "type": "multi",
     "ref": "2Nep28:17",
     "question": "Those that repent of their wickedness and _____, they shall not be destroyed, saith the Lord of Hosts.",
-    "answer": "Abominations",
+    "answer": ["Abominations"],
     "options": ["Abominations", "Sins", "Filth1ness"]
   },
   {
@@ -3308,7 +3308,7 @@
     "type": "fill",
     "ref": "2Nep28:18",
     "question": "The great and _____ church shall tumble to the earth, and great must be the fall thereof.",
-    "answer": "Abominable",
+    "answer": ["Abominable"],
     "options": ["fill"]
   },
   {
@@ -3316,7 +3316,7 @@
     "type": "multi",
     "ref": "2Nep28:19",
     "question": "It shall come to pass that the _____ of the devil shall shake.",
-    "answer": "Kingdom",
+    "answer": ["Kingdom"],
     "options": ["Pit", "Kingdom", "Earth"]
   },
   {
@@ -3324,7 +3324,7 @@
     "type": "bool",
     "ref": "2Nep28:20",
     "question": "In the last days the devil shall rage in the hearts of the children of men.",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -3332,7 +3332,7 @@
     "type": "bool",
     "ref": "2Nep28:20",
     "question": "The devil will stir up the children of men, and stir them up to anger against that which is good.",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -3340,7 +3340,7 @@
     "type": "fill",
     "ref": "2Nep28:21",
     "question": "The devil will pacify, and lull many of the people to _____ security. ",
-    "answer": "Carnal",
+    "answer": ["Carnal"],
     "options": ["fill"]
   },
   {
@@ -3348,7 +3348,7 @@
     "type": "fill",
     "ref": "2Nep28:21",
     "question": "Many will say:  All is well in _____; yea, Zion prospers, all is well. ",
-    "answer": "Zion",
+    "answer": ["Zion"],
     "options": ["fill"]
   },
   {
@@ -3356,7 +3356,7 @@
     "type": "bool",
     "ref": "2Nep28:21",
     "question": "The devil cheats many men of their souls, and leads them carefully down to hell.",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -3364,7 +3364,7 @@
     "type": "fill",
     "ref": "2Nep28:22",
     "question": "The devil flatters away many, and tells them there is no hell; and says unto them:  I am no _____, for there is none. ",
-    "answer": "Devil",
+    "answer": ["Devil"],
     "options": ["fill"]
   },
   {
@@ -3372,7 +3372,7 @@
     "type": "bool",
     "ref": "2Nep28:22",
     "question": "The devil whispers into people’s ear, until he grasps them with his awful chains, from where there is no deliverance.",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -3380,7 +3380,7 @@
     "type": "bool",
     "ref": "2Nep28:23",
     "question": "And all that have been seized by the devil must stand before the throne of God, and be judged according to their works.",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -3388,7 +3388,7 @@
     "type": "bool",
     "ref": "2Nep28:23",
     "question": "The wicked will go to the place prepared for them, even if it is a lake of fire and brimstone.",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -3396,7 +3396,7 @@
     "type": "bool",
     "ref": "2Nep28:23",
     "question": "Another way to best describe the lake of fire and brimstone is endless torment.",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -3404,7 +3404,7 @@
     "type": "bool",
     "ref": "2Nep28:24",
     "question": "Nephi said therefore, woe be unto him that is at ease in Zion!",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -3412,7 +3412,7 @@
     "type": "bool",
     "ref": "2Nep28:25",
     "question": "Nephi wrote:” Woe be unto him that cries all is well! Even all is well in Zion”.",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -3420,7 +3420,7 @@
     "type": "fill",
     "ref": "2Nep28:26",
     "question": "Woe be unto him that hearkens unto the precepts of _____, and denies the power of God, and the gift of the Holy Ghost! ",
-    "answer": "Men",
+    "answer": ["Men"],
     "options": ["fill"]
   },
   {
@@ -3428,7 +3428,7 @@
     "type": "bool",
     "ref": "2Nep28:28",
     "question": "For behold, he that is built upon the rock receives the word of God with gladness; and he that is built upon a sandy foundation trembles and he shall fall.",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -3436,7 +3436,7 @@
     "type": "fill",
     "ref": "2Nep28:29",
     "question": "Woe be unto him that shall say:  We have received the _____ of God, and we need no more of the word of God, for we have enough.",
-    "answer": "Word",
+    "answer": ["Word"],
     "options": ["fill"]
   },
   {
@@ -3444,7 +3444,7 @@
     "type": "fill",
     "ref": "2Nep28:3”",
     "question": "For behold, thus saith the Lord God “I will give unto the children of men l1ne upon l1ne, precept upon “_____. ",
-    "answer": "Precept",
+    "answer": ["Precept"],
     "options": ["fill"]
   },
   {
@@ -3452,7 +3452,7 @@
     "type": "fill",
     "ref": "2Nep28:30",
     "question": "The Lord gives his word, here a little and there a _____; and blessed are those who hearken unto my precepts.",
-    "answer": "Little",
+    "answer": ["Little"],
     "options": ["fill"]
   },
   {
@@ -3460,7 +3460,7 @@
     "type": "bool",
     "ref": "2Nep28:30",
     "question": "The Lord is pleased with us when we lend and ear unto his counsel, and he has said that we will learn wisdom because of it.",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -3468,7 +3468,7 @@
     "type": "bool",
     "ref": "2Nep28:30",
     "question": "For those that say:  We have enough, from them shall be taken away even that which they already have.",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -3476,7 +3476,7 @@
     "type": "bool",
     "ref": "2Nep28:31",
     "question": "Nephi wrote: Cursed is he that puts his trust in man, or makes flesh his arm.",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -3484,7 +3484,7 @@
     "type": "multi",
     "ref": "2Nep28:32",
     "question": "Woe be unto the _____, I will be merciful unto them, saith the Lord God, if they will repent and come unto me.",
-    "answer": "Gentiles",
+    "answer": ["Gentiles"],
     "options": ["Ugly", "Zoramites", "Gentiles"]
   },
   {
@@ -3492,7 +3492,7 @@
     "type": "bool",
     "ref": "2Nep28:32",
     "question": "The Lord has said unto the Gentiles:  Repent and come unto me; for m1ne arm is lengthened out all day long for you.",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -3500,7 +3500,7 @@
     "type": "bool",
     "ref": "2Nep29:1",
     "question": "Nephi prophesied that the Lord will set his hand a second time to recover his people, which are of the house of Israel.",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -3508,7 +3508,7 @@
     "type": "fill",
     "ref": "2Nep29:2",
     "question": "The Lord promised to remember the covenants he made to Nephi and his father named _____. ",
-    "answer": "Lehi",
+    "answer": ["Lehi"],
     "options": ["fill"]
   },
   {
@@ -3516,7 +3516,7 @@
     "type": "bool",
     "ref": "2Nep29:2",
     "question": "The Lord’s words shall proceed forth out of his mouth unto the seed of Nephi.",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -3524,7 +3524,7 @@
     "type": "multi",
     "ref": "2Nep29:2",
     "question": "God’s words shall hiss forth unto the ends of the earth, for a _____ unto my people, which are of the house of Israel.",
-    "answer": "Standard",
+    "answer": ["Standard"],
     "options": ["Proclamation", "Standard", "Lecture"]
   },
   {
@@ -3532,7 +3532,7 @@
     "type": "fill",
     "ref": "2Nep29:3",
     "question": "Many Gentiles shall say:  A Bible! A _____! We have got a Bible, and there cannot be any more Bible. ",
-    "answer": "Bible",
+    "answer": ["Bible"],
     "options": ["fill"]
   },
   {
@@ -3540,7 +3540,7 @@
     "type": "multi",
     "ref": "2Nep29:4",
     "question": "Who are the Lords ancient covenant people?",
-    "answer": "Jews Or (c)",
+    "answer": ["Jews Or (c)"],
     "options": ["Louisianan", "Idahoan", "Jews Or (c)"]
   },
   {
@@ -3548,7 +3548,7 @@
     "type": "bool",
     "ref": "2Nep29:5",
     "question": "The Gentiles have not remembered the Lord’s covenant people, but have cursed and hated them, and have not sought to recover them.",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -3556,7 +3556,7 @@
     "type": "multi",
     "ref": "2Nep29:6",
     "question": "Those that say:  A Bible, we have got a Bible, and we need no more Bible, they are _____, the Lord has said.",
-    "answer": "Fools",
+    "answer": ["Fools"],
     "options": ["Not Smart", "Not Christians", "Fools"]
   },
   {
@@ -3564,7 +3564,7 @@
     "type": "bool",
     "ref": "2Nep29:7",
     "question": "The Lord asked: “Know ye not that there are more nations than one”?  Know ye not that I, the Lord your God, have created all men.",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -3572,7 +3572,7 @@
     "type": "bool",
     "ref": "2Nep29:7",
     "question": "God remembers every single one of us, even those that are upon the isles of the sea.",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -3580,7 +3580,7 @@
     "type": "fill",
     "ref": "2Nep29:7",
     "question": "The Lord _____ in the heavens above and in the earth beneath. ",
-    "answer": "Rules",
+    "answer": ["Rules"],
     "options": ["fill"]
   },
   {
@@ -3588,7 +3588,7 @@
     "type": "bool",
     "ref": "2Nep29:7",
     "question": "God will bring forth his word unto the children of men, yea, even upon all the nations of the earth.",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -3596,7 +3596,7 @@
     "type": "fill",
     "ref": "2Nep29:8",
     "question": "Wherefore _____ ye, because that ye shall receive more of my word?",
-    "answer": "murmur",
+    "answer": ["murmur"],
     "options": ["fill"]
   },
   {
@@ -3604,7 +3604,7 @@
     "type": "fill",
     "ref": "2Nep29:8",
     "question": "And when the two nations shall run together the _____ of the two nations shall run together also.",
-    "answer": "testimony",
+    "answer": ["testimony"],
     "options": ["fill"]
   },
   {
@@ -3612,7 +3612,7 @@
     "type": "multi",
     "ref": "2Nep29:8",
     "question": "The Lord said:  “Know ye not that the testimony of _____ nations is a witness unto you that I am God, and that I remember one nation like unto another”.",
-    "answer": "Two",
+    "answer": ["Two"],
     "options": ["Two", "Twenty", "Four"]
   },
   {
@@ -3620,7 +3620,7 @@
     "type": "bool",
     "ref": "2Nep29:9",
     "question": "The testimony of the two nations will prove unto many that God is the same yesterday, today, and forever.",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -3628,7 +3628,7 @@
     "type": "multi",
     "ref": "2Nep29:9",
     "question": "The Lord’s work is not yet finished; neither shall it be until the end of _____, neither from that time henceforth and forever.",
-    "answer": "Man",
+    "answer": ["Man"],
     "options": ["Time", "Man", "The Tonight Show"]
   },
   {
@@ -3636,7 +3636,7 @@
     "type": "fill",
     "ref": "2Nep29:10",
     "question": "Wherefore, because that ye have a _____ ye need not suppose that it contains all the Lord’s words. ",
-    "answer": "Bible",
+    "answer": ["Bible"],
     "options": ["fill"]
   },
   {
@@ -3644,7 +3644,7 @@
     "type": "bool",
     "ref": "2Nep29:10",
     "question": "Just because we have a Bible, we need not suppose that it contains all of the Lord’s words and that he has not caused more to be written.",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -3652,7 +3652,7 @@
     "type": "fill",
     "ref": "2Nep29:11",
     "question": "The Lord has commanded all men, both in the east and west, and in the _____, and in the south; that they should write which he has spoken unto them. ",
-    "answer": "North",
+    "answer": ["North"],
     "options": ["fill"]
   },
   {
@@ -3660,7 +3660,7 @@
     "type": "bool",
     "ref": "2Nep29:11",
     "question": "The Lord has not commanded the people in the islands of the sea to write the words which he has spoken.",
-    "answer": "false",
+    "answer": ["false"],
     "options": ["true", "false"]
   },
   {
@@ -3668,7 +3668,7 @@
     "type": "fill",
     "ref": "2Nep29:11",
     "question": "God will judge every man according to his works, and according to that which is _____. ",
-    "answer": "Written",
+    "answer": ["Written"],
     "options": ["fill"]
   },
   {
@@ -3676,7 +3676,7 @@
     "type": "bool",
     "ref": "2Nep29:12",
     "question": "The Lord will speak unto the Jews and Nephites to write that which he has spoken.",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -3684,7 +3684,7 @@
     "type": "fill",
     "ref": "2Nep29:12",
     "question": "The other _____ of the house of Israel that the Lord has led away; will also write the words which he has spoken. ",
-    "answer": "Tribes",
+    "answer": ["Tribes"],
     "options": ["fill"]
   },
   {
@@ -3692,7 +3692,7 @@
     "type": "fill",
     "ref": "2Nep29:13",
     "question": "And it shall come to pass that the Jews shall have the words of the Nephites, and the Nephites shall have the words of the _____. ",
-    "answer": "Jews",
+    "answer": ["Jews"],
     "options": ["fill"]
   },
   {
@@ -3700,7 +3700,7 @@
     "type": "fill",
     "ref": "2Nep29:13",
     "question": "The Nephites and Jews shall have the words of the _____ tribes of Israel and the lost tribes of Israel shall have the words of the Nephites and Jews. ",
-    "answer": "Lost",
+    "answer": ["Lost"],
     "options": ["fill"]
   },
   {
@@ -3708,7 +3708,7 @@
     "type": "bool",
     "ref": "2Nep29:14",
     "question": "And it shall come to pass that my people; whom are of the house of Israel, shall be gathered home unto the lands of their possessions.",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -3716,7 +3716,7 @@
     "type": "fill",
     "ref": "2Nep29:14",
     "question": "The Lord will show unto them that fight against his word and people that I am God, and that I covenanted with _____ and that I would remember his seed forever. ",
-    "answer": "Abraham",
+    "answer": ["Abraham"],
     "options": ["fill"]
   },
   {
@@ -3724,7 +3724,7 @@
     "type": "bool",
     "ref": "2Nep30:1",
     "question": "Nephi wrote:  I, Nephi, would suffer that ye should suppose that ye are more righteous than the Gentiles.",
-    "answer": "false",
+    "answer": ["false"],
     "options": ["true", "false"]
   },
   {
@@ -3732,7 +3732,7 @@
     "type": "bool",
     "ref": "2Nep30:1",
     "question": "For behold, if we do not keep the commandments of God, we shall likewise perish.",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -3740,7 +3740,7 @@
     "type": "bool",
     "ref": "2Nep30:1",
     "question": "Because of the words that have been written, we should suppose that the Gentiles will be utterly destroyed.",
-    "answer": "false",
+    "answer": ["false"],
     "options": ["true", "false"]
   },
   {
@@ -3748,7 +3748,7 @@
     "type": "fill",
     "ref": "2Nep30:2",
     "question": "As many of the Gentiles as will repent are the covenant people of the Lord; and as many of the _____ as will not repent shall be cast off. ",
-    "answer": "Jews",
+    "answer": ["Jews"],
     "options": ["fill"]
   },
   {
@@ -3756,7 +3756,7 @@
     "type": "fill",
     "ref": "2Nep30:2",
     "question": "The _____ has covenanted with none save it be with them that repent and believe in his Son, who is the Holy One of Israel. ",
-    "answer": "Lord",
+    "answer": ["Lord"],
     "options": ["fill"]
   },
   {
@@ -3764,7 +3764,7 @@
     "type": "bool",
     "ref": "2Nep30:3",
     "question": "After the book shall come forth, and be written unto the Gentiles, and sealed up again unto the Lord, there shall be many which believe the words that are written.",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -3772,7 +3772,7 @@
     "type": "fill",
     "ref": "2Nep30:3",
     "question": "Who will carry forth the words which shall be written in the book unto the remnant seed of Nephi?_____",
-    "answer": "Gentiles",
+    "answer": ["Gentiles"],
     "options": ["fill"]
   },
   {
@@ -3780,7 +3780,7 @@
     "type": "fill",
     "ref": "2Nep30:4",
     "question": "Then shall the remnant of our seed know concerning the Nephites, how that we came out from _____, and that they are descendants of the Jews. ",
-    "answer": "Jerusalem",
+    "answer": ["Jerusalem"],
     "options": ["fill"]
   },
   {
@@ -3788,7 +3788,7 @@
     "type": "fill",
     "ref": "2Nep30:5",
     "question": "The gospel of Jesus Christ shall be declared unto the remnant of the seed of Laman and _____. ",
-    "answer": "Lemuel",
+    "answer": ["Lemuel"],
     "options": ["fill"]
   },
   {
@@ -3796,7 +3796,7 @@
     "type": "fill",
     "ref": "2Nep30:5",
     "question": "Who shall be restored unto the knowledge of their fathers, and also to the knowledge of Jesus Christ, which was had among their fathers?",
-    "answer": "Lamanites",
+    "answer": ["Lamanites"],
     "options": ["fill"]
   },
   {
@@ -3804,7 +3804,7 @@
     "type": "bool",
     "ref": "2Nep30:6",
     "question": "When the Lamanites come to the knowledge of their fathers, they will rejoice; for they shall know that it is a blessing unto them from the Lord.",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -3812,7 +3812,7 @@
     "type": "fill",
     "ref": "2Nep30:6",
     "question": "Whose scales of darkness shall begin to fall from their eyes when the gospel of Jesus Christ shall be declared among them, and they shall be restored unto the knowledge of their fathers?  The",
-    "answer": "Lamanites",
+    "answer": ["Lamanites"],
     "options": ["fill"]
   },
   {
@@ -3820,7 +3820,7 @@
     "type": "bool",
     "ref": "2Nep30:6",
     "question": "Once there scales of darkness fall off, many generations shall not pass away among them, save they shall be a white and delightsome people",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -3828,7 +3828,7 @@
     "type": "fill",
     "ref": "2Nep30:7",
     "question": "And it shall come to _____ that the Jews which are scattered also shall begin to believe in Jesus Christ that he is was the Messiah. ",
-    "answer": "Pass",
+    "answer": ["Pass"],
     "options": ["fill"]
   },
   {
@@ -3836,7 +3836,7 @@
     "type": "fill",
     "ref": "2Nep30:7",
     "question": "Many Jews shall begin to gather in upon the face of the land; and as many as shall believe in _____ shall also become a delightsome people.",
-    "answer": "Christ",
+    "answer": ["Christ"],
     "options": ["fill"]
   },
   {
@@ -3844,7 +3844,7 @@
     "type": "fill",
     "ref": "2Nep30:8",
     "question": "And it shall come to pass that the Lord God shall commence his work among all nations, tongues, and _____. ",
-    "answer": "People",
+    "answer": ["People"],
     "options": ["fill"]
   },
   {
@@ -3852,7 +3852,7 @@
     "type": "bool",
     "ref": "2Nep30:8",
     "question": "The Lord will bring the restoration of the gospel to his people who are upon the earth.",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -3860,7 +3860,7 @@
     "type": "fill",
     "ref": "2Nep30:9",
     "question": "And with righteousness shall the Lord God judge the poor, and reprove with equity the _____ of the earth. ",
-    "answer": "Meek",
+    "answer": ["Meek"],
     "options": ["fill"]
   },
   {
@@ -3868,7 +3868,7 @@
     "type": "fill",
     "ref": "2Nep30:9",
     "question": "The Lord will smite the earth with the rod of his mouth; and with the breath of his lips shall he slay the _____. ",
-    "answer": "Wicked",
+    "answer": ["Wicked"],
     "options": ["fill"]
   },
   {
@@ -3876,7 +3876,7 @@
     "type": "bool",
     "ref": "2Nep30:10",
     "question": "For the time speedily comes that the Lord God shall cause a great division among the people, and the wicked will he destroy.",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -3884,7 +3884,7 @@
     "type": "multi",
     "ref": "2Nep30:10",
     "question": "The Lord will spare the righteous and his people, yea, even if it so be that he must destroy the wicked by _____.",
-    "answer": "Fire",
+    "answer": ["Fire"],
     "options": ["Rockets", "Fire", "Flooding The Earth"]
   },
   {
@@ -3892,7 +3892,7 @@
     "type": "multi",
     "ref": "2Nep30:11",
     "question": "And _____ shall be the girdle of his loins, and faithfulness the girdle of his reins.",
-    "answer": "Righteousness",
+    "answer": ["Righteousness"],
     "options": ["Gentiles", "Righteousness", "Lamanites"]
   },
   {
@@ -3900,7 +3900,7 @@
     "type": "multi",
     "ref": "2Nep30:12",
     "question": "And the leopard shall lie down with the kid, and the calf, and the young lion together, and a _____ child shall lead them.",
-    "answer": "Little",
+    "answer": ["Little"],
     "options": ["Little", "Smart", "Big"]
   },
   {
@@ -3908,7 +3908,7 @@
     "type": "multi",
     "ref": "2Nep30:13",
     "question": "In the last days the cow and the bear shall feed together, and the lion shall eat _____ like the ox.",
-    "answer": "Straw",
+    "answer": ["Straw"],
     "options": ["Straw", "Hay", "Fruit"]
   },
   {
@@ -3916,7 +3916,7 @@
     "type": "bool",
     "ref": "2Nep30:15",
     "question": "The earth shall be full of the knowledge of the Lord, the same as the waters cover the sea.",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -3924,7 +3924,7 @@
     "type": "multi",
     "ref": "2Nep30:16",
     "question": "In the last days – the things of all _____ shall be made known; yea, all things shall be known unto the children of men.",
-    "answer": "Nations",
+    "answer": ["Nations"],
     "options": ["Cities", "Nations", "The Universe"]
   },
   {
@@ -3932,7 +3932,7 @@
     "type": "bool",
     "ref": "2Nep30:17",
     "question": "In the last days not all the secret things will be revealed unto men.",
-    "answer": "false",
+    "answer": ["false"],
     "options": ["true", "false"]
   },
   {
@@ -3940,7 +3940,7 @@
     "type": "bool",
     "ref": "2Nep30:17",
     "question": "Nephi said concerning the end that there will be no works of darkness save it shall be made manifest in the light.",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -3948,7 +3948,7 @@
     "type": "bool",
     "ref": "2Nep30:18",
     "question": "Wherefore, all things which have been revealed unto the children of men shall not be revealed at that day.",
-    "answer": "false",
+    "answer": ["false"],
     "options": ["true", "false"]
   },
   {
@@ -3956,7 +3956,7 @@
     "type": "fill",
     "ref": "2Nep30:18",
     "question": "Nephi wrote that Satan shall have no power over the _____ of the children of men, no more, for a long time. ",
-    "answer": "Hearts",
+    "answer": ["Hearts"],
     "options": ["fill"]
   },
   {
@@ -3964,7 +3964,7 @@
     "type": "multi",
     "ref": "2Nep30:18",
     "question": "How long did Nephi say that Satan would have no power over the children of men?",
-    "answer": "Long Time",
+    "answer": ["Long Time"],
     "options": ["Long Time", "1,000 Years", "A Lot Of Years"]
   },
   {
@@ -3972,7 +3972,7 @@
     "type": "bool",
     "ref": "2Nep30:18",
     "question": "Never in the Book of Mormon are we told by Mormon how long Satan will be cha1ned up for during the second coming of Jesus Christ.",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -3980,7 +3980,7 @@
     "type": "multi",
     "ref": "2Nep31:1",
     "question": "Nephi wrote but a few things which shall come to pass; neither could he write but of few words of his brother _____.",
-    "answer": "Jacob",
+    "answer": ["Jacob"],
     "options": ["Sam", "Jacob", "Laman"]
   },
   {
@@ -3988,7 +3988,7 @@
     "type": "bool",
     "ref": "2Nep31:2",
     "question": "Nephi spoke plainly of the doctr1ne of Christ, as far as the plainness of his prophesying.",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -3996,7 +3996,7 @@
     "type": "fill",
     "ref": "2Nep31:3",
     "question": "Nephi wrote:  My soul _____ in plainness; for after this manner does the Lord God work among the children of men.",
-    "answer": "Delight",
+    "answer": ["Delight"],
     "options": ["fill"]
   },
   {
@@ -4004,7 +4004,7 @@
     "type": "bool",
     "ref": "2Nep31:3",
     "question": "For the Lord God gives light unto all his words and works so that we can be confused.",
-    "answer": "false",
+    "answer": ["false"],
     "options": ["true", "false"]
   },
   {
@@ -4012,7 +4012,7 @@
     "type": "fill",
     "ref": "2Nep31:3",
     "question": "For the Lord speaks to each of us according to our _____, so that we can all understand him.",
-    "answer": "Language",
+    "answer": ["Language"],
     "options": ["fill"]
   },
   {
@@ -4020,7 +4020,7 @@
     "type": "fill",
     "ref": "2Nep31:4",
     "question": "Nephi wrote and hoped that we should all remember the Lord and he showed him the _____ who would baptize the Lamb of God.",
-    "answer": "Prophet",
+    "answer": ["Prophet"],
     "options": ["fill"]
   },
   {
@@ -4028,7 +4028,7 @@
     "type": "bool",
     "ref": "2Neph31:4",
     "question": "Never in the Book of Mormon are we told by Mormon what the name of the prophet is who will baptize the Lamb of God.",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -4036,7 +4036,7 @@
     "type": "bool",
     "ref": "2Nep31:4",
     "question": "Nephi said that the Lamb of God would take only the real bad sins away from all of us.",
-    "answer": "false",
+    "answer": ["false"],
     "options": ["true", "false"]
   },
   {
@@ -4044,7 +4044,7 @@
     "type": "fill",
     "ref": "2Nep31:5",
     "question": "If the Lamb of God should have need to be baptized by _____ , to fulfill all righteousness; should we not all have the need to be baptized by water also?",
-    "answer": "Water",
+    "answer": ["Water"],
     "options": ["fill"]
   },
   {
@@ -4052,7 +4052,7 @@
     "type": "bool",
     "ref": "2Nep31:7",
     "question": "The Lord has shown unto the children of men that, according to the flesh that he has humbled himself before the Father.",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -4060,7 +4060,7 @@
     "type": "fill",
     "ref": "2Nep31:7",
     "question": "By being baptized; the Lord witnessed unto the Father that he would be obedient unto him in keeping his _____.",
-    "answer": "Commandments",
+    "answer": ["Commandments"],
     "options": ["fill"]
   },
   {
@@ -4068,7 +4068,7 @@
     "type": "fill",
     "ref": "2Nep31:8",
     "question": "What kind of form of bird descended upon Jesus Christ after he was baptized, as the Holy Ghost?",
-    "answer": "Dove",
+    "answer": ["Dove"],
     "options": ["fill"]
   },
   {
@@ -4076,7 +4076,7 @@
     "type": "bool",
     "ref": "2Nep31:9",
     "question": "The Lord shows unto the children of men the straightness of the path, and the narrowness of the gate, by which they should enter, he having set the example.",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -4084,7 +4084,7 @@
     "type": "bool",
     "ref": "2Nep31:10",
     "question": "Nephi wrote that the Lord has said unto the children of men to follow the devil and not him.",
-    "answer": "false",
+    "answer": ["false"],
     "options": ["true", "false"]
   },
   {
@@ -4092,7 +4092,7 @@
     "type": "fill",
     "ref": "2Nep31:11",
     "question": "And the Father said:”Repent ye, _____ ye, and be baptized in the name of my Beloved Son”.",
-    "answer": "Repent",
+    "answer": ["Repent"],
     "options": ["fill"]
   },
   {
@@ -4100,7 +4100,7 @@
     "type": "fill",
     "ref": "2Nep31:11, 2Nep2:28",
     "question": "Other names that we can use to describe Jesus Christ are:  The Messiah, Holy One of Israel, Mediator, and the _____ Son.",
-    "answer": "Beloved",
+    "answer": ["Beloved"],
     "options": ["fill"]
   },
   {
@@ -4108,7 +4108,7 @@
     "type": "fill",
     "ref": "2Nep31:12",
     "question": "Be baptized in my name, to him will the _____ give the Holy Ghost, like unto me.",
-    "answer": "Father",
+    "answer": ["Father"],
     "options": ["fill"]
   },
   {
@@ -4116,7 +4116,7 @@
     "type": "fill",
     "ref": "2Nep31:12",
     "question": "The Lord has said:  Follow me, and do the things which ye have seen me _____.",
-    "answer": "Do",
+    "answer": ["Do"],
     "options": ["fill"]
   },
   {
@@ -4124,7 +4124,7 @@
     "type": "fill",
     "ref": "2Nep31:13",
     "question": "We should follow the Son, with a full purpose of heart, repenting of our sins, witnessing unto the Father that we are willing to take upon the name of _____.",
-    "answer": "Christ",
+    "answer": ["Christ"],
     "options": ["fill"]
   },
   {
@@ -4132,7 +4132,7 @@
     "type": "fill",
     "ref": "2Nep31:13",
     "question": "After we are baptized with water, we shall receive the Holy Ghost; yea, then comes the baptism of _____ and of the Holy Ghost.",
-    "answer": "Fire",
+    "answer": ["Fire"],
     "options": ["fill"]
   },
   {
@@ -4140,7 +4140,7 @@
     "type": "bool",
     "ref": "2Nep31:14",
     "question": "When we are baptized by water and have received the baptism of fire and of the Holy Ghost, we should not deny Jesus Christ, and if we do, it is better that we should have not known him.",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -4148,7 +4148,7 @@
     "type": "bool",
     "ref": "2Nep31:15",
     "question": "Nephi heard God say:”Yea, the words of my Beloved are true and faithful, and he that endures to the end shall be saved”.",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -4156,7 +4156,7 @@
     "type": "multi",
     "ref": "2Nep31:16",
     "question": "Nephi said that unless a man shall endure to the end, in following the example of the Son of the living God, he cannot be _____.",
-    "answer": "Saved",
+    "answer": ["Saved"],
     "options": ["Made Clean", "Saved", "Neither"]
   },
   {
@@ -4164,7 +4164,7 @@
     "type": "fill",
     "ref": "2Nep31:17",
     "question": "Nephi was shown by God the _____ by which we should enter the Kingdom of Heaven.",
-    "answer": "Gate",
+    "answer": ["Gate"],
     "options": ["fill"]
   },
   {
@@ -4172,7 +4172,7 @@
     "type": "fill",
     "ref": "2Nep31:17",
     "question": "The gate by which we should enter is repentance and baptism by water; and then comes a _____ of our sins by fire and by the Holy Ghost.",
-    "answer": "Remission",
+    "answer": ["Remission"],
     "options": ["fill"]
   },
   {
@@ -4180,7 +4180,7 @@
     "type": "multi",
     "ref": "2Nep31:18",
     "question": "After we do all the things which God has commanded, we are in the straight and narrow path which leads to _____ life.",
-    "answer": "Eternal",
+    "answer": ["Eternal"],
     "options": ["Eternal", "A Better", "Hum, Hum"]
   },
   {
@@ -4188,7 +4188,7 @@
     "type": "bool",
     "ref": "2Nep31:19",
     "question": "After we are in the straight and narrow path of the Lord; we our finished with all that we can do.",
-    "answer": "false",
+    "answer": ["false"],
     "options": ["true", "false"]
   },
   {
@@ -4196,7 +4196,7 @@
     "type": "bool",
     "ref": "2Nep31:19",
     "question": "We are thus far saved by the word of Christ with unshaken faith in him, relying wholly upon the merits of him who is mighty to save.",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -4204,7 +4204,7 @@
     "type": "multi",
     "ref": "2Nep31:20",
     "question": "Wherefore ye should press forward with a _____ in Christ, having perfect brightness of hope, and of love of God and of all men.",
-    "answer": "Steadfastness",
+    "answer": ["Steadfastness"],
     "options": ["Steadfastness", "Word", "Neither"]
   },
   {
@@ -4212,7 +4212,7 @@
     "type": "fill",
     "ref": "2Nep31:20",
     "question": "Wherefore, if ye shall press forward_____ upon the words of Christ, and endure to the end, behold, thus saith the Father:  Ye shall have eternal life.",
-    "answer": "Feasting",
+    "answer": ["Feasting"],
     "options": ["fill"]
   },
   {
@@ -4220,7 +4220,7 @@
     "type": "fill",
     "ref": "2Nep31:21",
     "question": "Behold, there is none other way or name given under heaven whereby man can be _____ in the kingdom of God.",
-    "answer": "Saved",
+    "answer": ["Saved"],
     "options": ["fill"]
   },
   {
@@ -4228,7 +4228,7 @@
     "type": "fill",
     "ref": "2Nep31:21",
     "question": "The doctr1ne of Christ; is the one and only true doctr1ne of the _____, and of the Son, and of the Holy Ghost.",
-    "answer": "Father",
+    "answer": ["Father"],
     "options": ["fill"]
   },
   {
@@ -4236,7 +4236,7 @@
     "type": "fill",
     "ref": "2Nep32:2",
     "question": "After we receive the Holy Ghost, Nephi said that we can speak with the _____ of angels only by and through the Holy Ghost.",
-    "answer": "Tongue",
+    "answer": ["Tongue"],
     "options": ["fill"]
   },
   {
@@ -4244,7 +4244,7 @@
     "type": "bool",
     "ref": "2Nep32:3",
     "question": "Angels speak by the power of the Holy Ghost.",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -4252,7 +4252,7 @@
     "type": "fill",
     "ref": "2Nep32:3",
     "question": "Wherefore, I said unto you, feast upon the words of Christ; for behold, the words of Christ will tell you all _____ what you should do.",
-    "answer": "Things",
+    "answer": ["Things"],
     "options": ["fill"]
   },
   {
@@ -4260,7 +4260,7 @@
     "type": "fill",
     "ref": "2Nep32:4",
     "question": "It we cannot understand the word of Christ, it is because we do not ask, neither do we knock, wherefore, we are not brought into the light, but must perish in the _____.",
-    "answer": "Dark",
+    "answer": ["Dark"],
     "options": ["fill"]
   },
   {
@@ -4268,7 +4268,7 @@
     "type": "bool",
     "ref": "2Nep32:5",
     "question": "For behold, again I say unto you that if ye will enter in by the way, and receive the Holy Ghost, it will show unto you all the things which ye should do.",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -4276,7 +4276,7 @@
     "type": "multi",
     "ref": "2Nep32:6",
     "question": "Behold, this is the doctr1ne of Christ, and there will be no more doctr1ne given until after he shall manifest himself unto you in the _____.",
-    "answer": "Flesh",
+    "answer": ["Flesh"],
     "options": ["Flesh", "Day", "Neither"]
   },
   {
@@ -4284,7 +4284,7 @@
     "type": "bool",
     "ref": "2Nep32:6",
     "question": "After the Lord shall manifest himself in the flesh, and unto the Nephites, the things which he shall say unto you shall ye observe to do.",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -4292,7 +4292,7 @@
     "type": "fill",
     "ref": "2Nep32:7",
     "question": "Nephi could not say more concerning the doctr1ne of Christ because the _____ stopped his utterance.",
-    "answer": "Spirit",
+    "answer": ["Spirit"],
     "options": ["fill"]
   },
   {
@@ -4300,7 +4300,7 @@
     "type": "bool",
     "ref": "2Nep32:7",
     "question": "Nephi mourned because of the stiffneckedness, unbelief, and wickedness of men.",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -4308,7 +4308,7 @@
     "type": "bool",
     "ref": "2Nep32:7",
     "question": "Nephi wrote and said that the Lord has given to us the doctr1ne of Christ in plainness, even as plain as word could be.",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -4316,7 +4316,7 @@
     "type": "fill",
     "ref": "2Nep32:8",
     "question": "For if we hearken unto the _____, it teaches man to pray.",
-    "answer": "Spirit",
+    "answer": ["Spirit"],
     "options": ["fill"]
   },
   {
@@ -4324,7 +4324,7 @@
     "type": "bool",
     "ref": "2Nep32:8",
     "question": "Nephi said that the spirit of the devil also teaches that men must pray unto God.",
-    "answer": "false",
+    "answer": ["false"],
     "options": ["true", "false"]
   },
   {
@@ -4332,7 +4332,7 @@
     "type": "multi",
     "ref": "2Nep32:9",
     "question": "But behold, I say unto you that ye must pray always, and not _____.",
-    "answer": "Faint",
+    "answer": ["Faint"],
     "options": [
       "Faint",
       "During Monday Night Football",
@@ -4352,7 +4352,7 @@
     "type": "fill",
     "ref": "2Nep32:9",
     "question": "We pray unto the father in the name of Christ that he may consecrate our performance unto ourselves, and that it will be for the welfare of our _____.",
-    "answer": "Souls-",
+    "answer": ["Souls-"],
     "options": ["fill"]
   },
   {
@@ -4360,7 +4360,7 @@
     "type": "bool",
     "ref": "2Nep33:1",
     "question": "Nephi confessed to us that he was mighty in writing as well as speaking.",
-    "answer": "false",
+    "answer": ["false"],
     "options": ["true", "false"]
   },
   {
@@ -4368,7 +4368,7 @@
     "type": "bool",
     "ref": "2Nep33:1",
     "question": "Nephi could not write all the things that were taught to the Nephites.",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -4376,7 +4376,7 @@
     "type": "fill",
     "ref": "2Nep33:1",
     "question": "When a man speaks by the power of the Holy Ghost the power of the Holy Ghost carries it unto the _____ of the children of men.",
-    "answer": "Hearts",
+    "answer": ["Hearts"],
     "options": ["fill"]
   },
   {
@@ -4384,7 +4384,7 @@
     "type": "bool",
     "ref": "2Nep33:2",
     "question": "But behold, there are many that harden their hearts against the Holy Spirit, that it has no place in them.",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -4392,7 +4392,7 @@
     "type": "bool",
     "ref": "2Nep33:2",
     "question": "There are many people that cast away the things which are written and esteem them as things of no great worth.",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -4400,7 +4400,7 @@
     "type": "bool",
     "ref": "2Nep33:3",
     "question": "Nephi esteemed the words that he wrote as of great worth, especially unto the Nephites.",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -4408,7 +4408,7 @@
     "type": "bool",
     "ref": "2Nep33:3",
     "question": "Nephi did not pray very much for his people, because they were beyond forgiveness.",
-    "answer": "false",
+    "answer": ["false"],
     "options": ["true", "false"]
   },
   {
@@ -4416,7 +4416,7 @@
     "type": "fill",
     "ref": "2Nep33:3",
     "question": "Nephi’s eyes watered his _____ by night, because of the great concern he had for his people.",
-    "answer": "Pillow",
+    "answer": ["Pillow"],
     "options": ["fill"]
   },
   {
@@ -4424,7 +4424,7 @@
     "type": "bool",
     "ref": "2Nep33:3",
     "question": "Nephi cried unto the Lord in faith, and he knew that Heavenly Father would hear his cries.",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -4432,7 +4432,7 @@
     "type": "bool",
     "ref": "2Nep33:4",
     "question": "Nephi testified that the Lord would not consecrate his prayers for the gain of his people.",
-    "answer": "false",
+    "answer": ["false"],
     "options": ["true", "false"]
   },
   {
@@ -4440,7 +4440,7 @@
     "type": "fill",
     "ref": "2Nep33:4",
     "question": "Nephi said that the words that he had written in_____ would be made strong unto his people.",
-    "answer": "Weakness",
+    "answer": ["Weakness"],
     "options": ["fill"]
   },
   {
@@ -4448,7 +4448,7 @@
     "type": "bool",
     "ref": "2Nep33:4",
     "question": "The words of Nephi will persuade the Nephites to do Good.",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -4456,7 +4456,7 @@
     "type": "multi",
     "ref": "2Nep33:4",
     "question": "Nephi’s words made the people of Nephi know concerning their _____.",
-    "answer": "Fathers",
+    "answer": ["Fathers"],
     "options": ["Color", "Fathers", "Goodness"]
   },
   {
@@ -4464,7 +4464,7 @@
     "type": "bool",
     "ref": "2Nep33:4",
     "question": "Nephi testified that his words spoke of Jesus Christ and persuaded his people to believe in him, and endure to the end.",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -4472,7 +4472,7 @@
     "type": "bool",
     "ref": "2Nep33:4",
     "question": "We do not have to endure to the end to have eternal life.",
-    "answer": "false",
+    "answer": ["false"],
     "options": ["true", "false"]
   },
   {
@@ -4480,7 +4480,7 @@
     "type": "bool",
     "ref": "2Nep33:5",
     "question": "Nephi’s words speak harshly against sin, according the plainness of the truth.",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -4496,7 +4496,7 @@
     "type": "bool",
     "ref": "2Nep33:6",
     "question": "Nephi gloried in plainness, in truth, and in Jesus Christ.",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -4504,7 +4504,7 @@
     "type": "fill",
     "ref": "2Nep33:6",
     "question": "Who has redeemed Nephi’s soul from the depths of hell?",
-    "answer": "Christ",
+    "answer": ["Christ"],
     "options": ["fill"]
   },
   {
@@ -4512,7 +4512,7 @@
     "type": "multi",
     "ref": "2Nep33:7",
     "question": "Nephi had _____ for his people, and great faith in Jesus Christ.",
-    "answer": "Charity",
+    "answer": ["Charity"],
     "options": ["Hope", "Faith", "Charity"]
   },
   {
@@ -4520,7 +4520,7 @@
     "type": "fill",
     "ref": "2Nep33:8",
     "question": "Nephi had charity for the “_____-I say Jew, because I mean them from whence I came”.",
-    "answer": "Jew",
+    "answer": ["Jew"],
     "options": ["fill"]
   },
   {
@@ -4528,7 +4528,7 @@
     "type": "bool",
     "ref": "2Nep33:7",
     "question": "Nephi had great faith in Jesus Christ and believed that he would meet many of us spotless before the judgment seat of Christ.",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -4536,7 +4536,7 @@
     "type": "fill",
     "ref": "2Nep33:9",
     "question": "Nephi also had charity for the Gentiles but said that they should be reconciled unto _____, and enter the narrow gate and walk in to the straight path that leads to eternal life.",
-    "answer": "Christ",
+    "answer": ["Christ"],
     "options": ["fill"]
   },
   {
@@ -4544,7 +4544,7 @@
     "type": "bool",
     "ref": "2Nep33:9",
     "question": "We must continue in the straight path that leads to eternal life until all the days of our probation.",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -4552,7 +4552,7 @@
     "type": "multi",
     "ref": "2Nep33:10",
     "question": "Nephi wrote to his beloved brethren, and also the Jew, and to all the ends of the _____.",
-    "answer": "Earth",
+    "answer": ["Earth"],
     "options": ["Time", "Earth", "Universe"]
   },
   {
@@ -4560,7 +4560,7 @@
     "type": "bool",
     "ref": "2Nep33:10",
     "question": "Nephi said that we should hearken unto his words and believe in Jesus Christ.",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -4568,7 +4568,7 @@
     "type": "bool",
     "ref": "2Nep33:10",
     "question": "Nephi wrote that if we do not believe in his words, at least we should believe in Jesus Christ.",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -4576,7 +4576,7 @@
     "type": "bool",
     "ref": "2Nep33:10",
     "question": "Nephi said that if we would not believe in Jesus Christ, we would not believe in the words that he had written.",
-    "answer": "false",
+    "answer": ["false"],
     "options": ["true", "false"]
   },
   {
@@ -4584,7 +4584,7 @@
     "type": "fill",
     "ref": "2Nep33:10",
     "question": "Whose words are the words that Nephi has written?",
-    "answer": "Christ",
+    "answer": ["Christ"],
     "options": ["fill"]
   },
   {
@@ -4600,7 +4600,7 @@
     "type": "multi",
     "ref": "2Nep33:11",
     "question": "We should not judge the words of Jesus Christ; for if we do, he will show us with power and great _____, that they are his at the last day.",
-    "answer": "Glory",
+    "answer": ["Glory"],
     "options": ["Force", "Glory", "Intention"]
   },
   {
@@ -4608,7 +4608,7 @@
     "type": "bool",
     "ref": "2Nep33:11",
     "question": "Nephi and us will stand face to face before the judgment bar of Jesus Christ?",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -4616,7 +4616,7 @@
     "type": "bool",
     "ref": "2Nep33:11",
     "question": "We will not all see Nephi in the last day, before the judgment seat of Jesus Christ.",
-    "answer": "false",
+    "answer": ["false"],
     "options": ["true", "false"]
   },
   {
@@ -4624,7 +4624,7 @@
     "type": "bool",
     "ref": "2Nep33:11",
     "question": "Nephi was not commanded by Jesus Christ or anyone else to write the words he wrote.",
-    "answer": "false",
+    "answer": ["false"],
     "options": ["true", "false"]
   },
   {
@@ -4632,7 +4632,7 @@
     "type": "bool",
     "ref": "2Nep33:11",
     "question": "Nephi had weakness in his knees when he wrote the words that he was commanded to write by Jesus Christ.",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -4640,7 +4640,7 @@
     "type": "bool",
     "ref": "2Nep33:12",
     "question": "Nephi prayed unto the Father in the name of Jesus Christ that many of us, if not all, would be saved.",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -4656,7 +4656,7 @@
     "type": "multi",
     "ref": "2Nep33:13",
     "question": "Nephi spoke to us as the voice of one _____, from the dust.",
-    "answer": "Crying",
+    "answer": ["Crying"],
     "options": ["Yelling", "Begging", "Crying"]
   },
   {
@@ -4664,7 +4664,7 @@
     "type": "multi",
     "ref": "2Nep33:13",
     "question": "Nephi wrote unto us and said _____, until that great day shall come.",
-    "answer": "Farewell",
+    "answer": ["Farewell"],
     "options": ["Goodbye", "Farewell", "Adieu"]
   },
   {
@@ -4672,7 +4672,7 @@
     "type": "bool",
     "ref": "2Nep33:14",
     "question": "Nephi said farewell to those that would not partake in the goodness of God, and not respect the words of the Jews, and also his words.",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -4680,7 +4680,7 @@
     "type": "bool",
     "ref": "2Nep33:14",
     "question": "Nephi words and other people’s words; will not condemn us at the last day.",
-    "answer": "false",
+    "answer": ["false"],
     "options": ["true", "false"]
   },
   {
@@ -4688,7 +4688,7 @@
     "type": "bool",
     "ref": "2Nep33:14",
     "question": "Nephi was commanded by the Lord to seal on earth all things or words that will be brought against us at the judgment bar of Jesus Christ.",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -4696,7 +4696,7 @@
     "type": "bool",
     "ref": "2Nep33:14",
     "question": "Nephi’s last four words to us were:  I must obey.  Amen",
-    "answer": "true",
+    "answer": ["true"],
     "options": ["true", "false"]
   },
   {
@@ -4704,7 +4704,7 @@
     "type": "bool",
     "ref": "2Nep5:6, 1Nep2:16",
     "question": "Jacob was older than his large and stature brother Nephi, by six years.",
-    "answer": "false",
+    "answer": ["false"],
     "options": ["true", "false"]
   }
 ]

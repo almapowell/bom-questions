@@ -1028,6 +1028,14 @@
     "options": ["true", "false"]
   },
   {
+    "id": "2009",
+    "type": "fill",
+    "ref": "Mos3:6-8",
+    "question": "Who did King Benjamin say would cast out devils, or the evil spirits which shall dwell in the hearts of the children of men?",
+    "answer": "Jesus",
+    "options": ["fill"]
+  },
+  {
     "id": "2011",
     "type": "bool",
     "ref": "Mos3:7",

@@ -1,19 +1,219 @@
 [
   {
+    "id": "1",
+    "type": "multi",
+    "ref": "Title Page",
+    "question": "Who wrote the title page of The Book of Mormon?",
+    "answer": ["Mormon"],
+    "options": ["Joseph Smith", "Mormon", "Moroni"]
+  },
+  {
+    "id": "2",
+    "type": "bool",
+    "ref": "Title Page",
+    "question": "The abridgment of the record is written to the Jew and Gentile.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "3",
+    "type": "fill",
+    "ref": "Title Page",
+    "question": "The record is written by way of commandment, and also by the spirit of ____ and of revelation.",
+    "answer": ["prophecy"],
+    "options": ["fill"]
+  },
+  {
+    "id": "4",
+    "type": "bool",
+    "ref": "Title Page",
+    "question": "The record was written and sealed up, and hid up unto the Lord, that they may not be destroyed",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "5",
+    "type": "fill",
+    "ref": "Title Page",
+    "question": "Where in the Book of Mormon is the word Lamanites first mentioned?",
+    "answer": ["Title Page"],
+    "options": ["fill"]
+  },
+  {
+    "id": "6",
+    "type": "bool",
+    "ref": "Title Page",
+    "question": "The word “Jaredites” first appears to in the Title page of the Book of Mormon?",
+    "answer": ["False"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "7",
+    "type": "fill",
+    "ref": "Title Page",
+    "question": "An abridgment is taken from the Book of ____, which is a record of the people of Jared.",
+    "answer": ["ether"],
+    "options": ["fill"]
+  },
+  {
+    "id": "8",
+    "type": "bool",
+    "ref": "Title Page",
+    "question": "The people of Jared were scattered at the time the Lord confounded their language.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "9",
+    "type": "fill",
+    "ref": "Title Page",
+    "question": "At time the Lord confounded the language of the Jaredites, they were trying to build a ____ to get to heaven.",
+    "answer": ["tower"],
+    "options": ["fill"]
+  },
+  {
+    "id": "10",
+    "type": "fill",
+    "ref": "Title Page",
+    "question": "The Lord has done many great things unto the remnant of the House of ____.",
+    "answer": ["Israel"],
+    "options": ["fill"]
+  },
+  {
+    "id": "11",
+    "type": "bool",
+    "ref": "Title Page",
+    "question": "The Lord wants to show the remnant House of Israel the many great things that he has done for their fathers.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "12",
+    "type": "multi",
+    "ref": "Title Page",
+    "question": "The Lord wants the House of Israel to know the ____ he has made with them and not be cast-off forever.",
+    "answer": ["Covenants"],
+    "options": ["Bible", "Articles of Faith", "Covenants"]
+  },
+  {
+    "id": "13",
+    "type": "fill",
+    "ref": "Title Page",
+    "question": "The Lord wants to convince Jews and Gentiles that Jesus is the ____.",
+    "answer": ["Christ"],
+    "options": ["fill"]
+  },
+  {
+    "id": "14",
+    "type": "bool",
+    "ref": "Title Page",
+    "question": "Jesus is the Christ, the Eternal God, manifesting himself unto all nations.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "15",
+    "type": "fill",
+    "ref": "Title Page",
+    "question": "Mormon states that if there are faults in the record, they are the ____ of Men.",
+    "answer": ["Mistakes"],
+    "options": ["fill"]
+  },
+  {
+    "id": "16",
+    "type": "bool",
+    "ref": "Title Page",
+    "question": "Mormon writes, condemn not the things of God?",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "17",
+    "type": "fill",
+    "ref": "Title Page",
+    "question": "Mormon wants us to be found spotless at the _____ seat of Christ",
+    "answer": ["Judgment"],
+    "options": ["fill"]
+  },
+  {
+    "id": "18",
+    "type": "multi",
+    "ref": "Title Page",
+    "question": "Who translated the title page of the Book of Mormon?",
+    "answer": ["Joseph Smith"],
+    "options": ["Moroni", "Mormon", "Joseph Smith"]
+  },
+  {
+    "id": "19",
+    "type": "bool",
+    "ref": "Brief Analysis",
+    "question": "In the brief analysis of the Book of Mormon we are told that there are namely three classes of record plates.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "20",
+    "type": "bool",
+    "ref": "Brief Analysis",
+    "question": "The Brass Plates of Laban are mentioned frequently in the Book of Mormon.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "21",
+    "type": "fill",
+    "ref": "Brief Analysis",
+    "question": "The body of the Book of Mormon, from Mosiah to Mormon, chapter #7, inclusive, is the translation of whose ____ abridgment of the Plates of Nephi.",
+    "answer": ["Mormon"],
+    "options": ["fill"]
+  },
+  {
+    "id": "22",
+    "type": "bool",
+    "ref": "Brief Analysis",
+    "question": "The period covered in the Book of Mormon extends from B.C. 600 to A.D. 421.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "23",
+    "type": "fill",
+    "ref": "Brief Analysis",
+    "question": "Who was the last of the Nephite historians?",
+    "answer": ["Moroni"],
+    "options": ["fill"]
+  },
+  {
+    "id": "24",
+    "type": "bool",
+    "ref": "Brief Analysis",
+    "question": "Moroni was the last of the Nephite historians that sealed the sacred record, and hid up unto the Lord.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "25",
+    "type": "bool",
+    "ref": "Brief Analysis",
+    "question": "In the Brief Analysis of the Book of Mormon, Joseph Smith mentions the hill Cumorah by name.",
+    "answer": ["False"],
+    "options": ["True", "False"]
+  },
+  {
     "id": "26",
     "type": "bool",
     "ref": "Ether 15:11",
     "question": "The hill Cumorah was referred as the hill Ramah by the Jaredites.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "27",
     "type": "bool",
     "ref": "Mor 1:3, 4:23",
     "question": "The hill Cumorah was referred as the hill Shim by the Nephites.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "28",
@@ -36,8 +236,8 @@
     "type": "bool",
     "ref": "No ref because they are not.",
     "question": "The Urim and Thummim are mentioned by name in the text of Book of Mormon?",
-    "answer": ["false"],
-    "options": ["true", "false"]
+    "answer": ["False"],
+    "options": ["True", "False"]
   },
   {
     "id": "133",
@@ -64,16 +264,16 @@
     "type": "bool",
     "ref": "Testimony of the Eight Witnesses",
     "question": "In the testimony of the Eight Witnesses, they describe the plates of having the appearance of ancient work, and of curious workmanship.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "136",
     "type": "bool",
     "ref": "Testimony of the Eight Witnesses",
     "question": "In the testimony of the Eight Witnesses, they state that they gave their names to the world, to witness unto the world that, that they handled the plates with their hands and saw the engraving thereon.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "137",
@@ -104,8 +304,8 @@
     "type": "bool",
     "ref": "Book of Mormon",
     "question": "The longest book in the Book of Mormon is the Book of Mosiah?",
-    "answer": ["false"],
-    "options": ["true", "false"]
+    "answer": ["False"],
+    "options": ["True", "False"]
   },
   {
     "id": "141",
@@ -184,8 +384,8 @@
     "type": "bool",
     "ref": "Look at your dictionary",
     "question": "An allegory is the expression by means of symbolic fictional figures and actions of truths or generalizations about human existence.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "1684",
@@ -200,8 +400,8 @@
     "type": "bool",
     "ref": "Book of Jarom",
     "question": "The Book of Jarom has only one chapter.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "1686",
@@ -216,8 +416,8 @@
     "type": "bool",
     "ref": "Book of Omni",
     "question": "There is only one chapter of Omni in the Book of Mormon.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "1794",

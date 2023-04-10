@@ -12,8 +12,8 @@
     "type": "bool",
     "ref": "Origin of Book of Mormon",
     "question": "When Moroni first appeared to Joseph Smith he referred to him as a personage.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "31",
@@ -28,8 +28,8 @@
     "type": "bool",
     "ref": "Origin of Book of Mormon",
     "question": "The light that appeared to Joseph, was lighter than noon-day.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "33",
@@ -44,8 +44,8 @@
     "type": "bool",
     "ref": "Origin of Book of Mormon",
     "question": "When Moroni appeared to Joseph Smith, he was standing in the air.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "35",
@@ -60,16 +60,16 @@
     "type": "bool",
     "ref": "Origin of Book of Mormon",
     "question": "Joseph Smith writes: That he believed that anything earthly could be made to appear so exceedingly white or brilliant.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "37",
     "type": "bool",
     "ref": "Origin of Book of Mormon",
     "question": "Joseph Smith said that he could see Moroni’s hands were naked and his arms also, a little above the wrists.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "38",
@@ -84,8 +84,8 @@
     "type": "bool",
     "ref": "Origin of Book of Mormon",
     "question": "Joseph Smith could see that Moroni was wearing clothing that is worn by worthy temple workers.",
-    "answer": ["false"],
-    "options": ["true", "false"]
+    "answer": ["False"],
+    "options": ["True", "False"]
   },
   {
     "id": "40",
@@ -100,8 +100,8 @@
     "type": "bool",
     "ref": "Origin of Book of Mormon",
     "question": "Not only was Moroni’s robe exceedingly white, his whole person was glorious beyond description.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "42",
@@ -116,8 +116,8 @@
     "type": "bool",
     "ref": "Origin of Book of Mormon",
     "question": "Moroni’s countenance was truly like lightning, when he appeared to Joseph Smith.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "44",
@@ -132,8 +132,8 @@
     "type": "bool",
     "ref": "Origin of Book of Mormon",
     "question": "When Joseph Smith first saw Moroni, he was afraid.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "46",
@@ -148,8 +148,8 @@
     "type": "bool",
     "ref": "Origin of Book of Mormon",
     "question": "It took a very long time for Joseph Smith to get over of being afraid of Moroni.",
-    "answer": ["false"],
-    "options": ["true", "false"]
+    "answer": ["False"],
+    "options": ["True", "False"]
   },
   {
     "id": "48",
@@ -164,8 +164,8 @@
     "type": "bool",
     "ref": "Origin of Book of Mormon",
     "question": "The messenger called Joseph Smith by name.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "50",
@@ -188,8 +188,8 @@
     "type": "bool",
     "ref": "Origin of Book of Mormon",
     "question": "The messenger to Joseph that all nation’s, kindreds, and tongues would speak evil of his name.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "53",
@@ -220,8 +220,8 @@
     "type": "bool",
     "ref": "Origin of Book of Mormon",
     "question": "The book gives an account of the former inhabitants of this cont1nent, and the source from whence they sprang.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "58",
@@ -236,8 +236,8 @@
     "type": "bool",
     "ref": "Origin of Book of Mormon",
     "question": "The fulness of the everlasting Gospel is conta1ned in the Book.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "60",
@@ -260,8 +260,8 @@
     "type": "bool",
     "ref": "Origin of Book of Mormon",
     "question": "The two stones in silver bows were fastened to a breastplate.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "63",
@@ -276,8 +276,8 @@
     "type": "bool",
     "ref": "Origin of Book of Mormon",
     "question": "The Urim and Thummim is what constitutes the two stones and the breastplate.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "66",
@@ -292,8 +292,8 @@
     "type": "bool",
     "ref": "Origin of Book of Mormon",
     "question": "The Seers were not used in ancientformer times.",
-    "answer": ["false"],
-    "options": ["true", "false"]
+    "answer": ["False"],
+    "options": ["True", "False"]
   },
   {
     "id": "68",
@@ -308,24 +308,24 @@
     "type": "bool",
     "ref": "Origin of Book of Mormon",
     "question": "The Seers were prepared by God; for the purpose of translating the book, of which is now known as the Book of Mormon.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "70",
     "type": "bool",
     "ref": "Origin of Book of Mormon",
     "question": "With the possession and use of the Seers, people cancould translate ancient writings.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "71",
     "type": "bool",
     "ref": "Origin of Book of Mormon",
     "question": "Angel Moroni told Joseph Smith to show the plates to anyone that he pleased.",
-    "answer": ["false"],
-    "options": ["true", "false"]
+    "answer": ["False"],
+    "options": ["True", "False"]
   },
   {
     "id": "72",
@@ -340,16 +340,16 @@
     "type": "bool",
     "ref": "Origin of Book of Mormon",
     "question": "Joseph was commanded by Moroni, to show only the breastplate and not the Urim and Thummim.",
-    "answer": ["false"],
-    "options": ["true", "false"]
+    "answer": ["False"],
+    "options": ["True", "False"]
   },
   {
     "id": "74",
     "type": "bool",
     "ref": "Origin of Book of Mormon",
     "question": "Unless Joseph was commanded; Moroni said that he must not show the plates and Urim and Thummin to anyonehe would be destroyed.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "75",
@@ -364,16 +364,16 @@
     "type": "bool",
     "ref": "Origin of Book of Mormon",
     "question": "In his vision, Joseph Smith could see the place where the plates were deposited.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "77",
     "type": "bool",
     "ref": "Origin of Book of Mormon",
     "question": "The vision was so clear and distinct, that Joseph knew where the place was when he visited it.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "78",
@@ -388,8 +388,8 @@
     "type": "bool",
     "ref": "Origin of Book of Mormon",
     "question": "Except around Moroni, the room began to get dark again.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "80",
@@ -404,16 +404,16 @@
     "type": "bool",
     "ref": "Origin of Book of Mormon",
     "question": "Joseph states and refers to the light in his room as being heavenly.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "82",
     "type": "bool",
     "ref": "Origin of Book of Mormon",
     "question": "After the messenger and the light left, Joseph fell asleep.",
-    "answer": ["false"],
-    "options": ["true", "false"]
+    "answer": ["False"],
+    "options": ["True", "False"]
   },
   {
     "id": "83",
@@ -428,8 +428,8 @@
     "type": "bool",
     "ref": "Origin of Book of Mormon",
     "question": "The second time the messenger appeared to Joseph, he repeated the same words as the first time, without variation.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "85",
@@ -468,8 +468,8 @@
     "type": "bool",
     "ref": "Origin of Book of Mormon",
     "question": "Joseph writes that he and his father’s family were indigent.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "90",
@@ -484,8 +484,8 @@
     "type": "bool",
     "ref": "Origin of Book of Mormon",
     "question": "Moroni told Joseph Smith that he must not be influenced by any other motive than that of building the kingdom of God.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "92",
@@ -500,8 +500,8 @@
     "type": "bool",
     "ref": "Origin of Book of Mormon",
     "question": "Angel Moroni visited Joseph Smith three times in September of 1823.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "94",
@@ -516,8 +516,8 @@
     "type": "bool",
     "ref": "Origin of Book of Mormon",
     "question": "Moroni left, and Joseph realized that their interviews must of have taken all night because the day had approach.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "96",
@@ -532,8 +532,8 @@
     "type": "bool",
     "ref": "Origin of Book of Mormon",
     "question": "Because of his exhausted strength, Joseph’s father told him to go home.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "98",
@@ -548,16 +548,16 @@
     "type": "bool",
     "ref": "Origin of Book of Mormon",
     "question": "Joseph fell to the ground and was unconscious for three days.",
-    "answer": ["false"],
-    "options": ["true", "false"]
+    "answer": ["False"],
+    "options": ["True", "False"]
   },
   {
     "id": "100",
     "type": "bool",
     "ref": "Origin of Book of Mormon",
     "question": "In the Origin of the Book of Mormon: It does not sayhow long Joseph exactly lay unconscious.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "101",
@@ -580,32 +580,32 @@
     "type": "bool",
     "ref": "Origin of Book of Mormon",
     "question": "Joseph obeyed Moroni, and returned to his father in the field, and rehearsed the whole matter to him.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "104",
     "type": "bool",
     "ref": "Origin of Book of Mormon",
     "question": "Joseph left out some important details, when he rehearsed the story to his father.",
-    "answer": ["false"],
-    "options": ["true", "false"]
+    "answer": ["False"],
+    "options": ["True", "False"]
   },
   {
     "id": "105",
     "type": "bool",
     "ref": "Origin of Book of Mormon",
     "question": "Joseph’s father told him to go to the place where the Messenger had told him to go.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "106",
     "type": "bool",
     "ref": "Origin of Book of Mormon",
     "question": "Joseph new the place where the plates were deposited because of the dream that he had.",
-    "answer": ["false"],
-    "options": ["true", "false"]
+    "answer": ["False"],
+    "options": ["True", "False"]
   },
   {
     "id": "107",
@@ -620,8 +620,8 @@
     "type": "bool",
     "ref": "Origin of Book of Mormon",
     "question": "The hill where the plates were deposited was more elevated than the other surrounding hills.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "109",
@@ -652,8 +652,8 @@
     "type": "bool",
     "ref": "Origin of Book of Mormon",
     "question": "When Joseph Smith removed the earth that was fixed under the stone, he had a difficult time.",
-    "answer": ["false"],
-    "options": ["true", "false"]
+    "answer": ["False"],
+    "options": ["True", "False"]
   },
   {
     "id": "113",
@@ -676,8 +676,8 @@
     "type": "bool",
     "ref": "Origin of Book of Mormon",
     "question": "The messenger told Joseph Smith that the time had not come yet to get the things out of the box.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "116",
@@ -692,8 +692,8 @@
     "type": "bool",
     "ref": "Origin of Book of Mormon",
     "question": "Moroni told Joseph Smith to come precisely one year from the time that he first saw him and that he would meet with him again.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "118",
@@ -716,16 +716,16 @@
     "type": "bool",
     "ref": "Origin of Book of Mormon",
     "question": "The messenger told Joseph what the Lord was going to do, and how and what manner His kingdom was to be conducted in the last days.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "121",
     "type": "bool",
     "ref": "Origin of Book of Mormon",
     "question": "The messenger delivered the plates to Joseph and told him that he was to be responsible for them and if he would let them go carelessly, he would not be cut off.",
-    "answer": ["false"],
-    "options": ["true", "false"]
+    "answer": ["False"],
+    "options": ["True", "False"]
   },
   {
     "id": "122",
@@ -740,8 +740,8 @@
     "type": "bool",
     "ref": "Origin of Book of Mormon",
     "question": "Joseph Smith was told by the messenger what would be required of him to do by his hand.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "124",
@@ -756,8 +756,8 @@
     "type": "bool",
     "ref": "Origin of Book of Mormon",
     "question": "As soon as it was found out that he had the plates, multitudes of people were out to get them away from them.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "126",
@@ -780,8 +780,8 @@
     "type": "bool",
     "ref": "Origin of Book of Mormon",
     "question": "When the messenger called for the plates, Joseph Smith did not deliver them unto him until he was commanded.",
-    "answer": ["false"],
-    "options": ["true", "false"]
+    "answer": ["False"],
+    "options": ["True", "False"]
   },
   {
     "id": "129",
@@ -804,8 +804,8 @@
     "type": "bool",
     "ref": "Origin of Book of Mormon",
     "question": "As attested by Div1ne affirmation, the ancient record has been brought forth from the earth.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "132",

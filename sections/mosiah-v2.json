@@ -4,24 +4,24 @@
     "type": "bool",
     "ref": "Mos1:1",
     "question": "After King Benjamin was able to establish peace in the land of Zarahemla, he had continual peace all the remainder of his days.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "1880",
     "type": "bool",
     "ref": "Mos1:2",
     "question": "King Benjamin had five sons.",
-    "answer": ["false"],
-    "options": ["true", "false"]
+    "answer": ["False"],
+    "options": ["True", "False"]
   },
   {
     "id": "1881",
     "type": "bool",
     "ref": "Mos1:2",
     "question": "King Benjamin caused that his sons be taught in all the language of his fathers that thereby they might become men of understanding.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "1882",
@@ -52,8 +52,8 @@
     "type": "bool",
     "ref": "Mos1:3",
     "question": "Mosiah wrote that if it were not for the records and commandments written on them, they would have suffered in ignorance.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "1886",
@@ -68,32 +68,32 @@
     "type": "bool",
     "ref": "Mos1:4",
     "question": "Mosiah said that it was not possible for Lehi to remember “all these things” and having taught them to his children if it was not for the help of the plates of brass.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "1888",
     "type": "bool",
     "ref": "Mos1:4",
     "question": "According to Mosiah, Lehi was taught in the language of the Egyptians and could read the things engraved on the plates.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "1889",
     "type": "bool",
     "ref": "Mos1:4",
     "question": "King Benjamin wrote that Lehi taught his children in the language of the Egyptians thereby teaching their children and so forth, fulfilling the word of God down to his present time.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "1890",
     "type": "bool",
     "ref": "Mos1:5",
     "question": "King Benjamin said to his sons that if it were not for the plates of brass; the Nephites would have dwindled in unbelief.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "1891",
@@ -124,16 +124,16 @@
     "type": "bool",
     "ref": "Mos1:5",
     "question": "King Benjamin said that the traditions of the Lamanites and their fathers, was correct.",
-    "answer": ["false"],
-    "options": ["true", "false"]
+    "answer": ["False"],
+    "options": ["True", "False"]
   },
   {
     "id": "1895",
     "type": "bool",
     "ref": "Mos1:6",
     "question": "King Benjamin testified of the truthfulness of the sayings, records, and the plates of Nephi.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "1896",
@@ -148,16 +148,16 @@
     "type": "bool",
     "ref": "Mos1:6",
     "question": "King Benjamin testified of the surety of the records and of the plates of Nephi because they had them before their very eyes.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "1898",
     "type": "bool",
     "ref": "Mos1:7",
     "question": "King Benjamin wanted his sons to search the records diligently so they could profit from them.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "1899",
@@ -172,16 +172,16 @@
     "type": "bool",
     "ref": "Mos1:8",
     "question": "All the things that King Benjamin taught his sons are written in the Book of Mosiah.",
-    "answer": ["false"],
-    "options": ["true", "false"]
+    "answer": ["False"],
+    "options": ["True", "False"]
   },
   {
     "id": "1901",
     "type": "bool",
     "ref": "Mos1:9",
     "question": "When King Benjamin was thirty years old and soon go to his grave; he conferred the kingdom to one of his sons.",
-    "answer": ["false"],
-    "options": ["true", "false"]
+    "answer": ["False"],
+    "options": ["True", "False"]
   },
   {
     "id": "1902",
@@ -212,8 +212,8 @@
     "type": "bool",
     "ref": "Mos1:10",
     "question": "King Benjamin wanted Mosiah to send out a proclamation to the people of Zarahemla and the people or Mosiah.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "1906",
@@ -228,16 +228,16 @@
     "type": "bool",
     "ref": "Mos1:11",
     "question": "King Benjamin wanted to give a people a name that thereby they may be distinguished above all the people the Lord God had brought out of Jerusalem.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "1908",
     "type": "bool",
     "ref": "Mos1:11",
     "question": "King Benjamin gave the people the name of Christ because they had been diligent in keeping the commandments of the Lord.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "1909",
@@ -252,8 +252,8 @@
     "type": "bool",
     "ref": "Mos1:12",
     "question": "King Benjamin said that the name that he gave the people would never be blotted out except through transgression.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "1911",
@@ -292,8 +292,8 @@
     "type": "bool",
     "ref": "Mos1:14",
     "question": "King Benjamin said that the Lord extended his arm in the preservation of the Nephites so that they would not become victims of the hatred of the Lamanites.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "1916",
@@ -316,8 +316,8 @@
     "type": "bool",
     "ref": "Mos1:16 & Alma37:38",
     "question": "The Liahona led the fathers of King Benjamin through the wilderness according to the heed and diligence they gave unto the Lord.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "1923",
@@ -340,8 +340,8 @@
     "type": "bool",
     "ref": "Mos1:18",
     "question": "And it came to pass that Mosiah did not do what his father King Benjamin commanded him to do by sending out a proclamation to the people.",
-    "answer": ["false"],
-    "options": ["true", "false"]
+    "answer": ["False"],
+    "options": ["True", "False"]
   },
   {
     "id": "1926",
@@ -356,8 +356,8 @@
     "type": "bool",
     "ref": "Mos1:2",
     "question": "The people that gathered around the temple were so great, that they did not number them; for they had multiplied exceedingly and waxed great in the land.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "1928",
@@ -388,8 +388,8 @@
     "type": "bool",
     "ref": "Mos2:4",
     "question": "The people offered sacrifice and burnt offerings to the Lord for the purpose of given him thanks for bringing them out of Jerusalem and delivering them from the hands of their enemies.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "1932",
@@ -420,8 +420,8 @@
     "type": "bool",
     "ref": "Mos2:5",
     "question": "The people pitched their tents around the temple, according to his family from the eldest to the youngest, every family being separate one from another.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "1936",
@@ -456,16 +456,16 @@
     "type": "bool",
     "ref": "Mos2:8",
     "question": "And it came to pass that when King Benjamin started to speak to the people, not all of them could here his words.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "1940",
     "type": "bool",
     "ref": "Mos2:9",
     "question": "King Benjamin caused that the words which he should speak unto the people be written upon plates.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "1941",
@@ -480,8 +480,8 @@
     "type": "bool",
     "ref": "Mos2:9",
     "question": "King Benjamin told the people that he had not commanded them to trifle with the words he should speak, but to hearken unto him.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "1943",
@@ -496,8 +496,8 @@
     "type": "bool",
     "ref": "Mos2:11",
     "question": "King Benjamin said that he was just like the people and subjected to all manner of infirmaties in body and mind.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "1945",
@@ -528,8 +528,8 @@
     "type": "bool",
     "ref": "Mos2:13",
     "question": "King Benjamin told the people; neither have I suffered that ye should be conf1ned to dungeons.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "1949",
@@ -560,24 +560,24 @@
     "type": "bool",
     "ref": "Mos2:14",
     "question": "King Benjamin wanted that his people; to do nothing that was grievous to be borne of them.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "1953",
     "type": "bool",
     "ref": "Mos2:14",
     "question": "King Benjamin told the people that they were witnesses to all the things which he was speaking to them.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "1954",
     "type": "bool",
     "ref": "Mos2:15",
     "question": "When King Benjamin spoke to the people on the tower; he wanted to boast of the things and service he had done for them.",
-    "answer": ["false"],
-    "options": ["true", "false"]
+    "answer": ["False"],
+    "options": ["True", "False"]
   },
   {
     "id": "1955",
@@ -624,24 +624,24 @@
     "type": "bool",
     "ref": "Mos2:18",
     "question": "King Benjamin said that if he was the king and labored for the people, should they not labor to serve one another?",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "1961",
     "type": "bool",
     "ref": "Mos2:19",
     "question": "King Benjamin did not want the people to thank their heavenly King because he had labored all his days in the service of God and the people.",
-    "answer": ["false"],
-    "options": ["true", "false"]
+    "answer": ["False"],
+    "options": ["True", "False"]
   },
   {
     "id": "1962",
     "type": "bool",
     "ref": "Mos2:20",
     "question": "King Benjamin told the people that they should render all their thanks and praise which their soul possessed to that God that had created them.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "1963",
@@ -664,56 +664,56 @@
     "type": "bool",
     "ref": "Mos2:21",
     "question": "King Benjamin said that even if we were to serve God with all our whole souls, we would still be unprofitable servants.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "1966",
     "type": "bool",
     "ref": "Mos2:22",
     "question": "King Benjamin tells the Nephites and us: 'That all the Lord requires of us is to keep his commandments and we will prosper in the Land''.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "1967",
     "type": "bool",
     "ref": "Mos2:22",
     "question": "King Benjamin said that the Lord varies from time to time of the things which he has said",
-    "answer": ["false"],
-    "options": ["true", "false"]
+    "answer": ["False"],
+    "options": ["True", "False"]
   },
   {
     "id": "1968",
     "type": "bool",
     "ref": "Mos2:23-24",
     "question": "King Benjamin said that because the Lord has created us and granted us our lives we are required to keep his commandments.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "1969",
     "type": "bool",
     "ref": "Mos2:23-24",
     "question": "According to King Benjamin we will always be indebted to our heavenly father, forever and ever.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "1970",
     "type": "bool",
     "ref": "Mos2:24",
     "question": "King Benjamin said that if we do what the Lord commands us to do, he will immediately bless us",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "1971",
     "type": "bool",
     "ref": "Mos2:25",
     "question": "King Benjamin wrote that even the dust is greater than all of us.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "1972",
@@ -728,16 +728,16 @@
     "type": "bool",
     "ref": "Mos2:25",
     "question": "King Benjamin wrote that because we were created from the dust of the earth; we do not belong to our heavenly father.",
-    "answer": ["false"],
-    "options": ["true", "false"]
+    "answer": ["False"],
+    "options": ["True", "False"]
   },
   {
     "id": "1974",
     "type": "bool",
     "ref": "Mos2:26",
     "question": "King Benjamin told the Nephites that even him, whom they called their king; was no better than them.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "1975",
@@ -768,8 +768,8 @@
     "type": "bool",
     "ref": "Mos2:28",
     "question": "King Benjamin said that God was only just when he wanted to be.",
-    "answer": ["false"],
-    "options": ["true", "false"]
+    "answer": ["False"],
+    "options": ["True", "False"]
   },
   {
     "id": "1979",
@@ -784,8 +784,8 @@
     "type": "bool",
     "ref": "Mos2:30",
     "question": "King Benjamin told the people that even at this time, his whole frame trembled exceedingly while attempting to speak to them.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "1981",
@@ -816,16 +816,16 @@
     "type": "bool",
     "ref": "Mos2:32",
     "question": "King Benjamin said that contentions would arise among the people if they list to obey the evil spirit spoken by his father Mosiah.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "1985",
     "type": "bool",
     "ref": "Mos2:33",
     "question": "King Benjamin wrote that if we choose to listen to the evil spirit and obey him, and remain and die in our sins, we will be drinking damnation to our soul.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "1986",
@@ -840,16 +840,16 @@
     "type": "bool",
     "ref": "Mos2:34",
     "question": "During King Benjamin time, all the Nephites had been taught concerning the records except the little children.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "1988",
     "type": "bool",
     "ref": "Mos2:34",
     "question": "King Benjamin told the Nephites that they were eternally indebted to their heavenly father and to render all that they have and are unto him.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "1989",
@@ -872,24 +872,24 @@
     "type": "bool",
     "ref": "Mos2:37",
     "question": "King Benjamin taught that if we openly rebel against God, we become an enemy to all righteousness; therefore, the Lord has no place for us.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "1992",
     "type": "bool",
     "ref": "Mos2:37",
     "question": "According to King Benjamin the Lord sometimes dwells in unholy temples.",
-    "answer": ["false"],
-    "options": ["true", "false"]
+    "answer": ["False"],
+    "options": ["True", "False"]
   },
   {
     "id": "1993",
     "type": "bool",
     "ref": "Mos2:38",
     "question": "If we do not repent, and remain and die an enemy to God, the demands of div1ne justice will awaken our immortal soul to our guilt, and we will shrink from the presence of the Lord.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "1994",
@@ -920,8 +920,8 @@
     "type": "bool",
     "ref": "Mos2:40",
     "question": "King Benjamin spoke plainly to all the old men, young men, and little children.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "1998",
@@ -936,16 +936,16 @@
     "type": "bool",
     "ref": "Mos2:41",
     "question": "King Benjamin wanted his people to consider all the blessed and happy state of those that keep the commandments of God.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2000",
     "type": "bool",
     "ref": "Mos2:41",
     "question": "If we keep the commandments of God, we are blessed both temporally and spiritually.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2001",
@@ -960,8 +960,8 @@
     "type": "bool",
     "ref": "Mos2:41",
     "question": "King Benjamin told the people that the things of which he had spoken of were somewhat true.",
-    "answer": ["false"],
-    "options": ["true", "false"]
+    "answer": ["False"],
+    "options": ["True", "False"]
   },
   {
     "id": "2003",
@@ -976,8 +976,8 @@
     "type": "bool",
     "ref": "Mos3:2",
     "question": "The angel told King Benjamin to awake, and he awoke, and behold he stood before him.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2005",
@@ -992,8 +992,8 @@
     "type": "bool",
     "ref": "Mos3:4",
     "question": "The angel told King Benjamin that the Lord had judged him in righteousness and sent him to declare that he could rejoice.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2007",
@@ -1008,8 +1008,8 @@
     "type": "bool",
     "ref": "Mos3:5",
     "question": "The Lord will not cure all manner of diseases.",
-    "answer": ["false"],
-    "options": ["true", "false"]
+    "answer": ["False"],
+    "options": ["True", "False"]
   },
   {
     "id": "2009",
@@ -1024,24 +1024,24 @@
     "type": "bool",
     "ref": "Mos3:7",
     "question": "King Benjamin wrote that Jesus Christ would bleed from every pore, and so great will be his anguish for the wickedness and the abominations of his people.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2012",
     "type": "bool",
     "ref": "Mos3:8",
     "question": "King Benjamin saw the crucifixion of Jesus Christ?",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2013",
     "type": "bool",
     "ref": "Mos3:8-9",
     "question": "The word crucifixion never appears in the text of the Book of Mormon.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2014",
@@ -1072,8 +1072,8 @@
     "type": "bool",
     "ref": "Mos3:8",
     "question": "Another name for Jesus Christ is the Creator of all things from the beginning.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2017",
@@ -1096,8 +1096,8 @@
     "type": "bool",
     "ref": "Mos3:10",
     "question": "The Lord will rise from the dead on the third day; and these things are done that a righteous judgment might come upon the children of men.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2020",
@@ -1112,16 +1112,16 @@
     "type": "bool",
     "ref": "Mos3:11",
     "question": "According to King Benjamin, there are those who died not knowing the will of God concerning them, or who have ignorantly sinned.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2022",
     "type": "bool",
     "ref": "Mos3:12",
     "question": "King Benjamin wrote: “But woe, woe unto him who knows that rebels against God!",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2023",
@@ -1152,8 +1152,8 @@
     "type": "bool",
     "ref": "Mos3:13",
     "question": "The Lord wanted the people to receive a remission of their sins, and rejoice with exceeding great joy, even as though he had already come among them.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2027",
@@ -1176,24 +1176,24 @@
     "type": "bool",
     "ref": "Mos3:16",
     "question": "King Benjamin said that it was not possible for little children to sin and even if they did, the blood of Jesus Christ atones for their sins.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2030",
     "type": "bool",
     "ref": "Mos3:17",
     "question": "King Benjamin wrote that there shall be no other name given, or any other way or means whereby salvation can come to the children of men, only in and through the name of Christ, the Lord Omnipotent.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2031",
     "type": "bool",
     "ref": "Mos3:18",
     "question": "King Benjamin said that a baby that dies in infancy perishes.",
-    "answer": ["false"],
-    "options": ["true", "false"]
+    "answer": ["False"],
+    "options": ["True", "False"]
   },
   {
     "id": "2032",
@@ -1224,16 +1224,16 @@
     "type": "bool",
     "ref": "Mos3:19",
     "question": "The natural man is an enemy to God, and will be forever and ever, unless he yields to the enticing of the Holy Spirit.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2036",
     "type": "bool",
     "ref": "Mos3:19",
     "question": "We must put off the natural man and become as a child, submissive, meek, and humble and yield to the enticing of the Holy Spirit.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2037",
@@ -1264,16 +1264,16 @@
     "type": "bool",
     "ref": "Mos3:23",
     "question": "King Benjamin spoke the words that the Lord had commanded him to speak to the Nephites.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2041",
     "type": "bool",
     "ref": "Mos3:24",
     "question": "The words which King Benjamin spoke to the Nephites while he was on the tower will not stand as a bright testimony against them.",
-    "answer": ["false"],
-    "options": ["true", "false"]
+    "answer": ["False"],
+    "options": ["True", "False"]
   },
   {
     "id": "2042",
@@ -1288,8 +1288,8 @@
     "type": "bool",
     "ref": "Mos3:25",
     "question": "If your works were evil; you are consigned to an awful view of your own guilt and abominations, and an endless torment, from where you cannot return to the Lord’s presence.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2044",
@@ -1320,16 +1320,16 @@
     "type": "bool",
     "ref": "Mos4:1",
     "question": "When King Benjamin was ending his address to the Nephites, he cast his eyes round about the multitude, and behold, they had fallen to the earth.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2048",
     "type": "bool",
     "ref": "Mos4:2",
     "question": "The people that were at King Benjamin’s address fell to the earth, because the fear of the Lord had come upon them.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2049",
@@ -1364,16 +1364,16 @@
     "type": "bool",
     "ref": "Mos4:5",
     "question": "When King Benjamin spoke of man’s “nothingness” he was referring that we all depend on God.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2053",
     "type": "bool",
     "ref": "Mos4:6",
     "question": "King Benjamin spoke to the people of the knowledge and goodness of God, and his matchless power.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2054",
@@ -1388,8 +1388,8 @@
     "type": "bool",
     "ref": "Mos4:9",
     "question": "King Benjamin told the Nephites and wrote to us to believe in God; believe that he is, and that he created all things, both in heaven and in earth.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2056",
@@ -1404,24 +1404,24 @@
     "type": "bool",
     "ref": "Mos4:11",
     "question": "According to King Benjamin we should repent of our sins and should always retain in remembrance, the greatness of God, and our own nothingness, and his long-suffering towards us.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2058",
     "type": "bool",
     "ref": "Mos4:11",
     "question": "King Benjamin told his people that they should not be calling on the name of the Lord daily.",
-    "answer": ["false"],
-    "options": ["true", "false"]
+    "answer": ["False"],
+    "options": ["True", "False"]
   },
   {
     "id": "2059",
     "type": "bool",
     "ref": "Mos4:11",
     "question": "King Benjamin told his people that they should be standing steadfastly in the faith of that which is to come, which was spoken by the mouth of the angel.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2060",
@@ -1444,8 +1444,8 @@
     "type": "bool",
     "ref": "Mos4:12",
     "question": "If we are filled with the love of God, and always retain a remission of our sins; we shall grow in the knowledge of the glory of him that created us, or in the knowledge of that which is just and true.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2063",
@@ -1468,16 +1468,16 @@
     "type": "bool",
     "ref": "Mos4:15",
     "question": "King Benjamin said that we should teach our children to walk in the ways of truth and soberness; to teach them to love one another, and to serve one another.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2066",
     "type": "bool",
     "ref": "Mos4:16,18",
     "question": "King Benjamin said we have great cause to repent if we do not succor those that stand in need of our succor.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2067",
@@ -1492,24 +1492,24 @@
     "type": "bool",
     "ref": "Mos4:20",
     "question": "King Benjamin said that the Lord caused the hearts of the Nephites to be filled with joy because the Lord had poured out his Spirit upon them.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2069",
     "type": "bool",
     "ref": "Mos4:21",
     "question": "King Benjamin wrote that God will grant unto us whatsoever we ask that is right, in faith, believing that we will receive.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2070",
     "type": "bool",
     "ref": "Mos4:21",
     "question": "King Benjamin told the Nephites that not only had God created them, but that they were dependent on him for their lives, and for all that they have and are.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2071",
@@ -1524,8 +1524,8 @@
     "type": "bool",
     "ref": "Mos4:24",
     "question": "King Benjamin said that we should not deny the beggar, because we have not; I would that ye say in your hearts that: “I give not because I have not, but if I had I would give”.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2073",
@@ -1548,16 +1548,16 @@
     "type": "bool",
     "ref": "Mos4:27",
     "question": "King Benjamin said that it is not “requisite that a man should run faster than he has strength”.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2076",
     "type": "bool",
     "ref": "Mos4:28",
     "question": "We commit a sin when we borrow a tool from our neighbor and then don’t return it; and perhaps we shall cause that our neighbor might commit a sin also.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2077",
@@ -1596,8 +1596,8 @@
     "type": "bool",
     "ref": "Mos5:4",
     "question": "It was their faith that brought the great change in the people of King Benjamin",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2082",
@@ -1612,16 +1612,16 @@
     "type": "bool",
     "ref": "Mos5:5",
     "question": "The people at King Benjamin address entered a covenant with God to do his will, and to be obedient to his commandments.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2085",
     "type": "bool",
     "ref": "Mos5:6",
     "question": "King Benjamin told the Nephites that they had not made a righteous covenant with the Lord.",
-    "answer": ["false"],
-    "options": ["true", "false"]
+    "answer": ["False"],
+    "options": ["True", "False"]
   },
   {
     "id": "2086",
@@ -1636,16 +1636,16 @@
     "type": "bool",
     "ref": "Mos5:8",
     "question": "King Benjamin told the Nephites that “there is no other name given whereby salvation comes” therefore, I would that ye should take upon you the name of Christ.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2088",
     "type": "bool",
     "ref": "Mos5:9",
     "question": "According to King Benjamin; at the end of our lives it is better for us to be found on the right hand of God than of the left.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2089",
@@ -1660,8 +1660,8 @@
     "type": "bool",
     "ref": "Mos5:9",
     "question": "King Benjamin told the Nephites that they would know the name by which they are called.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2091",
@@ -1676,16 +1676,16 @@
     "type": "bool",
     "ref": "Mos5:11",
     "question": "King Benjamin told the Nephites that there names would never be blotted out, except it be through transgression.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2093",
     "type": "bool",
     "ref": "Mos5:12",
     "question": "King Benjamin told his people should not be found on the left hand of God.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2094",
@@ -1716,16 +1716,16 @@
     "type": "bool",
     "ref": "Mos6:1",
     "question": "When King Benjamin finished speaking to the people, he thought that it was expedient that he should take the names of the people who had entered a covenant with God to keep his commandment.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2098",
     "type": "bool",
     "ref": "Mos6:2",
     "question": "And it came to pass that every soul and all the little children that had entered into a covenant had taken upon them the name of Christ.",
-    "answer": ["false"],
-    "options": ["true", "false"]
+    "answer": ["False"],
+    "options": ["True", "False"]
   },
   {
     "id": "2099",
@@ -1756,16 +1756,16 @@
     "type": "bool",
     "ref": "Mos6:6",
     "question": "And it came to pass that King Mosiah2 did not walk in the ways of the Lord, and was an unrighteous king.",
-    "answer": ["false"],
-    "options": ["true", "false"]
+    "answer": ["False"],
+    "options": ["True", "False"]
   },
   {
     "id": "2103",
     "type": "bool",
     "ref": "Mos6:6",
     "question": "King Mosiah2 did walk in the ways of the Lord, and did observe his judgments and statues.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2104",
@@ -1780,16 +1780,16 @@
     "type": "bool",
     "ref": "Mos6:7 & Mos7:1",
     "question": "King Mosiah2 had no contentions and had continual peace for the first three years of his reign.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2106",
     "type": "bool",
     "ref": "Mos7:1",
     "question": "King Mosiah2 desired to know what had become of the people who went up to dwell in the land/city called Lehi-Nephi.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2107",
@@ -1812,32 +1812,32 @@
     "type": "bool",
     "ref": "Mos7:3",
     "question": "Ammon was a strong and mighty man, and a descendant of Zarahemla.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2110",
     "type": "bool",
     "ref": "Mos7:3",
     "question": "Ammon was not the leader on the band of sixteen men who went to the land of Lehi-Nephi to inquire about their brethren.",
-    "answer": ["false"],
-    "options": ["true", "false"]
+    "answer": ["False"],
+    "options": ["True", "False"]
   },
   {
     "id": "2113",
     "type": "bool",
     "ref": "Mos7:7",
     "question": "Ammon and his brothers were surrounded by the king’s guard and were taken, and were bound, and were committed to prison.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2114",
     "type": "bool",
     "ref": "Mos7:8",
     "question": "Ammon and his brothers were in prison for three days before they were brought before the king and permitted to speak.",
-    "answer": ["false"],
-    "options": ["true", "false"]
+    "answer": ["False"],
+    "options": ["True", "False"]
   },
   {
     "id": "2115",
@@ -1880,24 +1880,24 @@
     "type": "bool",
     "ref": "Mos7:12",
     "question": "When Ammon was permitted to speak to King Limhi, he bowed himself before the king and endeavored to speak with boldness.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2120",
     "type": "bool",
     "ref": "Mos7:13",
     "question": "Ammon told King Limhi that if he would have known who he was, he would not have caused that he and his brethren be bound and put in prison.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2121",
     "type": "bool",
     "ref": "Mos7:13",
     "question": "Ammon did not tell King Limhi that he was a descendant of Zarahemla, and did not come up to his land to inquire concerning the brethren, whom Zeniff brought up out of that land.",
-    "answer": ["false"],
-    "options": ["true", "false"]
+    "answer": ["False"],
+    "options": ["True", "False"]
   },
   {
     "id": "2122",
@@ -1952,8 +1952,8 @@
     "type": "bool",
     "ref": "Mos7:19",
     "question": "King Limhi told his people; lift up your heads, and rejoice, and put your trust in me and Ammon.",
-    "answer": ["false"],
-    "options": ["true", "false"]
+    "answer": ["False"],
+    "options": ["True", "False"]
   },
   {
     "id": "2129",
@@ -1992,8 +1992,8 @@
     "type": "bool",
     "ref": "Mos7:20",
     "question": "King Limhi said it is because of our iniquities and abominations that they were brought into bondage to the Lamanites.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2134",
@@ -2016,8 +2016,8 @@
     "type": "bool",
     "ref": "Mos7:22",
     "question": "King Limhi told Ammon that they pay one half of the amount of every thing that they possess to the king of the Lamanites.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2137",
@@ -2048,8 +2048,8 @@
     "type": "bool",
     "ref": "Mos7:26",
     "question": "King Limhi said that a prophet of the Lord have they slain; a chosen man of God.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2141",
@@ -2080,8 +2080,8 @@
     "type": "bool",
     "ref": "Mos7:26",
     "question": "Abinidi also prophesied of many things which are to come, yea, even of the coming of Christ.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2145",
@@ -2096,8 +2096,8 @@
     "type": "bool",
     "ref": "Mos7:27",
     "question": "Abinidi testified that man was created after the image of God.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2147",
@@ -2112,8 +2112,8 @@
     "type": "bool",
     "ref": "Mos7:28",
     "question": "Because Abinidi said many things, the priests of Noah put him to death and brought the wrath of God upon them.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2149",
@@ -2128,8 +2128,8 @@
     "type": "bool",
     "ref": "Mos7:32",
     "question": "King Limhi said: “And now, behold, the promise of the Lord is fulfilled, and ye are smitten and afflicted”.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2151",
@@ -2144,24 +2144,24 @@
     "type": "bool",
     "ref": "Mos7:33",
     "question": "If we turn to the Lord with a full purpose of heart, and put our trust in him, and serve him with all diligence of mind; he will, according to his own will and pleasure, deliver us out of any bondage we are in.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2153",
     "type": "bool",
     "ref": "Mos8:1",
     "question": "All the things that King Limhi spoke to the Nephites are written in the Book of Mosiah.",
-    "answer": ["false"],
-    "options": ["true", "false"]
+    "answer": ["False"],
+    "options": ["True", "False"]
   },
   {
     "id": "2154",
     "type": "bool",
     "ref": "Mos8:2",
     "question": "King Limhi caused that Ammon should stand up before the multitude, and rehearse unto them all that had happened unto their brethren from the time Zeniff went out of the land to the present time.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2155",
@@ -2184,24 +2184,24 @@
     "type": "bool",
     "ref": "Mos8:6",
     "question": "As soon as Ammon had read the record, King Limhi inquired of him to know if he could interpret languages.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2158",
     "type": "bool",
     "ref": "Mos8:6",
     "question": "Ammon was well versed in the art of interpreting languages so it was very easy for him to interpret the thing that King Limhi desired of him.",
-    "answer": ["false"],
-    "options": ["true", "false"]
+    "answer": ["False"],
+    "options": ["True", "False"]
   },
   {
     "id": "2159",
     "type": "bool",
     "ref": "Mos8:7",
     "question": "King Limhi caused that forty-three of his people should take a journey into the wilderness, to look for the land of Zarahemla.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2160",
@@ -2216,8 +2216,8 @@
     "type": "bool",
     "ref": "Mos8:8",
     "question": "The forty-three people that King Limhi sent to find Zarahemla; were diligent but they were not able to find the land of Zarahemla.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2162",
@@ -2232,8 +2232,8 @@
     "type": "bool",
     "ref": "Mos8:8",
     "question": "The land that King Limhi’s people traveled was covered with ruins of buildings of every kind.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2164",
@@ -2264,16 +2264,16 @@
     "type": "bool",
     "ref": "Mos8:10",
     "question": "The people of King Limhi also brought back with them breastplates which were large.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2168",
     "type": "bool",
     "ref": "Mos8:10",
     "question": "The breastplates that the people of King Limhi brought back with them were large and made of brass and copper, and were perfectly sound.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2169",
@@ -2288,16 +2288,16 @@
     "type": "bool",
     "ref": "Mos8:12",
     "question": "King Limhi desired that the records be translated because they might give him knowledge of a remnant of the people who have been destroyed and from whence the records came.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2172",
     "type": "bool",
     "ref": "Mos8:13",
     "question": "Ammon told King Limhi that he could translate the twenty-four plates because he had been given the gift of translating by God.",
-    "answer": ["false"],
-    "options": ["true", "false"]
+    "answer": ["False"],
+    "options": ["True", "False"]
   },
   {
     "id": "2173",
@@ -2312,16 +2312,16 @@
     "type": "bool",
     "ref": "Mos8:13",
     "question": "Ammon told King Limhi that the man possessed things which were called interpreters that enable him to translate.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2175",
     "type": "bool",
     "ref": "Mos8:13",
     "question": "Ammon told King Limhi that no man can look in the interpreters except he be commanded by God, lest he should look for that he ought not and he should perish.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2176",
@@ -2344,16 +2344,16 @@
     "type": "bool",
     "ref": "Mos8:14",
     "question": "Ammon told King Limhi that King Mosiah2 had been given this high gift from God to be able to translate records of ancient date",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2179",
     "type": "bool",
     "ref": "Mos8:15",
     "question": "King Limhi asked Ammon if a seer is greater than a prophet.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2180",
@@ -2368,8 +2368,8 @@
     "type": "bool",
     "ref": "Mos8:16",
     "question": "Ammon told King Limhi that no man can have a greater gift given to him, except he should possess the power of God, which no man can.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2182",
@@ -2392,16 +2392,16 @@
     "type": "bool",
     "ref": "Mos8:17",
     "question": "Ammon told King Limhi that though and by a seer shall secret things be made manifest.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2185",
     "type": "bool",
     "ref": "Mos8:17",
     "question": "Ammon said through a seer hidden things shall come to light, and things which are not known shall be made known by him.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2186",
@@ -2416,16 +2416,16 @@
     "type": "bool",
     "ref": "Mos8:18",
     "question": "God has provided a means that man, through faith might work mighty miracles, therefore becoming a great benefit to his fellow beings.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2188",
     "type": "bool",
     "ref": "Mos8:19",
     "question": "When Ammon was done speaking to King Limhi about what a seer and the interpreters can do for man, the king did not rejoice exceedingly.",
-    "answer": ["false"],
-    "options": ["true", "false"]
+    "answer": ["False"],
+    "options": ["True", "False"]
   },
   {
     "id": "2189",
@@ -2456,16 +2456,16 @@
     "type": "bool",
     "ref": "Mos8:21",
     "question": "King Limhi said that the children of men are as a wild flock which flee from the shepherd, and scattered, and are driven, and are devoured by the beasts of the forest.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2193",
     "type": "bool",
     "ref": "Mos9-22 & Mos7:21",
     "question": "In the Book of Mosiah, chapters 9 though 22 inclusively give the record of King Zeniff.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2194",
@@ -2480,8 +2480,8 @@
     "type": "bool",
     "ref": "Mos9:1",
     "question": "Zeniff was not taught in all of the language of the Nephites, but only in some parts.",
-    "answer": ["false"],
-    "options": ["true", "false"]
+    "answer": ["False"],
+    "options": ["True", "False"]
   },
   {
     "id": "2196",
@@ -2504,8 +2504,8 @@
     "type": "bool",
     "ref": "Mos9:1",
     "question": "When Zeniff saw that which was good among them (Lamanites) I was desirous that they should not be destroyed.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2199",
@@ -2528,8 +2528,8 @@
     "type": "bool",
     "ref": "Mos9:2",
     "question": "Zeniff said that he was rescued by the shedding of much blood; for father fought against father, and brother against brother, until the greater of their army was destroyed in the wilderness.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2202",
@@ -2544,16 +2544,16 @@
     "type": "bool",
     "ref": "Mos9:5",
     "question": "Zeniff took four of his men into the city, in unto the king that he may know of the disposition of the king.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2204",
     "type": "bool",
     "ref": "Mos9:6",
     "question": "The king of the Lamanites coveted with Zeniff that he might possess the land of Lehi-Nephi, and the land of Shilom.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2205",
@@ -2568,16 +2568,16 @@
     "type": "bool",
     "ref": "Mos9:7",
     "question": "King Laman1 did not command the people to leave the land of Lehi-Nephi so that Zeniff and his people could possess it.",
-    "answer": ["false"],
-    "options": ["true", "false"]
+    "answer": ["False"],
+    "options": ["True", "False"]
   },
   {
     "id": "2207",
     "type": "bool",
     "ref": "Mos9:8",
     "question": "Zeniff and his people began to build buildings, and to repair the walls of the city of Lehi-Nephi and of the city of Shilom.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2208",
@@ -2592,8 +2592,8 @@
     "type": "bool",
     "ref": "Mos9:9",
     "question": "Zeniff and his people did not begin to multiply and to prosper in the land because of their slow remembrance of the Lord.",
-    "answer": ["false"],
-    "options": ["true", "false"]
+    "answer": ["False"],
+    "options": ["True", "False"]
   },
   {
     "id": "2210",
@@ -2616,8 +2616,8 @@
     "type": "bool",
     "ref": "Mos9:11",
     "question": "King Laman began to grow uneasy about Zeniff and his people because he feared that they would wax strong in the land, and he could not overpower them and bring them into bondage.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2213",
@@ -2632,16 +2632,16 @@
     "type": "bool",
     "ref": "Mos9:12",
     "question": "Zeniff wrote the Lamanites did not want to glut themselves with the labors of the hands of his people.",
-    "answer": ["false"],
-    "options": ["true", "false"]
+    "answer": ["False"],
+    "options": ["True", "False"]
   },
   {
     "id": "2215",
     "type": "bool",
     "ref": "Mos9:12",
     "question": "Zeniff said the Lamanites wanted to feast themselves upon the flocks of their fields.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2216",
@@ -2656,8 +2656,8 @@
     "type": "bool",
     "ref": "Mos9:13,14",
     "question": "In the thirteenth year of the reign of King Zeniff there began to be wars and contentions in the land.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2218",
@@ -2672,8 +2672,8 @@
     "type": "bool",
     "ref": "Mos9:16",
     "question": "King Zeniff began to arm his people with bows and arrows, with swords, and with cimeters.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2220",
@@ -2696,16 +2696,16 @@
     "type": "bool",
     "ref": "Mos9:17",
     "question": "Zeniff and his people used their own bodily strength to fight the armies of the Lamanites.",
-    "answer": ["false"],
-    "options": ["true", "false"]
+    "answer": ["False"],
+    "options": ["True", "False"]
   },
   {
     "id": "2223",
     "type": "bool",
     "ref": "Mos9:17",
     "question": "King Zeniff and his people did cry mightily unto the Lord that he would deliver them out of the hands of the Lamanites.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2224",
@@ -2720,8 +2720,8 @@
     "type": "bool",
     "ref": "Mos9:18",
     "question": "The Lord did not hear the cries of Zeniff and his people therefore he did not deliver them out of the hands of the Lamanites.",
-    "answer": ["false"],
-    "options": ["true", "false"]
+    "answer": ["False"],
+    "options": ["True", "False"]
   },
   {
     "id": "2226",
@@ -2736,8 +2736,8 @@
     "type": "bool",
     "ref": "Mos9:18",
     "question": "In one day and a night the people of King Zeniff did slay three thousand and forty-three Lamanites.",
-    "answer": ["false"],
-    "options": ["true", "false"]
+    "answer": ["False"],
+    "options": ["True", "False"]
   },
   {
     "id": "2228",
@@ -2752,24 +2752,24 @@
     "type": "bool",
     "ref": "Mos10:1",
     "question": "King Zeniff and his people began to establish the kingdom and did establish peace throughout the land and also to possession of it again.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2230",
     "type": "bool",
     "ref": "Mos10:1",
     "question": "And it came to pass that King Zeniff had his people made all kinds of weapons of war in case the Lamanites might come up to war with his people.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2231",
     "type": "bool",
     "ref": "Mos10:2",
     "question": "King Zeniff caused that guards be place round about throughout the land so they would be aware if the Lamanites should come upon them.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2232",
@@ -2808,8 +2808,8 @@
     "type": "bool",
     "ref": "Mos10:6",
     "question": "King Laman2 began to stir his people up in rebellion against the people of King Zeniff.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2237",
@@ -2840,8 +2840,8 @@
     "type": "bool",
     "ref": "Mos10:8",
     "question": "King Zeniff said that the Lamanites were naked; and they were girded with a leather girdle about their loins.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2241",
@@ -2856,32 +2856,32 @@
     "type": "bool",
     "ref": "Mos10:9",
     "question": "King Zeniff also had his old men and also all the young men that were able to bear arms, that they should gather themselves together to do battle with the Lamanites.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2243",
     "type": "bool",
     "ref": "Mos10:9",
     "question": "King Zeniff did not have all the old men and the young men that could bear arms gather together in their ranks, every man according to his age.",
-    "answer": ["false"],
-    "options": ["true", "false"]
+    "answer": ["False"],
+    "options": ["True", "False"]
   },
   {
     "id": "2244",
     "type": "bool",
     "ref": "Mos10:10",
     "question": "In the Book of Mosiah; King Zeniff writes that when King Laman2 and his numerous hosts came to do battle with him and his people, he was only 30 years old.",
-    "answer": ["false"],
-    "options": ["true", "false"]
+    "answer": ["False"],
+    "options": ["True", "False"]
   },
   {
     "id": "2245",
     "type": "bool",
     "ref": "Mos10:10",
     "question": "King Laman himself, even in his old age, did go up to battle against the Lamanites in the strength of the Lord.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2246",
@@ -2912,8 +2912,8 @@
     "type": "bool",
     "ref": "Mos10:12",
     "question": "The Lamanites believed in the traditions of their fathers; which is this-believing that they were driven out of the land of Jerusalem because of the iniquities of their fathers",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2250",
@@ -2928,8 +2928,8 @@
     "type": "bool",
     "ref": "Mos10:12",
     "question": "The Lamanites also believed they were wronged while crossing the sea; to get to the Promised Land.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2252",
@@ -2944,8 +2944,8 @@
     "type": "bool",
     "ref": "Mos10:13",
     "question": "Zeniff wrote that Nephi was more faithful in keeping the commandments of the Lord; therefore he was favored of the Lord.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2254",
@@ -2984,16 +2984,16 @@
     "type": "bool",
     "ref": "Mos10:15",
     "question": "Laman and Lemuel were wroth with Nephi: because after they had arrived in the promise land; he had taken the ruling of the people out of their hands, and they sought to kill him.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2259",
     "type": "bool",
     "ref": "Mos10:16",
     "question": "Nephi’s older brothers were wroth with him because he had departed into the wilderness as the Lord had commanded him.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2260",
@@ -3016,24 +3016,24 @@
     "type": "bool",
     "ref": "Mos10:17",
     "question": "Laman and Lemuel had also taught their children that they should hate the Nephites, and they should murder, and they should plunder them.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2263",
     "type": "bool",
     "ref": "Mos10:17",
     "question": "Laman and Lemuel did not teach their children that they should plunder the Nephites.",
-    "answer": ["false"],
-    "options": ["true", "false"]
+    "answer": ["False"],
+    "options": ["True", "False"]
   },
   {
     "id": "2264",
     "type": "bool",
     "ref": "Mos10:17",
     "question": "The Lamanites were taught to do all they could to destroy the Nephites.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2265",
@@ -3048,8 +3048,8 @@
     "type": "bool",
     "ref": "Mos10:18",
     "question": "King Zeniff said that King Laman1 had deceived him by his cunning and lying craft1ness, and his fair promises.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2267",
@@ -3072,16 +3072,16 @@
     "type": "bool",
     "ref": "Mos10:20",
     "question": "And it came to pass that King Zeniff and his people slaughtered so many of the Lamanites that they did not number them.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2270",
     "type": "bool",
     "ref": "Mos10:22",
     "question": "When King Zeniff began to be old, he did confer the Kingdom upon one of his daughters.",
-    "answer": ["false"],
-    "options": ["true", "false"]
+    "answer": ["False"],
+    "options": ["True", "False"]
   },
   {
     "id": "2271",
@@ -3096,8 +3096,8 @@
     "type": "bool",
     "ref": "Mos11:1",
     "question": "Noah began to reign in the stead of his father; and he did not walk in the ways of his father.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2273",
@@ -3128,24 +3128,24 @@
     "type": "bool",
     "ref": "Mos11:2",
     "question": "King Noah’s people committed whoredoms and all manner of wickedness.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2277",
     "type": "bool",
     "ref": "Mos10:3",
     "question": "King Noah laid a tax of one fifth part of all the Nephites possessed, such as; gold, silver, copper, and brass.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2278",
     "type": "bool",
     "ref": "Mos11:3",
     "question": "King Noah did not tax the people of one fifth part of all the iron, fatlings, and grain they possessed because he did not feel that it was worth it.",
-    "answer": ["false"],
-    "options": ["true", "false"]
+    "answer": ["False"],
+    "options": ["True", "False"]
   },
   {
     "id": "2279",
@@ -3160,16 +3160,16 @@
     "type": "bool",
     "ref": "Mos11:4",
     "question": "King Noah had to also support his priests, and their wives and concub1nes.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2281",
     "type": "bool",
     "ref": "Mos11:4",
     "question": "King Noah changed the affairs of the kingdom by doing all the wicked things that he did.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2282",
@@ -3184,8 +3184,8 @@
     "type": "bool",
     "ref": "Mos11:5",
     "question": "King Noah consecrated priests that were lifted up in the pride of their hearts.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2284",
@@ -3200,8 +3200,8 @@
     "type": "bool",
     "ref": "Mos11:6",
     "question": "King Noah and his priests were also supported by the people in their idolatry and their whoredoms.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2286",
@@ -3216,16 +3216,16 @@
     "type": "bool",
     "ref": "Mos11:7",
     "question": "The Nephites became an idolatrous people, because they were deceived by the vain and flattering words of the king and his priests.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2288",
     "type": "bool",
     "ref": "Mos11:7",
     "question": "King Noah and his priests spoke flattering things to the Nephites.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2289",
@@ -3240,8 +3240,8 @@
     "type": "bool",
     "ref": "Mos11:8",
     "question": "King Noah built many elegant and spacious building and ornamented them with f1ne work of wood.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2291",
@@ -3264,16 +3264,16 @@
     "type": "bool",
     "ref": "Mos11:8",
     "question": "In the Book of Mormon we are told that Ziff is a type of metal.",
-    "answer": ["false"],
-    "options": ["true", "false"]
+    "answer": ["False"],
+    "options": ["True", "False"]
   },
   {
     "id": "2294",
     "type": "bool",
     "ref": "Mos11:3,8",
     "question": "In the Book of Mormon we are never told what Ziff is or if it is a type of metal.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2295",
@@ -3304,8 +3304,8 @@
     "type": "bool",
     "ref": "Mos11:10",
     "question": "King Noah’s temple walls were made of f1ne wood, and of copper, and of brass.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2299",
@@ -3328,8 +3328,8 @@
     "type": "bool",
     "ref": "Mos11:11",
     "question": "King Noah caused a breastwork to be built before them, that they may rest their bodies and arms upon while they should speak lying and vain words to his people.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2302",
@@ -3344,8 +3344,8 @@
     "type": "bool",
     "ref": "Mos11:12",
     "question": "King Noah built a very high tower so he could stand upon the top thereof and overlook the land of Shilom, and also the land of Shemlon.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2305",
@@ -3360,8 +3360,8 @@
     "type": "bool",
     "ref": "Mos11:13",
     "question": "King Noah caused that a great tower be built on the hill north of the land of Shilom.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2308",
@@ -3384,24 +3384,24 @@
     "type": "bool",
     "ref": "Mos11:14",
     "question": "King Noah and his priests did not spend their time in riotous living and with harlots.",
-    "answer": ["false"],
-    "options": ["true", "false"]
+    "answer": ["False"],
+    "options": ["True", "False"]
   },
   {
     "id": "2311",
     "type": "bool",
     "ref": "Mos11:15",
     "question": "And it came to pass that King Noah planted v1neyards about the land, and w1ne-presses.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2312",
     "type": "bool",
     "ref": "Mos11:15",
     "question": "King Noah did not built w1ne-presses for the making of w1ne but for the making of jams.",
-    "answer": ["false"],
-    "options": ["true", "false"]
+    "answer": ["False"],
+    "options": ["True", "False"]
   },
   {
     "id": "2313",
@@ -3416,8 +3416,8 @@
     "type": "bool",
     "ref": "Mos11:15",
     "question": "The term or word w1ne-bibber is only used one time in the Book of Mormon.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2315",
@@ -3440,8 +3440,8 @@
     "type": "bool",
     "ref": "Mos11:16",
     "question": "And it came to pass that the Lamanites began to come upon the people of King Noah.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2318",
@@ -3456,16 +3456,16 @@
     "type": "bool",
     "ref": "Mos11:18",
     "question": "The Lamanites began to kill the Nephites and drove many of their flocks out of their land; and to exercise their hatred toward them.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2320",
     "type": "bool",
     "ref": "Mos11:18",
     "question": "And it came to pass that King Noah sent his armies against the Lamanites and they were driven back, therefore the Nephites returned rejoicing in their spoil.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2321",
@@ -3496,8 +3496,8 @@
     "type": "bool",
     "ref": "Mos11:19",
     "question": "Because of the wickedness of King Noah and his priests, the Nephites delighted in the shedding of the blood of the Lamanites.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2325",
@@ -3512,8 +3512,8 @@
     "type": "bool",
     "ref": "Mos11:20",
     "question": "The man that was among the people of King Noah that begin to prophesy was not named Abinidi.",
-    "answer": ["false"],
-    "options": ["true", "false"]
+    "answer": ["False"],
+    "options": ["True", "False"]
   },
   {
     "id": "2327",
@@ -3528,8 +3528,8 @@
     "type": "bool",
     "ref": "Mos11:20",
     "question": "The Lord told Abinidi to tell the people of King Noah that he had seen their abominations.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2329",
@@ -3552,8 +3552,8 @@
     "type": "bool",
     "ref": "Mos11:21",
     "question": "The Lord told Abinidi to tell the people that unless they repented he would deliver them unto the hands of their enemies.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2332",
@@ -3584,16 +3584,16 @@
     "type": "bool",
     "ref": "Mos11-22",
     "question": "God told Abinidi to tell the people that he was not a jealous God.",
-    "answer": ["false"],
-    "options": ["true", "false"]
+    "answer": ["False"],
+    "options": ["True", "False"]
   },
   {
     "id": "2336",
     "type": "bool",
     "ref": "Mos11:22",
     "question": "Abinidi told the people that God is a jealous God and would visit the iniquities of his people.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2337",
@@ -3608,8 +3608,8 @@
     "type": "bool",
     "ref": "Mos11:23",
     "question": "Abinidi told the people that they needed to repent and turn unto their God, and if they didn’t; none would deliver them out of bondage except him the Almighty God.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2339",
@@ -3640,8 +3640,8 @@
     "type": "bool",
     "ref": "Mos11:25",
     "question": "Abinidi told the people that if they did not repent in sackcloth and ashes, and cry mightily unto the Lord, he would not hear their prayers.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2343",
@@ -3656,8 +3656,8 @@
     "type": "bool",
     "ref": "Mos11:26",
     "question": "After Abinidi told the Nephites of the things the Lord had commanded him to say they and were wroth with him.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2345",
@@ -3672,8 +3672,8 @@
     "type": "bool",
     "ref": "Mos11:26",
     "question": "The Lord delivered Abinidi, out of the hands of the people.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2347",
@@ -3696,8 +3696,8 @@
     "type": "bool",
     "ref": "Mos11:27",
     "question": "King Noah also said: “Who is the Lord; that shall bring upon my people such great afflictions”",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2350",
@@ -3712,8 +3712,8 @@
     "type": "bool",
     "ref": "Mos11:28",
     "question": "King Noah said that Abinidi had said things to the Nephites to stir up his people to anger one with the other.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2352",
@@ -3728,8 +3728,8 @@
     "type": "bool",
     "ref": "Mos11:29",
     "question": "The eyes of the people were not blinded, therefore they did not hardened their hearts against the words of Abinidi.",
-    "answer": ["false"],
-    "options": ["true", "false"]
+    "answer": ["False"],
+    "options": ["True", "False"]
   },
   {
     "id": "2354",
@@ -3744,8 +3744,8 @@
     "type": "bool",
     "ref": "Mos11:29",
     "question": "King Noah did not harden his heart against the words of Abinidi and the Lord; therefore he did repent of his wickedness.",
-    "answer": ["false"],
-    "options": ["true", "false"]
+    "answer": ["False"],
+    "options": ["True", "False"]
   },
   {
     "id": "2356",
@@ -3760,8 +3760,8 @@
     "type": "bool",
     "ref": "Mos12:1",
     "question": "Abinidi came in a disguise among the people and began to prophesy among them and they did not recognize him.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2358",
@@ -3776,16 +3776,16 @@
     "type": "bool",
     "ref": "Mos12:1",
     "question": "The Lord told Abinidi to prophesy to the Nephites that if they did not repent of their evil doings; he would visit them in his anger.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2360",
     "type": "bool",
     "ref": "Mos12:1",
     "question": "The Lord told Abinidi to prophesy to the people that he would not visit them in his fierce anger, and in their iniquities and abominations.",
-    "answer": ["false"],
-    "options": ["true", "false"]
+    "answer": ["False"],
+    "options": ["True", "False"]
   },
   {
     "id": "2361",
@@ -3800,8 +3800,8 @@
     "type": "bool",
     "ref": "Mos12:2",
     "question": "Abinidi told the people that they shall be smitten on the cheek; yea, and shall be driven by men.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2363",
@@ -3832,8 +3832,8 @@
     "type": "bool",
     "ref": "Mos12:3",
     "question": "Abinidi prophesied that the life of King Noah shall be valued even as a garment in a hot furnace and that he would know the Lord is God.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2367",
@@ -3848,8 +3848,8 @@
     "type": "bool",
     "ref": "Mos12:4",
     "question": "Because of the fam1ne and pestilence brought upon by the Lord; the people will howl all day long.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2369",
@@ -3864,8 +3864,8 @@
     "type": "bool",
     "ref": "Mos12:6",
     "question": "And it shall come to pass that the Lord will send forth hail among the Nephites and it shall smite them.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2371",
@@ -3880,8 +3880,8 @@
     "type": "bool",
     "ref": "Mos12:6",
     "question": "The Lord said that the Nephites will be smitten with the east wind; and insects will pester their land and devour their grain.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2373",
@@ -3904,32 +3904,32 @@
     "type": "bool",
     "ref": "Mos12:8",
     "question": "Abinidi testified that King Noah and his people would leave a record behind and that the Lord would preserve it.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2376",
     "type": "bool",
     "ref": "Mos12:8",
     "question": "The record that King Noah and his people would leave behind shall be possessed by other nations which shall possess the land.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2377",
     "type": "bool",
     "ref": "Mos12:8",
     "question": "The purpose that the Lord wanted to preserve the record is so that he could discover the abominations of King Noah’s people to other nations which shall possess the land.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2378",
     "type": "bool",
     "ref": "Mos12:8",
     "question": "King Zeniff wrote all of the prophesies that Abinidi said to the people of King Noah and they are written in the Book of Mosiah chapter #12.",
-    "answer": ["false"],
-    "options": ["true", "false"]
+    "answer": ["False"],
+    "options": ["True", "False"]
   },
   {
     "id": "2379",
@@ -3944,8 +3944,8 @@
     "type": "bool",
     "ref": "Mos12:9",
     "question": "The people told King Noah that Abinidi prophesied evil concerning his people, and said that God would destroy them.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2381",
@@ -3960,24 +3960,24 @@
     "type": "bool",
     "ref": "Mos12:11",
     "question": "The people told King Noah that Abinidi had also prophesied that his life would be as a stalk, even as a dry stalk of the field, which is run over by the beasts and trodden under foot.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2383",
     "type": "bool",
     "ref": "Mos12:12",
     "question": "The Nephites said that Abinidi had said that King Noah shall be as the blossoms of a thistle, which, when it is fully ripened and the wind blows, it is driven forth upon the face of the land.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2384",
     "type": "bool",
     "ref": "Mos12:12",
     "question": "The people of King Noah said that Abinidi had prophesied all things unto them and said that he pretended that the Lord had spoken it.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2385",
@@ -4000,8 +4000,8 @@
     "type": "bool",
     "ref": "Mos12:14",
     "question": "The people told King Noah that he was guiltless, and had not sinned; therefore, this man has lied concerning him.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2388",
@@ -4024,8 +4024,8 @@
     "type": "bool",
     "ref": "Mos12:16",
     "question": "The people delivered Abinidi into the hands of King Noah and told him to do with him as he seemed fit.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2391",
@@ -4056,16 +4056,16 @@
     "type": "bool",
     "ref": "Mos12:19",
     "question": "The priests of King Noah began to question Abinidi that they might cross him that thereby they might have wherewith to accuse him.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2395",
     "type": "bool",
     "ref": "Mos12:19",
     "question": "Abinidi answered the questions of King Noah’s priests boldly, and withstood all their questions.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2396",
@@ -4080,8 +4080,8 @@
     "type": "bool",
     "ref": "Mos12:20",
     "question": "And it came to pass that one of the priest of King Noah asked Abinidi to interpret some words that were written by their fathers and what was the meaning of them.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2398",
@@ -4096,16 +4096,16 @@
     "type": "bool",
     "ref": "Mos12:25",
     "question": "Abinidi replied to them by saying unto them:”Are you priests pretend to teach this people, and to understand the spirit of prophesying, and yet desire to know of me what these things mean”?",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2400",
     "type": "bool",
     "ref": "Mos12:26",
     "question": "Abinidi told the priests of King Noah:  Woe, be unto you for perverting the ways of the Lord! For if ye understand these things ye have not taught them; therefore, ye have perverted the ways of the Lord.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2401",
@@ -4120,8 +4120,8 @@
     "type": "bool",
     "ref": "Mos12:27",
     "question": "Abinidi asked the priests of King Noah: “What do you teach the people”?",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2403",
@@ -4136,8 +4136,8 @@
     "type": "bool",
     "ref": "Mos12:29",
     "question": "Abinidi told the priests of King Noah if they taught the Law of Moses; why do you not keep it?",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2405",
@@ -4152,16 +4152,16 @@
     "type": "bool",
     "ref": "Mos12:29",
     "question": "Abinidi asked the priests of King Noah why they commit whoredoms and spend their strength with harlots?",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2407",
     "type": "bool",
     "ref": "Mos12:30",
     "question": "Abinidi knew that the priests of King Noah knew that the things he had spoken to them were true.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2408",
@@ -4184,8 +4184,8 @@
     "type": "bool",
     "ref": "Mos12:33",
     "question": "Abinidi told the priests of King Noah that he knew if they kept the commandments of God they would be saved.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2411",
@@ -4200,40 +4200,40 @@
     "type": "bool",
     "ref": "Mos12:35-36",
     "question": "Abinidi recited part of the Ten Commandments to the priests of King Noah.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2413",
     "type": "bool",
     "ref": "Mos12:37",
     "question": "According to Abinidi, King Noah and his people kept the Law of Moses.",
-    "answer": ["false"],
-    "options": ["true", "false"]
+    "answer": ["False"],
+    "options": ["True", "False"]
   },
   {
     "id": "2414",
     "type": "bool",
     "ref": "Mos12:33-37",
     "question": "Abinidi was inspired to say the things he did because of the words of the five books of Moses.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2415",
     "type": "bool",
     "ref": "Mos12:33-37",
     "question": "Abinidi testified to King Noah and his priests that there are actually six books of Moses and that the sixth book is lost unto the children of men.",
-    "answer": ["false"],
-    "options": ["true", "false"]
+    "answer": ["False"],
+    "options": ["True", "False"]
   },
   {
     "id": "2416",
     "type": "bool",
     "ref": "Mos13:2",
     "question": "King Noah’s priests stood forward and attempted to lay their hands on Abinidi; but he withstood them.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2417",
@@ -4256,8 +4256,8 @@
     "type": "bool",
     "ref": "Mos13:4",
     "question": "Because Abinidi told and spoke the things the Lord had commanded him to say and had told them the truth; the priests of King Noah were angry with him.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2420",
@@ -4288,8 +4288,8 @@
     "type": "bool",
     "ref": "Mos12:33&13:5",
     "question": "Mount Sinai is spoken of only in the Book of Mosiah.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2424",
@@ -4304,8 +4304,8 @@
     "type": "bool",
     "ref": "Mos13:7",
     "question": "Abinidi told the people that they had no power to slay him; therefore, he would finish his message.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2426",
@@ -4320,16 +4320,16 @@
     "type": "bool",
     "ref": "Mos13:8",
     "question": "Abinidi told the people that his words did not fill them with wonder and amazement, and with anger.",
-    "answer": ["false"],
-    "options": ["true", "false"]
+    "answer": ["False"],
+    "options": ["True", "False"]
   },
   {
     "id": "2428",
     "type": "bool",
     "ref": "Mos13:9",
     "question": "Abinidi told the people of King Noah that it did not matter where he went after he finished his message, if it so be that he would he saved.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2429",
@@ -4352,32 +4352,32 @@
     "type": "bool",
     "ref": "Mos13:11",
     "question": "Abinidi perceived that the Nephites had studied and taught iniquity for the most part of their lives.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2432",
     "type": "bool",
     "ref": "Mos13:12-24",
     "question": "Abinidi read unto the people of King Noah the remainder of the ten commandments of God.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2433",
     "type": "bool",
     "ref": "Mos12:35&13:12-24",
     "question": "The Ten Commandment of God are never written or recited by anyone in the Book of Mormon.",
-    "answer": ["false"],
-    "options": ["true", "false"]
+    "answer": ["False"],
+    "options": ["True", "False"]
   },
   {
     "id": "2434",
     "type": "bool",
     "ref": "Mos13:25",
     "question": "After Abinidi had finished speaking: he asked the priests of King Noah if they had taught the people to observe the commandments and to keep them.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2435",
@@ -4400,16 +4400,16 @@
     "type": "bool",
     "ref": "Mos13:28",
     "question": "Abinidi told the people that salvation does not come by the Law of Moses alone.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2438",
     "type": "bool",
     "ref": "Mos13:28",
     "question": "Abinidi said that if it were not for the atonement, which God himself shall make for the sins and iniquities of his people; that they most unavoidably perish, not withstanding the Law of Moses.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2439",
@@ -4424,8 +4424,8 @@
     "type": "bool",
     "ref": "Mos13:29",
     "question": "According to Abinidi the Law of Moses was not very strict or hard to live.",
-    "answer": ["false"],
-    "options": ["true", "false"]
+    "answer": ["False"],
+    "options": ["True", "False"]
   },
   {
     "id": "2441",
@@ -4440,8 +4440,8 @@
     "type": "bool",
     "ref": "Mos13:30",
     "question": "The Law of Moses was a law of performances and of ordinances, a law which they were to observe strictly from day to day.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2443",
@@ -4456,8 +4456,8 @@
     "type": "bool",
     "ref": "Mos13:31",
     "question": "Abinidi said that the Law of Moses and all the other things were types of things to come.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2445",
@@ -4480,16 +4480,16 @@
     "type": "bool",
     "ref": "Mos13:33",
     "question": "Abinidi said: “Did not Moses prophesy unto them concerning the coming of the Messiah”?",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2448",
     "type": "bool",
     "ref": "Mos13:33",
     "question": "Abinidi said that all the prophets more or less have prophesied concerning the Messiah and of other things since the world began.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2449",
@@ -4504,16 +4504,16 @@
     "type": "bool",
     "ref": "Mos13:34",
     "question": "The prophets have also prophesied that God himself shall go forth in mighty power upon the face of the earth.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2451",
     "type": "bool",
     "ref": "Mos13:35",
     "question": "Abinidi said:  Have not the prophets also said that he should bring to pass the resurrection of the dead, and that he, himself, should be oppressed and afflicted?",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2452",
@@ -4528,8 +4528,8 @@
     "type": "bool",
     "ref": "Mos14:3",
     "question": "Abinidi said told the priests of King Noah that the Lord he will be despised and rejected of men.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2454",
@@ -4552,8 +4552,8 @@
     "type": "bool",
     "ref": "Mos14:6",
     "question": "Abinidi said “All men are like sheep, have gone astray; we have turned every one to his own way; and the Lord hath laid on him the iniquities of us all”.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2457",
@@ -4576,8 +4576,8 @@
     "type": "bool",
     "ref": "Mos14:8",
     "question": "Abinidi quoted the prophet Isaiah when he said: “For he was cut off out of the land of the living; for the transgressions of my people was he stricken”.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2460",
@@ -4592,16 +4592,16 @@
     "type": "bool",
     "ref": "Mos14:10",
     "question": "Abinidi said that it did not please the Lord to bruise him; yet he has put him to grief.",
-    "answer": ["false"],
-    "options": ["true", "false"]
+    "answer": ["False"],
+    "options": ["True", "False"]
   },
   {
     "id": "2462",
     "type": "bool",
     "ref": "Mos14:10",
     "question": "When thou shall make him his soul an offering for sin he shall see his seed, he shall prolong his days and the pleasure of the Lord shall prosper in his hand.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2463",
@@ -4616,8 +4616,8 @@
     "type": "bool",
     "ref": "Mos14:11",
     "question": "Abinidi told the priests: By his knowledge shall my righteous servant justify many; for he shall bear their iniquities.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2465",
@@ -4632,8 +4632,8 @@
     "type": "bool",
     "ref": "Mos14:12",
     "question": "Abinidi said that Jesus Christ was numbered with the transgressors; and he bore the sins of many, and made intercessions for the transgressors.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2467",
@@ -4656,8 +4656,8 @@
     "type": "bool",
     "ref": "Mos152",
     "question": "Because God will subjected his flesh to the will of the Father, he will be the Father and the Son",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2470",
@@ -4672,8 +4672,8 @@
     "type": "bool",
     "ref": "Mos15:4",
     "question": "Abinidi said that Jesus Christ and God are one God, yea, the very Eternal Father of heaven and of the earth.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2472",
@@ -4688,8 +4688,8 @@
     "type": "bool",
     "ref": "Mos15:5",
     "question": "Jesus Christ will suffer himself to be mocked, and scourged, and cast out, and will not be disowned by his people.",
-    "answer": ["false"],
-    "options": ["true", "false"]
+    "answer": ["False"],
+    "options": ["True", "False"]
   },
   {
     "id": "2474",
@@ -4704,8 +4704,8 @@
     "type": "bool",
     "ref": "Mos15:7",
     "question": "Abinidi said: Jesus Christ shall be led, crucified, and be slain, the flesh becoming subjected even unto death, the will of the Son being swallowed up in the will of the Father.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2476",
@@ -4728,8 +4728,8 @@
     "type": "bool",
     "ref": "Mos15:9",
     "question": "Jesus Christ will stand between the children of men and justice; having broken the bands of death.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2479",
@@ -4744,32 +4744,32 @@
     "type": "bool",
     "ref": "Mos15:10",
     "question": "Abinidi said: When the soul of Jesus Christ has been made an offering for sin he shall see his seed.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2481",
     "type": "bool",
     "ref": "Mos15:11",
     "question": "Abinidi said that whosoever has heard the words of the holy prophets who have prophesied concerning the coming of the Lord and have kept his Commandments; look forward to the remission of their sins.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2482",
     "type": "bool",
     "ref": "Mos15:11",
     "question": "Those that have hearkened into the words of the prophets and believed that the Lord would redeem his people, and have looked forward to the remission of their sins are heirs of the kingdom of God.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2483",
     "type": "bool",
     "ref": "Mos15:12",
     "question": "The people whose sins Jesus Christ has borne; these are they for whom he has died to redeem them from transgressions are his seed.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2484",
@@ -4784,8 +4784,8 @@
     "type": "bool",
     "ref": "Mos15:14",
     "question": "The prophets of the Lord have published peace, who have brought good tidings of good, who have published salvation: and said unto Zion: Thy God reigns are also the seed of Jesus Christ.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2486",
@@ -4800,8 +4800,8 @@
     "type": "bool",
     "ref": "Mos15:18",
     "question": "Abinidi said that the Lord is the founder of peace, and it is he who has redeemed his people and granted salvation unto his people.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2488",
@@ -4816,8 +4816,8 @@
     "type": "bool",
     "ref": "Mos15:19",
     "question": "If it was not for the redemption of Jesus Christ that he has made for his people, all mankind must perish.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2490",
@@ -4832,32 +4832,32 @@
     "type": "bool",
     "ref": "Mos15:21",
     "question": "All those that died before the resurrection of Jesus Christ, will not be a part of the first resurrection.",
-    "answer": ["false"],
-    "options": ["true", "false"]
+    "answer": ["False"],
+    "options": ["True", "False"]
   },
   {
     "id": "2492",
     "type": "bool",
     "ref": "Mos15:23",
     "question": "Those people who have believed in the words of the prophets and have kept the commandments of God will dwell with God who has raised them and have eternal life through Jesus Christ.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2493",
     "type": "bool",
     "ref": "Mos15:24",
     "question": "Those who have died before Jesus Christ came to earth and have come in their ignorance, not having salvation declared unto them; the Lord will bring about the restoration to them and are a part of the first resurrection.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2494",
     "type": "bool",
     "ref": "Mos15:25",
     "question": "Abinidi said that little children that have died before Jesus Christ came to the earth have no eternal life.",
-    "answer": ["false"],
-    "options": ["true", "false"]
+    "answer": ["False"],
+    "options": ["True", "False"]
   },
   {
     "id": "2495",
@@ -4872,8 +4872,8 @@
     "type": "bool",
     "ref": "Mos15:27",
     "question": "Abinidi told the priests of King Noah that the Lord cannot deny himself; for he cannot deny justice when it has its claim.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2497",
@@ -4904,8 +4904,8 @@
     "type": "bool",
     "ref": "Mos16:1",
     "question": "And it came to pass that Abinidi said the time shall come when all shall see the salvation of the Lord.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2501",
@@ -4936,24 +4936,24 @@
     "type": "bool",
     "ref": "Mos16:3",
     "question": "Abinidi told the priests of King Noah that men are carnal and devilish and the devil has power over them.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2505",
     "type": "bool",
     "ref": "Mos16:3",
     "question": "Abinidi said that the old serpent beguiled our first parents, which was the cause of their fall.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2506",
     "type": "bool",
     "ref": "Mos16:3",
     "question": "Abinidi mentions our first parents by name.",
-    "answer": ["false"],
-    "options": ["true", "false"]
+    "answer": ["False"],
+    "options": ["True", "False"]
   },
   {
     "id": "2507",
@@ -4976,16 +4976,16 @@
     "type": "bool",
     "ref": "Mos16:4",
     "question": "All mankind were lost, and they would have been endlessly lost were it not that God redeemed his people from their lost and fallen state.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2510",
     "type": "bool",
     "ref": "Mos16:5",
     "question": "Abinidi said that we should remember that he that persists in his own carnal nature, and goes on in the ways of sin and rebellion against God, remains in his fallen state.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2511",
@@ -5008,16 +5008,16 @@
     "type": "bool",
     "ref": "Mos16:6",
     "question": "Abinidi told the priests of King Noah that if Christ had not come into the world, speaking of things to come as though they have already come, there could have been no redemption.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2514",
     "type": "bool",
     "ref": "Mos16:7",
     "question": "And if Jesus Christ had not risen from the dead, and broke the bands of death the grave should have no victory or sting, therefore, there could have been no resurrection.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2515",
@@ -5048,8 +5048,8 @@
     "type": "bool",
     "ref": "Mos16:9",
     "question": "Jesus Christ is not only an endless light but also a life which is endless that there can be no death.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2519",
@@ -5064,8 +5064,8 @@
     "type": "bool",
     "ref": "Mos16:10",
     "question": "Abinidi tells the priests of King Noah and us that will shall be brought before the judgment bar of God to be judged.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2521",
@@ -5080,8 +5080,8 @@
     "type": "bool",
     "ref": "Mos16:11",
     "question": "If our works are good we will go to the resurrection of endless life and happiness; and if they be evil, to the resurrection of endless damnation.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2523",
@@ -5096,8 +5096,8 @@
     "type": "bool",
     "ref": "Mos16:12",
     "question": "Because the devil has subjected us to damnation; we will have gone according to our own carnal wills and desires having never called upon the Lord.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2525",
@@ -5112,8 +5112,8 @@
     "type": "bool",
     "ref": "Mos16:12",
     "question": "The Lord had his arms of mercy extended to the Nephites and they would not call upon him; and they were warned of their iniquities and yet they would not depart from them.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2527",
@@ -5128,8 +5128,8 @@
     "type": "bool",
     "ref": "Mos16:13",
     "question": "Abinidi told the priests of King Noah that they should tremble and remember that only in and through Christ can they be saved.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2529",
@@ -5144,8 +5144,8 @@
     "type": "bool",
     "ref": "Mos16:14",
     "question": "Abinidi did not tell the priests of King Noah that if they teach to the Law of Moses; also teach that it is not a shadow of those things which are to come.",
-    "answer": ["false"],
-    "options": ["true", "false"]
+    "answer": ["False"],
+    "options": ["True", "False"]
   },
   {
     "id": "2531",
@@ -5184,16 +5184,16 @@
     "type": "bool",
     "ref": "Mos17:2",
     "question": "When Alma1 first heard and believed the words of Abinidi he was in his fifty’s.",
-    "answer": ["false"],
-    "options": ["true", "false"]
+    "answer": ["False"],
+    "options": ["True", "False"]
   },
   {
     "id": "2536",
     "type": "bool",
     "ref": "Mos17:2",
     "question": "Alma1 believed the words that Abinidi spoken, for he knew of the iniquity which he had testified against them.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2537",
@@ -5216,16 +5216,16 @@
     "type": "bool",
     "ref": "Mos17:3",
     "question": "King Noah sent his servants after Alma1 that they might slay him.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2540",
     "type": "bool",
     "ref": "Mos17:4",
     "question": "Alma1 fled from the king’s servants and they could not find him.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2541",
@@ -5264,8 +5264,8 @@
     "type": "bool",
     "ref": "Mos17:8",
     "question": "The main reason Abinidi was put to death was because he said that God himself should come down in the flesh among the children of men",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2546",
@@ -5280,16 +5280,16 @@
     "type": "bool",
     "ref": "Mos17:8",
     "question": "King Noah wanted Abinidi to not recall the words he had said and said that he had spoken evil concerning him and his people.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2548",
     "type": "bool",
     "ref": "Mos17:9",
     "question": "Abinidi said that he would recall the words that he had spoken to King Noah concerning his people.",
-    "answer": ["false"],
-    "options": ["true", "false"]
+    "answer": ["False"],
+    "options": ["True", "False"]
   },
   {
     "id": "2549",
@@ -5304,24 +5304,24 @@
     "type": "bool",
     "ref": "Mos17:10",
     "question": "Abinidi said that he would suffer death rather than recall his words he had spoken to King Noah and his people.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2551",
     "type": "bool",
     "ref": "Mos17:10",
     "question": "Abinidi said that his words would stand as testimony against King Zoram.",
-    "answer": ["false"],
-    "options": ["true", "false"]
+    "answer": ["False"],
+    "options": ["True", "False"]
   },
   {
     "id": "2552",
     "type": "bool",
     "ref": "Mos17:10",
     "question": "Abinidi said that he would not recall his words and that his words would stand against a testimony to King Noah.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2553",
@@ -5336,8 +5336,8 @@
     "type": "bool",
     "ref": "Mos17:11",
     "question": "King Noah did not want to release Abinidi and he did not fear his words; because he did not fear the judgments of God and that they would come upon him.",
-    "answer": ["false"],
-    "options": ["true", "false"]
+    "answer": ["False"],
+    "options": ["True", "False"]
   },
   {
     "id": "2555",
@@ -5352,8 +5352,8 @@
     "type": "bool",
     "ref": "Mos17:12",
     "question": "King Noah was angry because of the words his priests had said concerning Abinidi, and he delivered him up that he might be slain.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2557",
@@ -5368,16 +5368,16 @@
     "type": "bool",
     "ref": "Mos17:14",
     "question": "When the flames began to scorch Abinidi, he did not say a word but suffered a horrible death.",
-    "answer": ["false"],
-    "options": ["true", "false"]
+    "answer": ["False"],
+    "options": ["True", "False"]
   },
   {
     "id": "2559",
     "type": "bool",
     "ref": "Mos17:15",
     "question": "Abinidi told the priests of King Noah: “Even as ye have done unto me, so shall it come to pass that thy seed shall cause that many shall suffer even pains of death by fire”.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2560",
@@ -5400,8 +5400,8 @@
     "type": "bool",
     "ref": "Mos17:17",
     "question": "Abinidi told the priests and the people that they shall be smitten on every hand.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2563",
@@ -5424,16 +5424,16 @@
     "type": "bool",
     "ref": "Mos17:19",
     "question": "God executes vengeance upon those that destroy his people.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2566",
     "type": "bool",
     "ref": "Mos17:19",
     "question": "The last words Abinidi spoke before he died were: “O God, receive my soul”.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2567",
@@ -5448,8 +5448,8 @@
     "type": "bool",
     "ref": "Mos17:20",
     "question": "Alma1 wrote that Abinidi was put to death because he would not deny the commandments of God, having sealed the truth of his words by his death.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2570",
@@ -5472,8 +5472,8 @@
     "type": "bool",
     "ref": "Mos18:2",
     "question": "Alma1 taught the people about the power, sufferings, and death of Jesus Christ; and his resurrection and ascension into heaven.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2573",
@@ -5488,8 +5488,8 @@
     "type": "bool",
     "ref": "Mos18:3",
     "question": "Many of the people that Alma1taught did not believe his words.",
-    "answer": ["false"],
-    "options": ["true", "false"]
+    "answer": ["False"],
+    "options": ["True", "False"]
   },
   {
     "id": "2575",
@@ -5504,8 +5504,8 @@
     "type": "bool",
     "ref": "Mos18:4",
     "question": "The waters of Mormon bordered a land that had been infested, by times or at seasons, by wild beasts.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2577",
@@ -5520,8 +5520,8 @@
     "type": "bool",
     "ref": "Mos18:5",
     "question": "And it came to pass that as many people believed Alma1’s words gathered together at the place called Mormon to hear his words.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2579",
@@ -5536,16 +5536,16 @@
     "type": "bool",
     "ref": "Mos18:8",
     "question": "The people that had gathered at the Waters of Mormon were desirous to come unto the fold of God, and to be called his people.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2581",
     "type": "bool",
     "ref": "Mos18:8",
     "question": "The people who were with Alma1 were not willing to bear one anothers' burdens, that they might be light.",
-    "answer": ["false"],
-    "options": ["true", "false"]
+    "answer": ["False"],
+    "options": ["True", "False"]
   },
   {
     "id": "2582",
@@ -5568,24 +5568,24 @@
     "type": "bool",
     "ref": "Mos18:9",
     "question": "As we stand as witnesses of God at all times and in all things, and in all places; we will be numbered with those of the first resurrection, that we may have eternal life",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2585",
     "type": "bool",
     "ref": "Mos18:10",
     "question": "Alma1 asked the people if they were willing to be baptized in the name of the Lord.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2586",
     "type": "bool",
     "ref": "Mos18:10",
     "question": "Alma1 asked to people to be baptized and to witness before him that they would enter a covenant with him, and keep his commandments.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2587",
@@ -5616,16 +5616,16 @@
     "type": "bool",
     "ref": "Mos18:14",
     "question": "Alma1 and Helam were buried in the water and baptized at the same time and arose and came forth out of the water rejoicing, being filled with the Spirit of the Lord.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2592",
     "type": "bool",
     "ref": "Mos18:16,35",
     "question": "All the people that were at the Waters of Mormon with Alma1 were baptized.",
-    "answer": ["false"],
-    "options": ["true", "false"]
+    "answer": ["False"],
+    "options": ["True", "False"]
   },
   {
     "id": "2593",
@@ -5640,8 +5640,8 @@
     "type": "bool",
     "ref": "Mos18:17",
     "question": "The people that Alma1 baptized were called the Church of God, or the Church of Christ, from that time forward.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2595",
@@ -5656,8 +5656,8 @@
     "type": "bool",
     "ref": "Mos18:18",
     "question": "The priests that Alma1 orda1ned were to teach the people concerning the things pertaining to the kingdom of God.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2597",
@@ -5672,16 +5672,16 @@
     "type": "bool",
     "ref": "Mos18:20",
     "question": "Alma1 did not command the priests to preach nothing save it were repentance and faith in the Lord, who had redeemed his people.",
-    "answer": ["false"],
-    "options": ["true", "false"]
+    "answer": ["False"],
+    "options": ["True", "False"]
   },
   {
     "id": "2599",
     "type": "bool",
     "ref": "Mos18:21",
     "question": "Alma1 did not command the people that they should get along one with the other and that they should have no contentions among them.",
-    "answer": ["false"],
-    "options": ["true", "false"]
+    "answer": ["False"],
+    "options": ["True", "False"]
   },
   {
     "id": "2600",
@@ -5704,8 +5704,8 @@
     "type": "bool",
     "ref": "Mos18:24",
     "question": "Alma1 commanded the priests whom he had orda1ned, that they should get paid by the people for their labors and support.",
-    "answer": ["false"],
-    "options": ["true", "false"]
+    "answer": ["False"],
+    "options": ["True", "False"]
   },
   {
     "id": "2603",
@@ -5720,8 +5720,8 @@
     "type": "bool",
     "ref": "Mos18:26",
     "question": "The priests were not to depend upon the people for their support; but for their labor they were to receive the grace of God.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2605",
@@ -5736,8 +5736,8 @@
     "type": "bool",
     "ref": "Mos18:27",
     "question": "Alma1 commanded the people of the church to impart of their substance, every one according to that which they had; if he had more abundantly he should impart more abundantly.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2607",
@@ -5760,16 +5760,16 @@
     "type": "bool",
     "ref": "Mos18:30",
     "question": "And it came to pass that all things that Alma1 commanded the people to do were done in the Waters or Mormon, in the forest that was near the Waters of Mormon.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2610",
     "type": "bool",
     "ref": "Mos18:30",
     "question": "“Oh! How beautiful are they to the eyes of them who come to the knowledge of their Redeemer; and how blessed are they, for they shall sing to his praise forever”.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2611",
@@ -5784,40 +5784,40 @@
     "type": "bool",
     "ref": "Mos18:33",
     "question": "King Noah said that Alma1 was stirring up the people to rebellion against him at the Waters of Mormon; therefore he sent his army to destroy them.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2613",
     "type": "bool",
     "ref": "Mos18:34",
     "question": "And it came to pass that Alma1 and the people of the Lord were apprised of the coming of the king’s army and departed into the wilderness.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2614",
     "type": "bool",
     "ref": "Mos19:1",
     "question": "And it came to pass that King Noah’s army found Alma1 and the people of the church and destroyed them.",
-    "answer": ["false"],
-    "options": ["true", "false"]
+    "answer": ["False"],
+    "options": ["True", "False"]
   },
   {
     "id": "2615",
     "type": "bool",
     "ref": "Mos19:2",
     "question": "And now behold, the forces of the King Noah were big, and there began to be a division among the people.",
-    "answer": ["false"],
-    "options": ["true", "false"]
+    "answer": ["False"],
+    "options": ["True", "False"]
   },
   {
     "id": "2616",
     "type": "bool",
     "ref": "Mos19:3",
     "question": "The lesser part of the people began to breathe out threats against the king, and there began to be a great contention among them.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2617",
@@ -5840,8 +5840,8 @@
     "type": "bool",
     "ref": "Mos19:5",
     "question": "Gideon and King Noah fought each other; and when the king saw that he was about to be overpowered by Gideon, he fled and got upon the tower which was near the temple.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2620",
@@ -5856,16 +5856,16 @@
     "type": "bool",
     "ref": "Mos19:7",
     "question": "King Noah cried out:  Gideon, spare me, for the Lamanites are upon us, and they will destroy us and they will destroy my people.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2622",
     "type": "bool",
     "ref": "Mos19:8",
     "question": "Gideon spared the life of King Noah because the king was more concerned about the people than his own life.",
-    "answer": ["false"],
-    "options": ["true", "false"]
+    "answer": ["False"],
+    "options": ["True", "False"]
   },
   {
     "id": "2623",
@@ -5880,8 +5880,8 @@
     "type": "bool",
     "ref": "Mos19:12",
     "question": "All the men that King Noah commanded to flee before the Lamanites left their wives and children.",
-    "answer": ["false"],
-    "options": ["true", "false"]
+    "answer": ["False"],
+    "options": ["True", "False"]
   },
   {
     "id": "2625",
@@ -5896,8 +5896,8 @@
     "type": "bool",
     "ref": "Mos19:14",
     "question": "The Lamanites had compassion for the daughters of the Nephites and they were charmed with the beauty of their women.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2627",
@@ -5912,16 +5912,16 @@
     "type": "bool",
     "ref": "Mos19:15",
     "question": "The Lamanites wanted the Nephites to deliver up their property and King Noah and even one half of all they possessed and to pay tribute to the king of the Lamanites from year to year.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2629",
     "type": "bool",
     "ref": "Mos19:17",
     "question": "Among those that were taken captive by the Lamanites was one of the sons of King Noah; and he desired that his father should not be destroyed.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2630",
@@ -5960,8 +5960,8 @@
     "type": "bool",
     "ref": "Mos19:26",
     "question": "Limhi was the son of King Noah that had the kingdom conferred upon him by the people.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2635",
@@ -6000,8 +6000,8 @@
     "type": "bool",
     "ref": "Mos20:8",
     "question": "The king of the Lamanites himself and his armies went to the land of Nephi to destroy the people of Limhi because of what they thought they had done.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2640",
@@ -6032,24 +6032,24 @@
     "type": "bool",
     "ref": "Mos20:11",
     "question": "Because to the things that the people of King Limhi were fighting for, they exerted themselves, and like tigers did they fought.",
-    "answer": ["false"],
-    "options": ["true", "false"]
+    "answer": ["False"],
+    "options": ["True", "False"]
   },
   {
     "id": "2644",
     "type": "bool",
     "ref": "Mos20:12",
     "question": "And it came to pass that the people of King Limhi found the king of the Lamanites among the number of their dead; yet he was not dead.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2645",
     "type": "bool",
     "ref": "Mos20:12",
     "question": "Because the flight of the people of the Lamanites was so speedy they thought that their king had died in battle, but actually he was only wounded.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2646",
@@ -6064,8 +6064,8 @@
     "type": "bool",
     "ref": "Mos20:16",
     "question": "King Limhi caused that a search among his people be made so that they could find out which persons were involved in carrying away the daughters of the Lamanites.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2648",
@@ -6096,32 +6096,32 @@
     "type": "bool",
     "ref": "Mos20:22",
     "question": "Gideon told King Limhi that is better for them to lose their lives than to be in bondage unto the Lamanites.",
-    "answer": ["false"],
-    "options": ["true", "false"]
+    "answer": ["False"],
+    "options": ["True", "False"]
   },
   {
     "id": "2652",
     "type": "bool",
     "ref": "Mos20:23",
     "question": "King Limhi told the king of the Lamanites all the things concerning his father, and the priests that had fled into the wilderness and attributed the carrying away of their daughters to them.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2653",
     "type": "bool",
     "ref": "Mos20:24",
     "question": "After King Limhi told the king of the Lamanites concerning the things about his father and his priests, he was pacified",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2654",
     "type": "bool",
     "ref": "Mos20:25",
     "question": "The king of the Lamanites did not bow down before the armies of the Lamanites and pleaded on behalf of the people of King Limhi.",
-    "answer": ["false"],
-    "options": ["true", "false"]
+    "answer": ["False"],
+    "options": ["True", "False"]
   },
   {
     "id": "2655",
@@ -6144,8 +6144,8 @@
     "type": "bool",
     "ref": "Mos21:2,3",
     "question": "After many days the Lamanites were stirred up in anger against the Nephites and they did not slay them because of the oath their king had made unto King Limhi.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2658",
@@ -6160,16 +6160,16 @@
     "type": "bool",
     "ref": "Mos21:3",
     "question": "The Lamanites began to smite the Nephites on their cheeks and do other things to them and also began to drive them as they would a dumb ass.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2660",
     "type": "bool",
     "ref": "Mos21:4",
     "question": "All kind of bad things happened to the Lamanites so that the words of the Lord might be fulfilled.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2661",
@@ -6192,8 +6192,8 @@
     "type": "bool",
     "ref": "Mos21:13",
     "question": "The Nephites did humble themselves even to the dust, subjecting themselves to the yoke of bondage, to be smitten and to be driven to and fro.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2665",
@@ -6224,16 +6224,16 @@
     "type": "bool",
     "ref": "Mos21:15",
     "question": "Even though the Lord heard the cries of the Nephities he still did not deliver them out of bondage.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2669",
     "type": "bool",
     "ref": "Mos21:17",
     "question": "During this time in Nephite history there were more men than women.",
-    "answer": ["false"],
-    "options": ["true", "false"]
+    "answer": ["False"],
+    "options": ["True", "False"]
   },
   {
     "id": "2670",
@@ -6264,16 +6264,16 @@
     "type": "bool",
     "ref": "Mos21:23",
     "question": "King Limhi and his guards did not discover Ammon and his brethren and did not supposed that they were the priests of King Noah.",
-    "answer": ["false"],
-    "options": ["true", "false"]
+    "answer": ["False"],
+    "options": ["True", "False"]
   },
   {
     "id": "2674",
     "type": "bool",
     "ref": "Mos21:23",
     "question": "King Limhi caused that Ammon and his brethren should be taken, and bound, and cast into prison.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2675",
@@ -6288,8 +6288,8 @@
     "type": "bool",
     "ref": "Mos21:24",
     "question": "King Limhi was not filled with joy when he found out that Ammon and his brethren had come from the land of Zarahemla.",
-    "answer": ["false"],
-    "options": ["true", "false"]
+    "answer": ["False"],
+    "options": ["True", "False"]
   },
   {
     "id": "2677",
@@ -6304,8 +6304,8 @@
     "type": "bool",
     "ref": "Mos21:26",
     "question": "The search party that King Limhi sent out discovered a land which had been peopled and covered with dry bones.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2679",
@@ -6360,8 +6360,8 @@
     "type": "bool",
     "ref": "Mos21:31",
     "question": "Ammon and his brethren did mourn for Alma1 and the people that fled with him because they did not know where they had gone.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2686",
@@ -6376,8 +6376,8 @@
     "type": "bool",
     "ref": "Mos21:32",
     "question": "Since the coming of Ammon, King Limhi had also entered into a covenant with God and also so many of his people, to serve him and keep his commandments.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2688",
@@ -6392,8 +6392,8 @@
     "type": "bool",
     "ref": "Mos21:33",
     "question": "Ammon decl1ned to baptized King Limhi and his people because he considered himself an unworthy servant.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2690",
@@ -6408,16 +6408,16 @@
     "type": "bool",
     "ref": "Mos22:2",
     "question": "And it came to pass that Ammon and King Limhi and his people could not find a way to deliver themselves out of bondage from the Lamanites.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2692",
     "type": "bool",
     "ref": "Mos22:3,4",
     "question": "And it came to pass that Gideon went forth and stood before King Limhi and desired to speak to him and his people that he might be his servant and deliver them form bondage.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2693",
@@ -6432,8 +6432,8 @@
     "type": "bool",
     "ref": "Mos22:9",
     "question": "And it came to pass that King Limhi would not hearken to the words of Gideon.",
-    "answer": ["false"],
-    "options": ["true", "false"]
+    "answer": ["False"],
+    "options": ["True", "False"]
   },
   {
     "id": "2695",
@@ -6464,8 +6464,8 @@
     "type": "bool",
     "ref": "Mos22:14",
     "question": "King Mosiah received King Lemhi and his people with joy; and also received their records, and also the records which had been found by King Lemhi’s search party.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2699",
@@ -6488,8 +6488,8 @@
     "type": "bool",
     "ref": "Mos23:1",
     "question": "Alma1 and his people gathered together their flocks, and took their grain, and departed into the wilderness before the armies of King Noah.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2702",
@@ -6528,8 +6528,8 @@
     "type": "bool",
     "ref": "Mos23:7",
     "question": "Alma1 told the people that it was not expedient that they should have a king.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2707",
@@ -6544,16 +6544,16 @@
     "type": "bool",
     "ref": "Mos23:8",
     "question": "Alma1 told the people: That if it was possible that they could always have just men to be there kings it would be well for them to have a king.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2709",
     "type": "bool",
     "ref": "Mos23:9",
     "question": "Alma1 reminded the people of the iniquity King Noah and his priests had caused the people to commit and that he himself was caught in a snare.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2710",
@@ -6568,16 +6568,16 @@
     "type": "bool",
     "ref": "Mos23:11",
     "question": "Alma1 gloried in being an instrument in the hands of the Lord because he said he was a worthy servant.",
-    "answer": ["false"],
-    "options": ["true", "false"]
+    "answer": ["False"],
+    "options": ["True", "False"]
   },
   {
     "id": "2712",
     "type": "bool",
     "ref": "Mos23:12",
     "question": "Alma1 reminded the people how they had been oppressed by King Noah and his priests, and had been in bondage and that they had been brought to iniquity by them.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2713",
@@ -6624,8 +6624,8 @@
     "type": "bool",
     "ref": "Mos23:17",
     "question": "And it came to pass that none received authority to preach or teach except it were given to him from God; and Alma consecrated all their priests and teachers and they were just men.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2719",
@@ -6688,16 +6688,16 @@
     "type": "bool",
     "ref": "Mos23:28",
     "question": "The people began to cry unto the Lord that he would soften the hearts of the Lamanites, that they would spare them, and their wives and children.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2727",
     "type": "bool",
     "ref": "Mos23:28",
     "question": "And it came to pass that the Lord did not hear the cries of the people because of their iniquities, and he did not soften the hearts of the Lamanites.",
-    "answer": ["false"],
-    "options": ["true", "false"]
+    "answer": ["False"],
+    "options": ["True", "False"]
   },
   {
     "id": "2728",
@@ -6712,8 +6712,8 @@
     "type": "bool",
     "ref": "Mos23:31",
     "question": "The armies of the Lamanites found those priests of King Noah in a place they called Amulon.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2730",
@@ -6744,8 +6744,8 @@
     "type": "bool",
     "ref": "Mos23:35",
     "question": "Amulon and his brethren did join the Lamanites, and they were traveling in the wilderness in search of the land of Nephi, when they discovered the land of Helam.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2734",
@@ -6768,8 +6768,8 @@
     "type": "bool",
     "ref": "Mos23:38",
     "question": "The remainder of them went to the land of Nephi; and a part of them returned to the land of Helam.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2737",
@@ -6784,16 +6784,16 @@
     "type": "bool",
     "ref": "Mos24:1",
     "question": "And it came to pass that Amulon did not gain favor with the king of the Lamanites.",
-    "answer": ["false"],
-    "options": ["true", "false"]
+    "answer": ["False"],
+    "options": ["True", "False"]
   },
   {
     "id": "2739",
     "type": "bool",
     "ref": "Mos24:2",
     "question": "Because the Lamanites had taken possession of all the lands; the king of the Lamanites had appointed kings over all the lands.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2740",
@@ -6816,8 +6816,8 @@
     "type": "bool",
     "ref": "Mos24:5",
     "question": "The Lamanites were a people who were friendly one with another; nevertheless they did know God.",
-    "answer": ["false"],
-    "options": ["true", "false"]
+    "answer": ["False"],
+    "options": ["True", "False"]
   },
   {
     "id": "2743",
@@ -6840,8 +6840,8 @@
     "type": "bool",
     "ref": "Mos24:6",
     "question": "The brethren of Amulon taught the Lamanites that they should keep their record, and that they might write one to another.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2746",
@@ -6880,16 +6880,16 @@
     "type": "bool",
     "ref": "Mos24:9",
     "question": "Amulon began to exercise authority over Alma1 and the Nephites and put tasks upon them, and put task-masters over them.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2751",
     "type": "bool",
     "ref": "Mos24:10",
     "question": "And it came to pass that so great were the afflictions of the Nephites that they began to cry mightily to God.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2752",
@@ -6920,8 +6920,8 @@
     "type": "bool",
     "ref": "Mos24:14",
     "question": "The Lord did not ease the burdens of the Nephites which were put upon their shoulders.",
-    "answer": ["false"],
-    "options": ["true", "false"]
+    "answer": ["False"],
+    "options": ["True", "False"]
   },
   {
     "id": "2756",
@@ -6936,8 +6936,8 @@
     "type": "bool",
     "ref": "Mos24:15",
     "question": "And it came to pass that the burdens which were laid upon Alma1 and his brethren were made light; and they did submit cheerfully and with patience to all the will of the Lord.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2758",
@@ -6968,8 +6968,8 @@
     "type": "bool",
     "ref": "Mos24:21,22",
     "question": "Alma1 and all those that could speak lifted their voices in the praises of their God, and gave him thanks for delivering them from bondage in the valley of Alma1.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2762",
@@ -7000,32 +7000,32 @@
     "type": "bool",
     "ref": "Mos25:2",
     "question": "The word Mulekites never appears in the Book of Mormon text.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2766",
     "type": "bool",
     "ref": "Mos25",
     "question": "The word “Mulekites” only appears in the heading of Chapter#25 and never again in the entire Book of Mormon.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2767",
     "type": "bool",
     "ref": "Mos25",
     "question": "Someone made up the name of “Mulekites” in the Book of Mormon and put it on the heading of Chapter #25.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2768",
     "type": "bool",
     "ref": "Mos25:2",
     "question": "There are no such people as Mulekites ever mentioned in the Book of Mormon.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "1773",
@@ -7040,16 +7040,16 @@
     "type": "bool",
     "ref": "Mos25:2",
     "question": "The so called “Mulekites' Were the people Zarahemla who were descendants of Mulek",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2770",
     "type": "bool",
     "ref": "Mos25:3",
     "question": "There were more Lamanites than the people of Nephi and of the people of Zarahemla put together.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2771",
@@ -7064,8 +7064,8 @@
     "type": "bool",
     "ref": "Mos25:5",
     "question": "King Mosiah read the record of King Zeniff from the time they left the land of Zarahemla until they returned again.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2773",
@@ -7080,8 +7080,8 @@
     "type": "bool",
     "ref": "Mos25:7",
     "question": "When King Mosiah had made an end of reading the records, his people who tarried in the land and struck with wonder and amazement.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2775",
@@ -7096,24 +7096,24 @@
     "type": "bool",
     "ref": "Mos25:11",
     "question": "The people of King Mosiah were filled with pain and anguish for the welfare of the souls of the Lamanites.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2777",
     "type": "bool",
     "ref": "Mos25:12",
     "question": "And it came to pass that the children of Amulon and his brethren, who had taken to wife the daughters of the Lamanites; were not displeased with the conduct of their fathers.",
-    "answer": ["false"],
-    "options": ["true", "false"]
+    "answer": ["False"],
+    "options": ["True", "False"]
   },
   {
     "id": "2778",
     "type": "bool",
     "ref": "Mos25:12",
     "question": "The children of Amulon and his brethren were so displeased with the conduct of their fathers, that they would no longer be called by the names of their fathers.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2779",
@@ -7160,8 +7160,8 @@
     "type": "bool",
     "ref": "Mos25:17",
     "question": "After Alma1 had taught the people many things and made an end to his speaking, King Limhi and all his people were desirous to be baptized.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2785",
@@ -7184,16 +7184,16 @@
     "type": "bool",
     "ref": "Mos25:20",
     "question": "One of the reasons King Mosiah granted Alma1 to ordain priest and teachers throughout the land was because there were so many people that they could not all be taught by one or more persons",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2788",
     "type": "bool",
     "ref": "Mos25:21",
     "question": "Every different priest and teacher taught what they desired in their heart.",
-    "answer": ["false"],
-    "options": ["true", "false"]
+    "answer": ["False"],
+    "options": ["True", "False"]
   },
   {
     "id": "2789",
@@ -7216,8 +7216,8 @@
     "type": "bool",
     "ref": "Mos25:24",
     "question": "The Lord did not pour out his Spirit upon those that were baptized; therefore they were not blessed and did not prosper in the land.",
-    "answer": ["false"],
-    "options": ["true", "false"]
+    "answer": ["False"],
+    "options": ["True", "False"]
   },
   {
     "id": "2792",
@@ -7240,16 +7240,16 @@
     "type": "bool",
     "ref": "Mos26:3",
     "question": "Because many of the rising generation did not believe what King Benjamin had taught, they could not understand the word of God; and their hearts were hardened.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2795",
     "type": "bool",
     "ref": "Mos26:4",
     "question": "Many of the rising generation would not be baptized; neither would they join the church of God and they were a separate people as to their faith, and rema1ned so ever after.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2796",
@@ -7280,16 +7280,16 @@
     "type": "bool",
     "ref": "Mos26:6",
     "question": "It became expedient that those that those who committed sin, that were in the church, should be admonished by the church.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2800",
     "type": "bool",
     "ref": "Mos26:9",
     "question": "And it came to pass that Alma1 did not know what to do because there were many witnesses against the sinners, and people stood and testified of their iniquity in abundance.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2801",
@@ -7304,8 +7304,8 @@
     "type": "bool",
     "ref": "Mos26:12",
     "question": "King Mosiah said unto Alma1:  “Behold, I judge them not; therefore I deliver them into thy hands to be judged”.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2803",
@@ -7328,8 +7328,8 @@
     "type": "bool",
     "ref": "Mos26:17,18",
     "question": "The Lord also blessed Alma1 because he had established a church; and because some of the people were willing to bear his name.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2806",
@@ -7364,8 +7364,8 @@
     "type": "bool",
     "ref": "Mos26:22",
     "question": "The Lord told Alma1 that it was Alma1’s church and that he would forgive them freely if they took upon themselves his name.",
-    "answer": ["false"],
-    "options": ["true", "false"]
+    "answer": ["False"],
+    "options": ["True", "False"]
   },
   {
     "id": "2810",
@@ -7388,16 +7388,16 @@
     "type": "bool",
     "ref": "Mos26:26",
     "question": "When the second trumpet shall make its sound those that did not believe in the Lord their God shall know that he is their Redeemer; but they would not be redeemed.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2813",
     "type": "bool",
     "ref": "Mos26:27",
     "question": "After the second trumpet shall sound, the Lord will confess to those that came forward and did not believe in the Lord as their Redeemer that he never knew them; and they shall depart into an everlasting fire.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2814",
@@ -7412,8 +7412,8 @@
     "type": "bool",
     "ref": "Mos26:28",
     "question": "The Lord told Alma1 that he that will not hear his voice, the same shall he not receive into his church, and that he would not receive them at the last day.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2816",
@@ -7436,8 +7436,8 @@
     "type": "bool",
     "ref": "Mos26:32",
     "question": "Those of us that will not repent of our sins, the same shall not be numbered among the Lord’s people.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2819",
@@ -7468,8 +7468,8 @@
     "type": "bool",
     "ref": "Mos26:38",
     "question": "Alma1 and his fellow laborers did walk in all diligence, teaching the word of God in all things, suffering all matter of afflictions, being persecuted by all those that were not of the church.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2823",
@@ -7492,8 +7492,8 @@
     "type": "bool",
     "ref": "Mos27:1",
     "question": "The persecutions which were inflicted on the church by the unbelievers became so great that the church began to murmur.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2826",
@@ -7516,24 +7516,24 @@
     "type": "bool",
     "ref": "Mos27:4",
     "question": "It was not a commandment that there should be no pride or any haught1ness to disturb the peace of the people; that every man should esteem his neighbor as himself.",
-    "answer": ["false"],
-    "options": ["true", "false"]
+    "answer": ["False"],
+    "options": ["True", "False"]
   },
   {
     "id": "2829",
     "type": "bool",
     "ref": "Mos27:5",
     "question": "Everyone was to labor with their own hands for their support; even all the priests and teachers, and doing these things, they did have the grace of God in abundance.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2831",
     "type": "bool",
     "ref": "Mos27:8",
     "question": "The sons of King Mosiah were numbered among the unbelievers.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2832",
@@ -7548,8 +7548,8 @@
     "type": "bool",
     "ref": "Mos27:8",
     "question": "Alma the Younger was a very wicked and idolatrous man; and he was a man of many words and began to speak flattering words to the people.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2834",
@@ -7580,8 +7580,8 @@
     "type": "bool",
     "ref": "Mos27:10",
     "question": "Alma the Younger and the sons of King Mosiah went about secretly seeking to destroy the church of God, and to lead astray the people of the Lord.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2838",
@@ -7596,8 +7596,8 @@
     "type": "bool",
     "ref": "Mos27:11",
     "question": "The angel of the Lord spoke as it were a voice of thunder, which caused the earth to shake upon which Alma the Younger and the sons of King Mosiah stood.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2840",
@@ -7612,8 +7612,8 @@
     "type": "bool",
     "ref": "Mos27:13",
     "question": "The Angel asked Alma the Younger why he persecuted the church of God.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2842",
@@ -7628,8 +7628,8 @@
     "type": "bool",
     "ref": "Mos27:14",
     "question": "The Angel of the Lord came to convince Alma the Younger of the power and authority of God.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2844",
@@ -7652,8 +7652,8 @@
     "type": "bool",
     "ref": "Mos27:16",
     "question": "The Angel of the Lord told Alma the Younger to go his way and to not seek to destroy the church of God no more.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2847",
@@ -7684,16 +7684,16 @@
     "type": "bool",
     "ref": "Mos27:20",
     "question": "When the sons of King Mosiah rehearsed to Alma the Elder what had happened to them, he wasn’t happy.",
-    "answer": ["false"],
-    "options": ["true", "false"]
+    "answer": ["False"],
+    "options": ["True", "False"]
   },
   {
     "id": "2851",
     "type": "bool",
     "ref": "Mos27:20",
     "question": "Alma the Elder knew that it was the power to God that could only have stuck Alma the Younger dumb, therefore, he rejoiced.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2852",
@@ -7744,16 +7744,16 @@
     "type": "bool",
     "ref": "Mos27:23",
     "question": "When Alma the Younger rega1ned his strength he began to speak to the priests and bid them to be of good comfort.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2858",
     "type": "bool",
     "ref": "Mos27:24",
     "question": "Alma the Younger also told the priests that he had repented of his sins, and had been redeemed by the Lord and that he was born of the Spirit.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2859",
@@ -7776,8 +7776,8 @@
     "type": "bool",
     "ref": "Mos27:26",
     "question": "Unless we are changed and become new people we can not inherit the kingdom of God.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2862",
@@ -7800,16 +7800,16 @@
     "type": "bool",
     "ref": "Mos27:30",
     "question": "Alma the Younger said that he had rejected his Redeemer but that now he knew that he would come and that he remembers every creature that he has created.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2865",
     "type": "bool",
     "ref": "Mos27:30",
     "question": "According to Alma the Younger; only the righteous shall the Lord manifest himself to them.",
-    "answer": ["false"],
-    "options": ["true", "false"]
+    "answer": ["False"],
+    "options": ["True", "False"]
   },
   {
     "id": "2866",
@@ -7824,8 +7824,8 @@
     "type": "bool",
     "ref": "Mos27:31",
     "question": "Those that lived in the world without God in their lives; shall confess that the judgment of an everlasting punishment is just upon them.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2868",
@@ -7840,16 +7840,16 @@
     "type": "bool",
     "ref": "Mos27:32",
     "question": "And it came to pass that from this time forward Alma the Younger and the Sons of King Mosiah began to preach the word of God in much tribulation.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2870",
     "type": "bool",
     "ref": "Mos27:32",
     "question": "Alma the Younger and the Sons of King Mosiah did not suffer much tribulation or persecution from the unbelievers, and were smitten by many of them.",
-    "answer": ["false"],
-    "options": ["true", "false"]
+    "answer": ["False"],
+    "options": ["True", "False"]
   },
   {
     "id": "2871",
@@ -7912,8 +7912,8 @@
     "type": "bool",
     "ref": "Mos28:2",
     "question": "The Sons of King Mosiah did not want to bring the Lamanites to the knowledge of the Lord their God.",
-    "answer": ["false"],
-    "options": ["true", "false"]
+    "answer": ["False"],
+    "options": ["True", "False"]
   },
   {
     "id": "2879",
@@ -7928,8 +7928,8 @@
     "type": "bool",
     "ref": "Mos28:2",
     "question": "The Sons of King Mosiah also wanted to convince the Lamanites to become friendly to one another, and that there should be no more contentions in all the land the Lord had given them.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2881",
@@ -7952,8 +7952,8 @@
     "type": "bool",
     "ref": "Mos28:4",
     "question": "The Spirit of the Lord did work upon the Sons of King Mosiah because they were the vilest of sinners.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2884",
@@ -7984,16 +7984,16 @@
     "type": "bool",
     "ref": "Mos28:7",
     "question": "The Lord told King Mosiah not to let his sons go to the land of Nephi to preach his word among the Lamanites.",
-    "answer": ["false"],
-    "options": ["true", "false"]
+    "answer": ["False"],
+    "options": ["True", "False"]
   },
   {
     "id": "2888",
     "type": "bool",
     "ref": "Mos28:7",
     "question": "The Lord told King Mosiah that many of the Lamanites would believe the words of his sons and that they shall have eternal life.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2889",
@@ -8008,8 +8008,8 @@
     "type": "bool",
     "ref": "Mos28:8,9",
     "question": "Because King Mosiah was worried for the welfare of his sons, he did not let them go up to the land of Nephi to preach the word of the Lord.",
-    "answer": ["false"],
-    "options": ["true", "false"]
+    "answer": ["False"],
+    "options": ["True", "False"]
   },
   {
     "id": "2891",
@@ -8048,8 +8048,8 @@
     "type": "bool",
     "ref": "Mos28:12",
     "question": "The people of King Mosiah had great anxiety because they were desirous beyond measure to know concerning those people that had been destroyed.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2896",
@@ -8072,8 +8072,8 @@
     "type": "bool",
     "ref": "Mos28:15",
     "question": "The two stones and two rims were prepared by the Lord that he should discover to every creature who should possess the land of the iniquities and abominations of his people.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2899",
@@ -8088,8 +8088,8 @@
     "type": "bool",
     "ref": "Mos28:17",
     "question": "King Mosiah gave his people an account of the people that had been destroyed after he had finished translating the gold plates.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2901",
@@ -8112,8 +8112,8 @@
     "type": "bool",
     "ref": "Mos28:19",
     "question": "Mormon tells us in the Book of Mosiah; that it is expedient that all people should know the things which are written in the account of the gold plates.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2904",
@@ -8136,16 +8136,16 @@
     "type": "bool",
     "ref": "Mos28:20",
     "question": "King Mosiah also conferred all the records, and also the interpreters to Alma the Younger and commanded him that he should keep and preserve them.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2907",
     "type": "bool",
     "ref": "Mos28:20",
     "question": "King Mosiahdid not command Alma the Younger to keep a record of the people.",
-    "answer": ["false"],
-    "options": ["true", "false"]
+    "answer": ["False"],
+    "options": ["True", "False"]
   },
   {
     "id": "2908",
@@ -8168,8 +8168,8 @@
     "type": "bool",
     "ref": "Mos29:3",
     "question": "Aaron did not want to take upon him the kingdom; neither were any of the Sons of Mosiah willing to take upon them the kingdom.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2911",
@@ -8184,8 +8184,8 @@
     "type": "bool",
     "ref": "Mos29:7",
     "question": "King Mosiah also feared that contentions among his people would cause wars and the shedding of much blood and pervert the ways of the Lord.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2913",
@@ -8200,8 +8200,8 @@
     "type": "bool",
     "ref": "Mos29:11",
     "question": "King Mosiah said that they should appoint judges that will judge the people according to his commandments.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2915",
@@ -8224,8 +8224,8 @@
     "type": "bool",
     "ref": "Mos29:12",
     "question": "King Mosiah said that the judgments of men are not always just, like that of the Lord’s.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2918",
@@ -8272,16 +8272,16 @@
     "type": "bool",
     "ref": "Mos29:17",
     "question": "King Mosiah told the people:”For behold; how much iniquity does one wicked king cause to be committed, and what great destruction!",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2924",
     "type": "bool",
     "ref": "Mos29:18",
     "question": "King Mosiah told the people to remember the iniquities that King Noah had done; and because of his iniquities they were brought into bondage.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2925",
@@ -8344,8 +8344,8 @@
     "type": "bool",
     "ref": "Mos29:23",
     "question": "King Mosiah said that an iniquitous king sends laws among them after the manner of his wickedness.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2933",
@@ -8368,8 +8368,8 @@
     "type": "bool",
     "ref": "Mos29:26",
     "question": "King Mosiah told the people that it is common for the lesser part of the people to desire that which is not right.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2936",
@@ -8392,8 +8392,8 @@
     "type": "bool",
     "ref": "Mos29:29",
     "question": "King Mosiah said that if the higher judges do not judge righteous judgments; they should cause that a small number of the lower judges gather together and judge them.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2939",
@@ -8416,8 +8416,8 @@
     "type": "bool",
     "ref": "Mos29:32",
     "question": "King Mosiah desired that the people be equal in the land; especially among his people.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2942",
@@ -8432,8 +8432,8 @@
     "type": "bool",
     "ref": "Mos29:34",
     "question": "King Mosiah told the people many more things which ought not to be; but that the burden should come upon all the people, that every man might bear his part.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2944",
@@ -8448,8 +8448,8 @@
     "type": "bool",
     "ref": "Mos29:38",
     "question": "Because of the things that King Mosiah said concerning unrighteous kings; the people relinquished their desires for a king.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2946",
@@ -8472,16 +8472,16 @@
     "type": "bool",
     "ref": "Mos29:40",
     "question": "The people did not wax strong in the love towards King Mosiah; and they did not esteem him more over any other man.",
-    "answer": ["false"],
-    "options": ["true", "false"]
+    "answer": ["False"],
+    "options": ["True", "False"]
   },
   {
     "id": "2949",
     "type": "bool",
     "ref": "Mos29:40",
     "question": "King Mosiah did not delight in the shedding of blood and had established peace throughout the land.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2950",
@@ -8512,8 +8512,8 @@
     "type": "bool",
     "ref": "Mos29:42",
     "question": "Alma the Younger was also a high priest because Alma the Elder had conferred that office upon him.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2954",
@@ -8528,8 +8528,8 @@
     "type": "bool",
     "ref": "Mos29:43",
     "question": "And it came to pass that Alma the Younger did walk in the ways of the Lord, and he did keep his commandments, and did judge righteous judgments.",
-    "answer": ["true"],
-    "options": ["true", "false"]
+    "answer": ["True"],
+    "options": ["True", "False"]
   },
   {
     "id": "2956",
@@ -8576,8 +8576,8 @@
     "type": "bool",
     "ref": "Mos29:47",
     "question": "King Mosiah left his son Orihah to reign after him",
-    "answer": ["false"],
-    "options": ["true", "false"]
+    "answer": ["False"],
+    "options": ["True", "False"]
   },
   {
     "id": "2962",

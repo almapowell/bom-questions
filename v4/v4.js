@@ -20,7 +20,7 @@ let formatter = (question, index) => {
       ref: question.ref,
       question: question.question,
       answer: question.answer,
-      options: ["true", "false"],
+      options: ["True", "False"],
     };
   } else if (question.type === "fill") {
     return {
